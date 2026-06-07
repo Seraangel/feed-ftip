@@ -3,6 +3,7 @@ from __future__ import annotations
 import sqlite3
 import tempfile
 import unittest
+from pathlib import Path
 from xml.etree import ElementTree as ET
 
 from scripts.update_feed import (
