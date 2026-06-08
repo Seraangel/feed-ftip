@@ -158,7 +158,7 @@ def fetch_daily_html(timeout: int) -> str:
         timeout=timeout,
     )
     response.raise_for_status()
-    return response.text
+    return response.content.decode("utf-8")
 
 
 def extract_articles(document: str) -> list[Article]:

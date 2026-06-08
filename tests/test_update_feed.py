@@ -29,6 +29,11 @@ SAMPLE_HTML = """
     <p>Die zweite Zusammenfassung fuer den Feed.</p>
     <span>06.06.2026</span>
   </article>
+  <article class="daily-card">
+    <h3><a href="/daily/umlaut/">So \u00fcberzeugst Du ETF-Skeptiker</a></h3>
+    <p>F\u00fcr Unterst\u00fctzer und K\u00e4ufer sauber lesbar.</p>
+    <span>05.06.2026</span>
+  </article>
 </main>
 """
 
@@ -40,15 +45,17 @@ class UpdateFeedTests(unittest.TestCase):
         self.assertEqual([article.url for article in articles], [
             "https://www.finanztip.de/daily/foo/",
             "https://www.finanztip.de/daily/bar/",
+            "https://www.finanztip.de/daily/umlaut/",
         ])
         self.assertEqual(articles[0].title, "Foo kostet weniger")
         self.assertEqual(articles[0].published_at, "2026-06-07T00:00:00+00:00")
+        self.assertEqual(articles[2].title, "So \u00fcberzeugst Du ETF-Skeptiker")
 
     def test_upsert_is_stable_when_content_is_unchanged(self) -> None:
         articles = extract_articles(SAMPLE_HTML)
         with sqlite3.connect(":memory:") as connection:
             ensure_schema(connection)
-            self.assertEqual(upsert_articles(connection, articles, "2026-06-08T10:00:00+00:00"), 2)
+            self.assertEqual(upsert_articles(connection, articles, "2026-06-08T10:00:00+00:00"), 3)
             self.assertEqual(upsert_articles(connection, articles, "2026-06-08T10:15:00+00:00"), 0)
 
     def test_build_rss_limits_to_loaded_items(self) -> None:
