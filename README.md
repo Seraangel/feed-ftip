@@ -4,7 +4,8 @@ This project turns the Finanztip Daily overview page into a static RSS feed.
 
 The GitHub Action fetches `https://www.finanztip.de/daily/` every 5 minutes,
 stores discovered articles in SQLite, generates `public/rss.xml` from the 50
-newest articles, and publishes the result through GitHub Pages.
+newest articles, and publishes the result through GitHub Pages when the feed
+data changed.
 
 ## Local usage
 
