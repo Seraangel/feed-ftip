@@ -2,7 +2,7 @@
 
 This project turns the Finanztip Daily overview page into a static RSS feed.
 
-The GitHub Action fetches `https://www.finanztip.de/daily/` every 15 minutes,
+The GitHub Action fetches `https://www.finanztip.de/daily/` every 5 minutes,
 stores discovered articles in SQLite, generates `public/rss.xml` from the 50
 newest articles, and publishes the result through GitHub Pages.
 
@@ -34,11 +34,11 @@ https://<user-or-org>.github.io/<repo>/rss.xml
 The workflow uses this cron expression:
 
 ```text
-7,22,37,52 * * * *
+*/5 * * * *
 ```
 
 Scheduled GitHub Actions run in UTC and can be delayed during high load. The
-offset minutes avoid the top of the hour, where delays are more common.
+short interval helps compensate for occasional scheduling or deployment delays.
 
 ## Stored data
 
