@@ -321,7 +321,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--db", type=Path, default=Path("data/articles.sqlite"))
     parser.add_argument("--out", type=Path, default=Path("public/rss.xml"))
-    parser.add_argument("--limit", type=int, default=50)
+    parser.add_argument("--limit", type=int, default=100)
     parser.add_argument("--timeout", type=int, default=30)
     return parser.parse_args()
 

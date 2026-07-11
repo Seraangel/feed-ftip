@@ -3,7 +3,7 @@
 This project turns the Finanztip Daily overview page into a static RSS feed.
 
 The GitHub Action fetches `https://www.finanztip.de/daily/` every 5 minutes,
-stores discovered articles in SQLite, generates `public/rss.xml` from the 50
+stores discovered articles in SQLite, generates `public/rss.xml` from up to 100
 newest articles, and publishes the result through GitHub Pages when the feed
 data changed.
 
@@ -12,7 +12,7 @@ data changed.
 ```powershell
 python -m pip install -r requirements.txt
 python -m unittest discover -s tests -p "test_*.py"
-python scripts/update_feed.py --db data/articles.sqlite --out public/rss.xml --limit 50
+python scripts/update_feed.py --db data/articles.sqlite --out public/rss.xml --limit 100
 ```
 
 The scraper uses this User-Agent:
@@ -29,6 +29,12 @@ After the workflow has run successfully, the feed is available at:
 ```text
 https://<user-or-org>.github.io/<repo>/rss.xml
 ```
+
+The feed contains up to 100 of the newest stored articles. GitHub Pages is a
+static host, so query parameters cannot change the generated XML: for example,
+`rss.xml?size=500` returns the same file as `rss.xml`. A dynamic `size` parameter
+(with a maximum of 1000) requires a server-side endpoint, such as a Cloudflare
+Worker, Vercel Function, or GitHub Actions-generated static feed variants.
 
 ## Scheduling
 
