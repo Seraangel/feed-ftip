@@ -21,6 +21,8 @@ from bs4 import BeautifulSoup, Tag
 
 SOURCE_URL = "https://www.finanztip.de/daily/"
 SOURCE_HOST = "www.finanztip.de"
+RSS_URL = "https://seraangel.github.io/feed-ftip/rss.xml"
+ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0"
 
 GERMAN_MONTHS = {
@@ -138,6 +140,8 @@ def extract_published_at(container: Tag) -> str | None:
             if raw_datetime:
                 try:
                     parsed = datetime.fromisoformat(raw_datetime.replace("Z", "+00:00"))
+                    if parsed.tzinfo is None:
+                        parsed = parsed.replace(tzinfo=timezone.utc)
                     return parsed.astimezone(timezone.utc).isoformat()
                 except ValueError:
                     pass
@@ -268,10 +272,16 @@ def add_text(parent: ET.Element, name: str, text: str) -> ET.Element:
 
 
 def build_rss(items: list[sqlite3.Row]) -> bytes:
+    ET.register_namespace("atom", ATOM_NAMESPACE)
     rss = ET.Element("rss", {"version": "2.0"})
     channel = ET.SubElement(rss, "channel")
     add_text(channel, "title", "Finanztip Daily")
     add_text(channel, "link", SOURCE_URL)
+    ET.SubElement(
+        channel,
+        f"{{{ATOM_NAMESPACE}}}link",
+        {"href": RSS_URL, "rel": "self", "type": "application/rss+xml"},
+    )
     add_text(channel, "description", "Aktuelle Daily-Artikel von Finanztip.")
     add_text(channel, "language", "de-DE")
 

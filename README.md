@@ -2,7 +2,8 @@
 
 This project turns the Finanztip Daily overview page into a static RSS feed.
 
-The GitHub Action fetches `https://www.finanztip.de/daily/` every 5 minutes,
+The GitHub Action fetches `https://www.finanztip.de/daily/` when triggered by
+the Cloudflare scheduler,
 stores discovered articles in SQLite, generates `public/rss.xml` from up to 100
 newest articles, and publishes the result through GitHub Pages when the feed
 data changed.
@@ -38,14 +39,28 @@ Worker, Vercel Function, or GitHub Actions-generated static feed variants.
 
 ## Scheduling
 
-The workflow uses this cron expression:
+The internal GitHub `schedule` trigger is not used because GitHub can delay or
+drop scheduled runs during high load. A free Cloudflare Worker in
+[`cloudflare-scheduler`](cloudflare-scheduler) instead triggers the workflow
+with GitHub `repository_dispatch`.
+
+Cloudflare invokes the Worker every five minutes (UTC). The Worker then applies
+this daylight-saving-safe schedule in `Europe/Berlin`:
 
 ```text
-*/5 * * * *
+06:00-22:55  every five minutes
+23:00-05:59  once per hour, on the hour
 ```
 
-Scheduled GitHub Actions run in UTC and can be delayed during high load. The
-short interval helps compensate for occasional scheduling or deployment delays.
+One-time setup instructions are in
+[`cloudflare-scheduler/README.md`](cloudflare-scheduler/README.md). The Python
+updater, SQLite database, and GitHub Pages deployment stay unchanged.
+
+## Monthly tags
+
+On the first successful update of each month, the workflow creates an annotated
+tag named `YYYY.MM`, for example `2026.08`. The tag points to the current
+`main` state and uses the `Europe/Berlin` time zone.
 
 ## Stored data
 

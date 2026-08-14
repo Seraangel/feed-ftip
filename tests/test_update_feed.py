@@ -7,6 +7,8 @@ from pathlib import Path
 from xml.etree import ElementTree as ET
 
 from scripts.update_feed import (
+    ATOM_NAMESPACE,
+    RSS_URL,
     build_rss,
     ensure_schema,
     extract_articles,
@@ -70,6 +72,13 @@ class UpdateFeedTests(unittest.TestCase):
         self.assertIsNotNone(channel)
         self.assertEqual(len(channel.findall("item")), 1)
         self.assertEqual(channel.findtext("title"), "Finanztip Daily")
+        self_link = channel.find(f"{{{ATOM_NAMESPACE}}}link")
+        self.assertIsNotNone(self_link)
+        self.assertEqual(self_link.attrib, {
+            "href": RSS_URL,
+            "rel": "self",
+            "type": "application/rss+xml",
+        })
 
     def test_write_paths_can_be_created_in_temp_dir(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
