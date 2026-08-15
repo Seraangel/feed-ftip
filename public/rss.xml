@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 14 Aug 2026 18:06:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 04:05:20 GMT</lastBuildDate>
+    <item>
+      <title>Achtung in der Schweiz und rundherum: Surfen und telefonieren kann teuer werden</title>
+      <link>https://www.finanztip.de/daily/schweiz-surfen-und-telefonieren-kann-teuer-werden/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/schweiz-surfen-und-telefonieren-kann-teuer-werden/</guid>
+      <pubDate>Sat, 15 Aug 2026 04:05:20 GMT</pubDate>
+    </item>
     <item>
       <title>Amazon verkürzt Rückgabefrist: Bei diesen Produkten hast Du nur noch 14 Tage</title>
       <link>https://www.finanztip.de/daily/amazon-verkuerzt-rueckgabefrist-bei-diesen-produkten-hast-du-nur-noch-14-tage/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/4-teure-geldfehler-die-du-vermeiden-solltest/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/4-teure-geldfehler-die-du-vermeiden-solltest/</guid>
       <pubDate>Mon, 13 Jul 2026 10:47:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vorsicht bei Ausweiskopie: So schützt Du Deine Daten vor Missbrauch</title>
-      <link>https://www.finanztip.de/daily/vorsicht-bei-ausweiskopie-so-schuetzt-du-deine-daten-vor-missbrauch/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/vorsicht-bei-ausweiskopie-so-schuetzt-du-deine-daten-vor-missbrauch/</guid>
-      <pubDate>Mon, 13 Jul 2026 04:45:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
