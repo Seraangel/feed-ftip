@@ -14,7 +14,9 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: false
+  # A Pages incident must not build up a queue of five-minute ticks.
+  # Keep only the newest run; a later tick will retry any unfinished deployment.
+  cancel-in-progress: true
 
 jobs:
   update-feed:
@@ -53,21 +55,33 @@ jobs:
 
       - name: Configure Pages
         if: steps.feed-changes.outputs.changed == 'true'
+        id: configure-pages
+        # Temporary GitHub 429/5xx errors are retried by the next Cloudflare tick.
+        continue-on-error: true
         uses: actions/configure-pages@v6
 
       - name: Upload Pages artifact
-        if: steps.feed-changes.outputs.changed == 'true'
+        if: steps.feed-changes.outputs.changed == 'true' && steps.configure-pages.outcome == 'success'
+        id: upload-pages-artifact
+        continue-on-error: true
         uses: actions/upload-pages-artifact@v5
         with:
           path: public
 
       - name: Deploy to GitHub Pages
-        if: steps.feed-changes.outputs.changed == 'true'
+        if: steps.feed-changes.outputs.changed == 'true' && steps.configure-pages.outcome == 'success' && steps.upload-pages-artifact.outcome == 'success'
         id: deployment
+        # Do not commit generated data unless the deployment actually completed.
+        continue-on-error: true
         uses: actions/deploy-pages@v5
 
+      - name: Note deferred Pages deployment
+        if: steps.feed-changes.outputs.changed == 'true' && (steps.configure-pages.outcome == 'failure' || steps.upload-pages-artifact.outcome == 'failure' || steps.deployment.outcome == 'failure')
+        run: |
+          echo "::warning::GitHub Pages is temporarily unavailable. This tick will be retried automatically."
+
       - name: Commit feed data
-        if: steps.feed-changes.outputs.changed == 'true'
+        if: steps.feed-changes.outputs.changed == 'true' && steps.configure-pages.outcome == 'success' && steps.upload-pages-artifact.outcome == 'success' && steps.deployment.outcome == 'success'
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Update Finanztip Daily RSS"
