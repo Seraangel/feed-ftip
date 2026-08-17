@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 17 Aug 2026 10:20:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 16:25:17 GMT</lastBuildDate>
+    <item>
+      <title>Kein KfW-Zuschuss mehr: So klappt der barrierefreie Umbau trotzdem</title>
+      <link>https://www.finanztip.de/daily/kein-kfw-zuschuss-mehr-so-klappt-der-barrierefreie-umbau-trotzdem/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/kein-kfw-zuschuss-mehr-so-klappt-der-barrierefreie-umbau-trotzdem/</guid>
+      <pubDate>Mon, 17 Aug 2026 16:25:17 GMT</pubDate>
+    </item>
     <item>
       <title>Neue Euro-Scheine werden sicherer – so erkennst Du Falschgeld schon jetzt</title>
       <link>https://www.finanztip.de/daily/neue-euro-scheine-werden-sicherer-so-erkennst-du-falschgeld-schon-jetzt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/diesen-1240-eur-teuren-fehler-machen-fast-12-mio-menschen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/diesen-1240-eur-teuren-fehler-machen-fast-12-mio-menschen/</guid>
       <pubDate>Tue, 14 Jul 2026 15:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heimliche GKV-Erhöhung: So teuer kann es werden</title>
-      <link>https://www.finanztip.de/daily/keine-info-mehr-ueber-gkv-erhoehung-so-teuer-kann-es-werden/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/keine-info-mehr-ueber-gkv-erhoehung-so-teuer-kann-es-werden/</guid>
-      <pubDate>Tue, 14 Jul 2026 11:00:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
