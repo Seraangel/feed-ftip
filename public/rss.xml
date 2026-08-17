@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 17 Aug 2026 04:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:20:24 GMT</lastBuildDate>
+    <item>
+      <title>Neue Euro-Scheine werden sicherer – so erkennst Du Falschgeld schon jetzt</title>
+      <link>https://www.finanztip.de/daily/neue-euro-scheine-werden-sicherer-so-erkennst-du-falschgeld-schon-jetzt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/neue-euro-scheine-werden-sicherer-so-erkennst-du-falschgeld-schon-jetzt/</guid>
+      <pubDate>Mon, 17 Aug 2026 10:20:24 GMT</pubDate>
+    </item>
     <item>
       <title>Flug verspätet? Wann Du Geld zurück bekommst</title>
       <link>https://www.finanztip.de/daily/flug-verspaetet-wann-du-geld-zurueck-bekommst/</link>
@@ -599,12 +605,6 @@
       <title>Heimliche GKV-Erhöhung: So teuer kann es werden</title>
       <link>https://www.finanztip.de/daily/keine-info-mehr-ueber-gkv-erhoehung-so-teuer-kann-es-werden/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/keine-info-mehr-ueber-gkv-erhoehung-so-teuer-kann-es-werden/</guid>
-      <pubDate>Tue, 14 Jul 2026 11:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 Geldfresser im Alltag: Wohin Dein Geld oft verschwindet</title>
-      <link>https://www.finanztip.de/daily/wohin-verschwindet-dein-geld-jeden-monat/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/wohin-verschwindet-dein-geld-jeden-monat/</guid>
       <pubDate>Tue, 14 Jul 2026 11:00:20 GMT</pubDate>
     </item>
   </channel>
