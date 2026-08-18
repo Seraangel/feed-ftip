@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 18 Aug 2026 04:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 10:55:15 GMT</lastBuildDate>
+    <item>
+      <title>Wie günstiges Geld aus Japan die Börsen bewegt</title>
+      <link>https://www.finanztip.de/daily/wie-guenstiges-geld-aus-japan-die-boersen-bewegt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/wie-guenstiges-geld-aus-japan-die-boersen-bewegt/</guid>
+      <pubDate>Tue, 18 Aug 2026 10:55:15 GMT</pubDate>
+    </item>
     <item>
       <title>Was ist dran? 6 Börsenweisheiten im Finanztip-Check</title>
       <link>https://www.finanztip.de/daily/was-ist-dran-6-boersenweisheiten-im-finanztip-check/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/pflegereform-1572-euro-weniger-fuer-menschen-mit-pflegegrad-1/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/pflegereform-1572-euro-weniger-fuer-menschen-mit-pflegegrad-1/</guid>
       <pubDate>Wed, 15 Jul 2026 05:43:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deutsche Bahn und Hitze: Nur noch bis morgen kostenlos stornieren</title>
-      <link>https://www.finanztip.de/daily/deutsche-bahn-und-hitze-nur-noch-bis-morgen-kostenlos-stornieren/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/deutsche-bahn-und-hitze-nur-noch-bis-morgen-kostenlos-stornieren/</guid>
-      <pubDate>Tue, 14 Jul 2026 16:53:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
