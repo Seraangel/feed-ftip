@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 18 Aug 2026 01:00:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 04:05:23 GMT</lastBuildDate>
+    <item>
+      <title>Was ist dran? 6 Börsenweisheiten im Finanztip-Check</title>
+      <link>https://www.finanztip.de/daily/was-ist-dran-6-boersenweisheiten-im-finanztip-check/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/was-ist-dran-6-boersenweisheiten-im-finanztip-check/</guid>
+      <pubDate>Tue, 18 Aug 2026 04:05:23 GMT</pubDate>
+    </item>
     <item>
       <title>Kein KfW-Zuschuss mehr: So klappt der barrierefreie Umbau</title>
       <link>https://www.finanztip.de/daily/kein-kfw-zuschuss-mehr-so-klappt-der-barrierefreie-umbau-trotzdem/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/deutsche-bahn-und-hitze-nur-noch-bis-morgen-kostenlos-stornieren/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/deutsche-bahn-und-hitze-nur-noch-bis-morgen-kostenlos-stornieren/</guid>
       <pubDate>Tue, 14 Jul 2026 16:53:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Diesen 1.240 € teuren Fehler machen fast 12 Mio. Menschen</title>
-      <link>https://www.finanztip.de/daily/diesen-1240-eur-teuren-fehler-machen-fast-12-mio-menschen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/diesen-1240-eur-teuren-fehler-machen-fast-12-mio-menschen/</guid>
-      <pubDate>Tue, 14 Jul 2026 15:46:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
