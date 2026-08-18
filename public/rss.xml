@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 18 Aug 2026 10:55:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:05:22 GMT</lastBuildDate>
+    <item>
+      <title>Tagesgeld-Rekord: 4,25 % p. a. – aber mit zwei Haken</title>
+      <link>https://www.finanztip.de/daily/tagesgeld-rekord-425-p-a-aber-mit-zwei-haken/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/tagesgeld-rekord-425-p-a-aber-mit-zwei-haken/</guid>
+      <pubDate>Tue, 18 Aug 2026 16:05:22 GMT</pubDate>
+    </item>
     <item>
       <title>Wie günstiges Geld aus Japan die Börsen bewegt</title>
       <link>https://www.finanztip.de/daily/wie-guenstiges-geld-aus-japan-die-boersen-bewegt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/diese-lebensversicherung-kann-sinnvoll-sein-diese-nicht/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/diese-lebensversicherung-kann-sinnvoll-sein-diese-nicht/</guid>
       <pubDate>Wed, 15 Jul 2026 11:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pflegereform: 1.572 € weniger für Menschen mit Pflegegrad 1?</title>
-      <link>https://www.finanztip.de/daily/pflegereform-1572-euro-weniger-fuer-menschen-mit-pflegegrad-1/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/pflegereform-1572-euro-weniger-fuer-menschen-mit-pflegegrad-1/</guid>
-      <pubDate>Wed, 15 Jul 2026 05:43:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
