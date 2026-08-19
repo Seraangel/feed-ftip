@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 18 Aug 2026 16:05:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:50:17 GMT</lastBuildDate>
+    <item>
+      <title>Hört Dein Handy Dich ab? Darum passt Werbung oft verdächtig gut</title>
+      <link>https://www.finanztip.de/daily/hoert-dein-handy-dich-ab-darum-passt-werbung-verdaechtig-gut/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/hoert-dein-handy-dich-ab-darum-passt-werbung-verdaechtig-gut/</guid>
+      <pubDate>Wed, 19 Aug 2026 07:50:17 GMT</pubDate>
+    </item>
     <item>
       <title>Tagesgeld-Rekord: 4,25 % p. a. – aber mit zwei Haken</title>
       <link>https://www.finanztip.de/daily/tagesgeld-rekord-425-p-a-aber-mit-zwei-haken/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/dreisteste-werbeluege-gesund-verkauft-scharf-kritisiert/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/dreisteste-werbeluege-gesund-verkauft-scharf-kritisiert/</guid>
       <pubDate>Wed, 15 Jul 2026 12:40:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Diese Lebensversicherung kann sinnvoll sein – diese nicht</title>
-      <link>https://www.finanztip.de/daily/diese-lebensversicherung-kann-sinnvoll-sein-diese-nicht/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/diese-lebensversicherung-kann-sinnvoll-sein-diese-nicht/</guid>
-      <pubDate>Wed, 15 Jul 2026 11:10:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
