@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:50:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 11:35:18 GMT</lastBuildDate>
+    <item>
+      <title>AGB geändert: Darf die Bank Dein Konto einfach kündigen?</title>
+      <link>https://www.finanztip.de/daily/agb-geaendert-darf-die-bank-dein-konto-einfach-kuendigen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/agb-geaendert-darf-die-bank-dein-konto-einfach-kuendigen/</guid>
+      <pubDate>Wed, 19 Aug 2026 11:35:18 GMT</pubDate>
+    </item>
     <item>
       <title>Hört Dein Handy Dich ab? Darum passt Werbung oft verdächtig gut</title>
       <link>https://www.finanztip.de/daily/hoert-dein-handy-dich-ab-darum-passt-werbung-verdaechtig-gut/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/esg-global-warum-wir-ihn-dir-nicht-explizit-empfehlen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/esg-global-warum-wir-ihn-dir-nicht-explizit-empfehlen/</guid>
       <pubDate>Wed, 15 Jul 2026 17:13:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dreisteste Werbelüge: Gesund verkauft, scharf kritisiert</title>
-      <link>https://www.finanztip.de/daily/dreisteste-werbeluege-gesund-verkauft-scharf-kritisiert/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/dreisteste-werbeluege-gesund-verkauft-scharf-kritisiert/</guid>
-      <pubDate>Wed, 15 Jul 2026 12:40:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
