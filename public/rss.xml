@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 19 Aug 2026 11:35:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:05:26 GMT</lastBuildDate>
+    <item>
+      <title>Community-Frage: Bei welchem Depotanbieter bist Du?</title>
+      <link>https://www.finanztip.de/daily/community-frage-bei-welchem-depotanbieter-bist-du/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/community-frage-bei-welchem-depotanbieter-bist-du/</guid>
+      <pubDate>Wed, 19 Aug 2026 16:05:26 GMT</pubDate>
+    </item>
     <item>
       <title>AGB geändert: Darf die Bank Dein Konto einfach kündigen?</title>
       <link>https://www.finanztip.de/daily/agb-geaendert-darf-die-bank-dein-konto-einfach-kuendigen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/recht-auf-reparatur-wie-es-deinen-geldbeutel-schonen-kann/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/recht-auf-reparatur-wie-es-deinen-geldbeutel-schonen-kann/</guid>
       <pubDate>Thu, 16 Jul 2026 04:13:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>ESG Global ETF: Warum wir ihn Dir nicht explizit empfehlen</title>
-      <link>https://www.finanztip.de/daily/esg-global-warum-wir-ihn-dir-nicht-explizit-empfehlen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/esg-global-warum-wir-ihn-dir-nicht-explizit-empfehlen/</guid>
-      <pubDate>Wed, 15 Jul 2026 17:13:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
