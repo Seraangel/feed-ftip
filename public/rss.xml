@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:35:16 GMT</lastBuildDate>
+    <item>
+      <title>Rekordhoch bei Gaspreisen: Wie Du jetzt richtig reagierst</title>
+      <link>https://www.finanztip.de/daily/rekordhoch-bei-gaspreisen-wie-du-jetzt-richtig-reagierst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/rekordhoch-bei-gaspreisen-wie-du-jetzt-richtig-reagierst/</guid>
+      <pubDate>Thu, 20 Aug 2026 11:35:16 GMT</pubDate>
+    </item>
     <item>
       <title>MSCI World: Diese zwei deutschen Unternehmen fliegen raus</title>
       <link>https://www.finanztip.de/daily/msci-world-diese-zwei-deutschen-unternehmen-fliegen-raus/</link>
@@ -599,12 +605,6 @@
       <title>Für Unterstützer: Wie Ihr als Ehepaar Steuern sparen könnt</title>
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-wie-ihr-als-ehepaar-steuern-sparen-koennt/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-wie-ihr-als-ehepaar-steuern-sparen-koennt/</guid>
-      <pubDate>Thu, 16 Jul 2026 10:34:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vor EZB-Entscheidung: Beste Tagesgeldzinsen sichern oder warten?</title>
-      <link>https://www.finanztip.de/daily/vor-ezb-entscheidung-beste-tagesgeldzinsen-sichern-oder-warten/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/vor-ezb-entscheidung-beste-tagesgeldzinsen-sichern-oder-warten/</guid>
       <pubDate>Thu, 16 Jul 2026 10:34:09 GMT</pubDate>
     </item>
   </channel>
