@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 20 Aug 2026 11:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:30:23 GMT</lastBuildDate>
+    <item>
+      <title>Neuer Vanguard ETF mit 99 Prozent Marktabdeckung: Eine gute Investition?</title>
+      <link>https://www.finanztip.de/daily/der-neue-vanguard-etf-deckt-fast-die-ganze-welt-ab-eine-gute-investition/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/der-neue-vanguard-etf-deckt-fast-die-ganze-welt-ab-eine-gute-investition/</guid>
+      <pubDate>Thu, 20 Aug 2026 12:30:23 GMT</pubDate>
+    </item>
     <item>
       <title>Rekordhoch bei Gaspreisen: Wie Du jetzt richtig reagierst</title>
       <link>https://www.finanztip.de/daily/rekordhoch-bei-gaspreisen-wie-du-jetzt-richtig-reagierst/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/urlaub-check-vorher-unbedingt-diese-3-dinge/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/urlaub-check-vorher-unbedingt-diese-3-dinge/</guid>
       <pubDate>Thu, 16 Jul 2026 14:14:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Unterstützer: Wie Ihr als Ehepaar Steuern sparen könnt</title>
-      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-wie-ihr-als-ehepaar-steuern-sparen-koennt/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-wie-ihr-als-ehepaar-steuern-sparen-koennt/</guid>
-      <pubDate>Thu, 16 Jul 2026 10:34:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
