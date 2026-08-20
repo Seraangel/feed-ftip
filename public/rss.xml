@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 19 Aug 2026 16:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:55:16 GMT</lastBuildDate>
+    <item>
+      <title>MSCI World: Diese zwei deutschen Unternehmen fliegen raus</title>
+      <link>https://www.finanztip.de/daily/msci-world-diese-zwei-deutschen-unternehmen-fliegen-raus/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/msci-world-diese-zwei-deutschen-unternehmen-fliegen-raus/</guid>
+      <pubDate>Thu, 20 Aug 2026 07:55:16 GMT</pubDate>
+    </item>
     <item>
       <title>Community-Frage: Bei welchem Depotanbieter bist Du?</title>
       <link>https://www.finanztip.de/daily/community-frage-bei-welchem-depotanbieter-bist-du/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/vor-ezb-entscheidung-beste-tagesgeldzinsen-sichern-oder-warten/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/vor-ezb-entscheidung-beste-tagesgeldzinsen-sichern-oder-warten/</guid>
       <pubDate>Thu, 16 Jul 2026 10:34:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smartphone oder Waschmaschine kaputt: Hilft Dir dieses neue Recht?</title>
-      <link>https://www.finanztip.de/daily/recht-auf-reparatur-wie-es-deinen-geldbeutel-schonen-kann/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/recht-auf-reparatur-wie-es-deinen-geldbeutel-schonen-kann/</guid>
-      <pubDate>Thu, 16 Jul 2026 04:13:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
