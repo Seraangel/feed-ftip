@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:00:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:05:19 GMT</lastBuildDate>
+    <item>
+      <title>Deals der Woche: Was Du nicht verpassen solltest</title>
+      <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3426/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3426/</guid>
+      <pubDate>Fri, 21 Aug 2026 10:05:19 GMT</pubDate>
+    </item>
     <item>
       <title>Für Unterstützer: Deine Fragen zu Phishing und Pflege</title>
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-deine-fragen-zu-phishing-und-pflege/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw2926/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw2926/</guid>
       <pubDate>Fri, 17 Jul 2026 12:46:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Unterstützer: So schaffst Du die perfekte Asset Allocation</title>
-      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-so-schaffst-du-die-perfekte-asset-allocation/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-so-schaffst-du-die-perfekte-asset-allocation/</guid>
-      <pubDate>Fri, 17 Jul 2026 08:18:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
