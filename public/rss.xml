@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 21 Aug 2026 08:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:00:18 GMT</lastBuildDate>
+    <item>
+      <title>Für Unterstützer: Deine Fragen zu Phishing und Pflege</title>
+      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-deine-fragen-zu-phishing-und-pflege/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-deine-fragen-zu-phishing-und-pflege/</guid>
+      <pubDate>Fri, 21 Aug 2026 10:00:18 GMT</pubDate>
+    </item>
     <item>
       <title>BU-Rente: Diese 80-%-Regel solltest Du kennen</title>
       <link>https://www.finanztip.de/daily/bu-rente-diese-80-regel-solltest-du-kennen/</link>
@@ -599,12 +605,6 @@
       <title>Für Unterstützer: So schaffst Du die perfekte Asset Allocation</title>
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-so-schaffst-du-die-perfekte-asset-allocation/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-so-schaffst-du-die-perfekte-asset-allocation/</guid>
-      <pubDate>Fri, 17 Jul 2026 08:18:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Versicherer knickt ein: Diese Renten-Klausel geht nicht mehr</title>
-      <link>https://www.finanztip.de/daily/versicherer-knickt-ein-diese-renten-klausel-geht-nicht-mehr/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/versicherer-knickt-ein-diese-renten-klausel-geht-nicht-mehr/</guid>
       <pubDate>Fri, 17 Jul 2026 08:18:15 GMT</pubDate>
     </item>
   </channel>
