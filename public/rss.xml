@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:05:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 04:01:44 GMT</lastBuildDate>
+    <item>
+      <title>Sparen – aber nicht beim Lippenstift? Darum ist das so</title>
+      <link>https://www.finanztip.de/daily/sparen-aber-nicht-beim-lippenstift-darum-ist-das-so/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/sparen-aber-nicht-beim-lippenstift-darum-ist-das-so/</guid>
+      <pubDate>Sat, 22 Aug 2026 04:01:44 GMT</pubDate>
+    </item>
     <item>
       <title>Deals der Woche: Was Du nicht verpassen solltest</title>
       <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3426/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/phishing-so-gross-ist-das-problem-in-der-finanztip-community/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/phishing-so-gross-ist-das-problem-in-der-finanztip-community/</guid>
       <pubDate>Sat, 18 Jul 2026 05:38:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deals der Woche: Was Du nicht verpassen solltest</title>
-      <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw2926/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw2926/</guid>
-      <pubDate>Fri, 17 Jul 2026 12:46:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
