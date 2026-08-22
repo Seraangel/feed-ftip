@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 22 Aug 2026 04:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:05:20 GMT</lastBuildDate>
+    <item>
+      <title>Neue Heizung geplant? Warum Warten jetzt teuer werden kann</title>
+      <link>https://www.finanztip.de/daily/neue-heizung-geplant-warum-warten-jetzt-teuer-werden-kann/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/neue-heizung-geplant-warum-warten-jetzt-teuer-werden-kann/</guid>
+      <pubDate>Sat, 22 Aug 2026 16:05:20 GMT</pubDate>
+    </item>
     <item>
       <title>Sparen – aber nicht beim Lippenstift? Darum ist das so</title>
       <link>https://www.finanztip.de/daily/sparen-aber-nicht-beim-lippenstift-darum-ist-das-so/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/von-teuer-bis-guenstig-das-grosse-versicherungs-ranking/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/von-teuer-bis-guenstig-das-grosse-versicherungs-ranking/</guid>
       <pubDate>Sat, 18 Jul 2026 16:31:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Phishing: So groß ist das Problem in der Finanztip-Community</title>
-      <link>https://www.finanztip.de/daily/phishing-so-gross-ist-das-problem-in-der-finanztip-community/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/phishing-so-gross-ist-das-problem-in-der-finanztip-community/</guid>
-      <pubDate>Sat, 18 Jul 2026 05:38:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
