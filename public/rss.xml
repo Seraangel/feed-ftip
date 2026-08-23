@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 22 Aug 2026 16:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 04:05:16 GMT</lastBuildDate>
+    <item>
+      <title>Tagesgeld-Rekord, MSCI World, neue Euro-Scheine: Was Du diese Woche gelesen haben solltest</title>
+      <link>https://www.finanztip.de/daily/tagesgeld-rekord-msci-world-neue-euro-scheine-was-du-diese-woche-gelesen-haben-solltest/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/tagesgeld-rekord-msci-world-neue-euro-scheine-was-du-diese-woche-gelesen-haben-solltest/</guid>
+      <pubDate>Sun, 23 Aug 2026 04:05:16 GMT</pubDate>
+    </item>
     <item>
       <title>Neue Heizung geplant? Warum Warten jetzt teuer werden kann</title>
       <link>https://www.finanztip.de/daily/neue-heizung-geplant-warum-warten-jetzt-teuer-werden-kann/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/inflation-dafuer-zahlst-du-heute-deutlich-mehr/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/inflation-dafuer-zahlst-du-heute-deutlich-mehr/</guid>
       <pubDate>Sun, 19 Jul 2026 06:10:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Von teuer bis günstig: Das große Versicherungs-Ranking</title>
-      <link>https://www.finanztip.de/daily/von-teuer-bis-guenstig-das-grosse-versicherungs-ranking/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/von-teuer-bis-guenstig-das-grosse-versicherungs-ranking/</guid>
-      <pubDate>Sat, 18 Jul 2026 16:31:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
