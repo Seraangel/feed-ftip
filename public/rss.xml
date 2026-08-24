@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 24 Aug 2026 10:05:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:45:20 GMT</lastBuildDate>
+    <item>
+      <title>Steuererstattung für Dich? Achtung vor diesem neuen Phishing-Trick</title>
+      <link>https://www.finanztip.de/daily/steuererstattung-fuer-dich-achtung-vor-diesem-neuen-phishing-trick/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/steuererstattung-fuer-dich-achtung-vor-diesem-neuen-phishing-trick/</guid>
+      <pubDate>Mon, 24 Aug 2026 15:45:20 GMT</pubDate>
+    </item>
     <item>
       <title>Girocard mit neuen Funktionen: Brauchst Du bald keine Kreditkarte mehr?</title>
       <link>https://www.finanztip.de/daily/girocard-mit-neuen-funktionen-brauchst-du-bald-keine-kreditkarte-mehr/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/kuendigung-wie-kannst-du-die-zustellung-nachweisen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/kuendigung-wie-kannst-du-die-zustellung-nachweisen/</guid>
       <pubDate>Mon, 20 Jul 2026 12:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heimaturlaub mit dem Deutschlandticket: Diese Strecken lohnen sich</title>
-      <link>https://www.finanztip.de/daily/heimaturlaub-mit-dem-deutschlandticket-diese-strecken-lohnen-sich/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/heimaturlaub-mit-dem-deutschlandticket-diese-strecken-lohnen-sich/</guid>
-      <pubDate>Mon, 20 Jul 2026 06:43:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
