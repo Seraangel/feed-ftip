@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 24 Aug 2026 04:05:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:05:22 GMT</lastBuildDate>
+    <item>
+      <title>Girocard mit neuen Funktionen: Brauchst Du bald keine Kreditkarte mehr?</title>
+      <link>https://www.finanztip.de/daily/girocard-mit-neuen-funktionen-brauchst-du-bald-keine-kreditkarte-mehr/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/girocard-mit-neuen-funktionen-brauchst-du-bald-keine-kreditkarte-mehr/</guid>
+      <pubDate>Mon, 24 Aug 2026 10:05:22 GMT</pubDate>
+    </item>
     <item>
       <title>ETF-Steuern: Wann Du zahlen musst und wie Du sie prüfst</title>
       <link>https://www.finanztip.de/daily/etf-steuern-wann-du-zahlen-musst-und-wie-du-sie-pruefst/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/heimaturlaub-mit-dem-deutschlandticket-diese-strecken-lohnen-sich/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/heimaturlaub-mit-dem-deutschlandticket-diese-strecken-lohnen-sich/</guid>
       <pubDate>Mon, 20 Jul 2026 06:43:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tagesgeldrekord, GKV-Reform, 1.240 € zurück: Was Du diese Woche gelesen haben solltest</title>
-      <link>https://www.finanztip.de/daily/tagesgeldrekord-gkv-reform-1240-eur-zurueck-was-du-diese-woche-gelesen-haben-solltest/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/tagesgeldrekord-gkv-reform-1240-eur-zurueck-was-du-diese-woche-gelesen-haben-solltest/</guid>
-      <pubDate>Sun, 19 Jul 2026 14:41:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
