@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 23 Aug 2026 14:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 04:05:24 GMT</lastBuildDate>
+    <item>
+      <title>ETF-Steuern: Wann Du zahlen musst und wie Du sie prüfst</title>
+      <link>https://www.finanztip.de/daily/etf-steuern-wann-du-zahlen-musst-und-wie-du-sie-pruefst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/etf-steuern-wann-du-zahlen-musst-und-wie-du-sie-pruefst/</guid>
+      <pubDate>Mon, 24 Aug 2026 04:05:24 GMT</pubDate>
+    </item>
     <item>
       <title>E-Auto kaufen: Warum Du vorher die Versicherung checken solltest</title>
       <link>https://www.finanztip.de/daily/e-auto-kaufen-warum-du-vorher-die-versicherung-checken-solltest/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/tagesgeldrekord-gkv-reform-1240-eur-zurueck-was-du-diese-woche-gelesen-haben-solltest/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/tagesgeldrekord-gkv-reform-1240-eur-zurueck-was-du-diese-woche-gelesen-haben-solltest/</guid>
       <pubDate>Sun, 19 Jul 2026 14:41:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Unterstützer: Internet- und Handytarif – Keine Angst vorm Wechsel</title>
-      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-internet-und-handytarif-keine-angst-vorm-wechsel/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-internet-und-handytarif-keine-angst-vorm-wechsel/</guid>
-      <pubDate>Sun, 19 Jul 2026 10:08:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
