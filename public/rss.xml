@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 25 Aug 2026 04:00:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:05:25 GMT</lastBuildDate>
+    <item>
+      <title>100 € im Monat: So werden daraus 360.000 €</title>
+      <link>https://www.finanztip.de/daily/100-eur-im-monat-so-werden-daraus-360000-eur/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/100-eur-im-monat-so-werden-daraus-360000-eur/</guid>
+      <pubDate>Tue, 25 Aug 2026 15:05:25 GMT</pubDate>
+    </item>
     <item>
       <title>Depot per KI steuern: Was Dir die neue Funktion bringt – und worauf Du achten solltest</title>
       <link>https://www.finanztip.de/daily/depot-per-ki-steuern-was-dir-die-neue-funktion-bringt-und-worauf-du-achten-solltest/</link>
@@ -599,12 +605,6 @@
       <title>50 % Geld zurück wegen Reisemängeln? Wann das geht</title>
       <link>https://www.finanztip.de/daily/50-geld-zurueck-wegen-reisemaengeln-wann-das-geht/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/50-geld-zurueck-wegen-reisemaengeln-wann-das-geht/</guid>
-      <pubDate>Tue, 21 Jul 2026 12:13:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Festgeld: Auf dieses Zinsdetail solltest Du achten</title>
-      <link>https://www.finanztip.de/daily/festgeld-auf-dieses-zinsdetail-solltest-du-achten/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/festgeld-auf-dieses-zinsdetail-solltest-du-achten/</guid>
       <pubDate>Tue, 21 Jul 2026 12:13:54 GMT</pubDate>
     </item>
   </channel>
