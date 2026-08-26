@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 26 Aug 2026 04:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:05:17 GMT</lastBuildDate>
+    <item>
+      <title>Community-Frage: Wo hast Du Dein Geld investiert?</title>
+      <link>https://www.finanztip.de/daily/community-frage-wo-hast-du-dein-geld-investiert/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/community-frage-wo-hast-du-dein-geld-investiert/</guid>
+      <pubDate>Wed, 26 Aug 2026 10:05:17 GMT</pubDate>
+    </item>
     <item>
       <title>AV-Depot: Diese vier Dinge werden für Deine Auswahl wichtig</title>
       <link>https://www.finanztip.de/daily/av-depot-diese-vier-dinge-werden-fuer-deine-auswahl-wichtig/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/geldanlage-fuer-kinder-warum-du-nicht-auf-die-fruehstart-rente-warten-solltest/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/geldanlage-fuer-kinder-warum-du-nicht-auf-die-fruehstart-rente-warten-solltest/</guid>
       <pubDate>Wed, 22 Jul 2026 06:12:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>S-Neo startet bundesweit: Lohnt sich das neue Sparkassen-Depot?</title>
-      <link>https://www.finanztip.de/daily/s-neo-startet-bundesweit-lohnt-sich-das-neue-sparkassen-depot/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/s-neo-startet-bundesweit-lohnt-sich-das-neue-sparkassen-depot/</guid>
-      <pubDate>Tue, 21 Jul 2026 17:08:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
