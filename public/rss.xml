@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 27 Aug 2026 08:30:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:45:21 GMT</lastBuildDate>
+    <item>
+      <title>Einfach und kostenlos: Finde mit dem Finanzcoach heraus, was Du finanziell als Nächstes tun solltest</title>
+      <link>https://www.finanztip.de/daily/einfach-und-kostenlos-finde-mit-dem-finanzcoach-heraus-was-du-finanziell-als-naechstes-tun-solltest/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/einfach-und-kostenlos-finde-mit-dem-finanzcoach-heraus-was-du-finanziell-als-naechstes-tun-solltest/</guid>
+      <pubDate>Thu, 27 Aug 2026 14:45:21 GMT</pubDate>
+    </item>
     <item>
       <title>Altersvorsorge-Depot und mehr: Das ist ab heute bei Scalable neu</title>
       <link>https://www.finanztip.de/daily/altersvorsorge-depot-startet-bei-scalable-das-ist-ab-heute-neu/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/fast-sicher-100-eur-steuern-zurueck-mit-dieser-einen-angabe/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/fast-sicher-100-eur-steuern-zurueck-mit-dieser-einen-angabe/</guid>
       <pubDate>Thu, 23 Jul 2026 04:29:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ikea: Die besten Spartipps gibt's nicht nur mit Family</title>
-      <link>https://www.finanztip.de/daily/ikea-die-besten-spartipps-gibts-nicht-nur-mit-family/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/ikea-die-besten-spartipps-gibts-nicht-nur-mit-family/</guid>
-      <pubDate>Wed, 22 Jul 2026 17:07:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
