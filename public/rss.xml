@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:05:26 GMT</lastBuildDate>
+    <item>
+      <title>MSCI World: Warum gelten Milliardenkonzerne als Small Caps?</title>
+      <link>https://www.finanztip.de/daily/msci-world-warum-gelten-milliardenkonzerne-als-small-caps/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/msci-world-warum-gelten-milliardenkonzerne-als-small-caps/</guid>
+      <pubDate>Thu, 27 Aug 2026 04:05:26 GMT</pubDate>
+    </item>
     <item>
       <title>Community-Frage: Wo hast Du Dein Geld investiert?</title>
       <link>https://www.finanztip.de/daily/community-frage-wo-hast-du-dein-geld-investiert/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/betrug-mit-gefaelschtem-lanz-video-so-schuetzt-du-dich/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/betrug-mit-gefaelschtem-lanz-video-so-schuetzt-du-dich/</guid>
       <pubDate>Wed, 22 Jul 2026 10:50:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Geldanlage für Kinder: Warum Du nicht auf die Frühstart-Rente warten solltest</title>
-      <link>https://www.finanztip.de/daily/geldanlage-fuer-kinder-warum-du-nicht-auf-die-fruehstart-rente-warten-solltest/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/geldanlage-fuer-kinder-warum-du-nicht-auf-die-fruehstart-rente-warten-solltest/</guid>
-      <pubDate>Wed, 22 Jul 2026 06:12:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
