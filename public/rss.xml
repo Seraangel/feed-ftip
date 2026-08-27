@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 27 Aug 2026 14:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:05:20 GMT</lastBuildDate>
+    <item>
+      <title>In Deinen Fußballklub investieren: Großchance oder Nullnummer?</title>
+      <link>https://www.finanztip.de/daily/in-deinen-fussballklub-investieren-grosschance-oder-nullnummer/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/in-deinen-fussballklub-investieren-grosschance-oder-nullnummer/</guid>
+      <pubDate>Thu, 27 Aug 2026 20:05:20 GMT</pubDate>
+    </item>
     <item>
       <title>Einfach und kostenlos: Finde mit dem Finanzcoach heraus, was Du finanziell als Nächstes tun solltest</title>
       <link>https://www.finanztip.de/daily/einfach-und-kostenlos-finde-mit-dem-finanzcoach-heraus-was-du-finanziell-als-naechstes-tun-solltest/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/fruehstart-rente-bekommen-wirklich-alle-kinder-10-eur-im-monat/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/fruehstart-rente-bekommen-wirklich-alle-kinder-10-eur-im-monat/</guid>
       <pubDate>Thu, 23 Jul 2026 11:25:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fast sicher 100 € Steuern zurück: Mit dieser einen Angabe</title>
-      <link>https://www.finanztip.de/daily/fast-sicher-100-eur-steuern-zurueck-mit-dieser-einen-angabe/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fast-sicher-100-eur-steuern-zurueck-mit-dieser-einen-angabe/</guid>
-      <pubDate>Thu, 23 Jul 2026 04:29:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
