@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 28 Aug 2026 08:05:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 10:05:19 GMT</lastBuildDate>
+    <item>
+      <title>Deals der Woche: Was Du nicht verpassen solltest</title>
+      <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3526/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3526/</guid>
+      <pubDate>Fri, 28 Aug 2026 10:05:19 GMT</pubDate>
+    </item>
     <item>
       <title>Für Unterstützer: Wie Du Dein Depot im Alter richtig nutzt</title>
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-wie-du-dein-depot-im-alter-richtig-nutzt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3026/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3026/</guid>
       <pubDate>Fri, 24 Jul 2026 12:05:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Unterstützer: Altersvorsorge-Depot – der perfekte ETF-Sparplan?</title>
-      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-altersvorsorge-depot-der-perfekte-etf-sparplan-1/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-altersvorsorge-depot-der-perfekte-etf-sparplan-1/</guid>
-      <pubDate>Fri, 24 Jul 2026 10:37:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
