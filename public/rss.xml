@@ -6,7 +6,19 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 28 Aug 2026 07:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 08:05:19 GMT</lastBuildDate>
+    <item>
+      <title>Für Unterstützer: Wie Du Dein Depot im Alter richtig nutzt</title>
+      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-wie-du-dein-depot-im-alter-richtig-nutzt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-wie-du-dein-depot-im-alter-richtig-nutzt/</guid>
+      <pubDate>Fri, 28 Aug 2026 08:05:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSCI, Steuer, Tanken: Das ändert sich im September 2026</title>
+      <link>https://www.finanztip.de/daily/msci-steuer-tanken-das-aendert-sich-im-september-2026/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/msci-steuer-tanken-das-aendert-sich-im-september-2026/</guid>
+      <pubDate>Fri, 28 Aug 2026 08:05:19 GMT</pubDate>
+    </item>
     <item>
       <title>Gold- und Bitcoin-Rally: Was steckt dahinter?</title>
       <link>https://www.finanztip.de/daily/gold-und-bitcoin-rally-was-steckt-dahinter/</link>
@@ -594,18 +606,6 @@
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-altersvorsorge-depot-der-perfekte-etf-sparplan-1/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-altersvorsorge-depot-der-perfekte-etf-sparplan-1/</guid>
       <pubDate>Fri, 24 Jul 2026 10:37:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beitragserhöhungen: Werden Dich die Krankenkassen trotz Reform noch informieren?</title>
-      <link>https://www.finanztip.de/daily/beitragserhoehungen-werden-dich-die-krankenkassen-trotz-reform-noch-informieren/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/beitragserhoehungen-werden-dich-die-krankenkassen-trotz-reform-noch-informieren/</guid>
-      <pubDate>Fri, 24 Jul 2026 06:12:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neuer Solarplan: Wird Deine Einspeisevergütung doch noch gerettet?</title>
-      <link>https://www.finanztip.de/daily/neuer-solarplan-wird-deine-einspeiseverguetung-doch-noch-gerettet/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/neuer-solarplan-wird-deine-einspeiseverguetung-doch-noch-gerettet/</guid>
-      <pubDate>Fri, 24 Jul 2026 06:12:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
