@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 28 Aug 2026 04:35:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 07:05:18 GMT</lastBuildDate>
+    <item>
+      <title>Gold- und Bitcoin-Rally: Was steckt dahinter?</title>
+      <link>https://www.finanztip.de/daily/gold-und-bitcoin-rally-was-steckt-dahinter/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/gold-und-bitcoin-rally-was-steckt-dahinter/</guid>
+      <pubDate>Fri, 28 Aug 2026 07:05:18 GMT</pubDate>
+    </item>
     <item>
       <title>Doppelter Tankrabatt: Hier sparst Du bald</title>
       <link>https://www.finanztip.de/daily/doppelter-tankrabatt-hier-sparst-du-bald/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/neuer-solarplan-wird-deine-einspeiseverguetung-doch-noch-gerettet/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/neuer-solarplan-wird-deine-einspeiseverguetung-doch-noch-gerettet/</guid>
       <pubDate>Fri, 24 Jul 2026 06:12:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Der bessere Welt-ETF? Das ist der Haken</title>
-      <link>https://www.finanztip.de/daily/der-bessere-welt-etf-das-ist-der-haken/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/der-bessere-welt-etf-das-ist-der-haken/</guid>
-      <pubDate>Thu, 23 Jul 2026 16:25:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
