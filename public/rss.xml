@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 27 Aug 2026 20:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 04:05:20 GMT</lastBuildDate>
+    <item>
+      <title>Lohnt sich gerade … schnell diesen Heizungscheck zu machen?</title>
+      <link>https://www.finanztip.de/daily/lohnt-sich-gerade-schnell-diesen-heizungscheck-zu-machen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-gerade-schnell-diesen-heizungscheck-zu-machen/</guid>
+      <pubDate>Fri, 28 Aug 2026 04:05:20 GMT</pubDate>
+    </item>
     <item>
       <title>In Deinen Fußballklub investieren: Großchance oder Nullnummer?</title>
       <link>https://www.finanztip.de/daily/in-deinen-fussballklub-investieren-grosschance-oder-nullnummer/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/ezb-haelt-zinsen-stabil-das-sind-jetzt-die-besten-angebote/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/ezb-haelt-zinsen-stabil-das-sind-jetzt-die-besten-angebote/</guid>
       <pubDate>Thu, 23 Jul 2026 14:59:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frühstart-Rente: Bekommen wirklich alle Kinder 10 € im Monat?</title>
-      <link>https://www.finanztip.de/daily/fruehstart-rente-bekommen-wirklich-alle-kinder-10-eur-im-monat/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fruehstart-rente-bekommen-wirklich-alle-kinder-10-eur-im-monat/</guid>
-      <pubDate>Thu, 23 Jul 2026 11:25:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
