@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 29 Aug 2026 16:05:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 04:05:19 GMT</lastBuildDate>
+    <item>
+      <title>ETF-Steuern, AV-Depot, KI: Was Du diese Woche gelesen haben solltest</title>
+      <link>https://www.finanztip.de/daily/etf-steuern-av-depot-ki-was-du-diese-woche-gelesen-haben-solltest/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/etf-steuern-av-depot-ki-was-du-diese-woche-gelesen-haben-solltest/</guid>
+      <pubDate>Sun, 30 Aug 2026 04:05:19 GMT</pubDate>
+    </item>
     <item>
       <title>So viel teurer wird Deine BU als Raucher</title>
       <link>https://www.finanztip.de/daily/so-viel-teurer-wird-deine-bu-als-raucher/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/neues-urteil-kuendigungsbutton-muss-werbefrei-sein/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/neues-urteil-kuendigungsbutton-muss-werbefrei-sein/</guid>
       <pubDate>Sun, 26 Jul 2026 06:25:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Betrugsgefahr zur Steuerfrist: Achtung vor diesen falschen E-Mails</title>
-      <link>https://www.finanztip.de/daily/betrugsgefahr-zur-steuerfrist-falsche-finanzamt-mails-im-umlauf/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/betrugsgefahr-zur-steuerfrist-falsche-finanzamt-mails-im-umlauf/</guid>
-      <pubDate>Sat, 25 Jul 2026 15:04:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
