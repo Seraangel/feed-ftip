@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 31 Aug 2026 11:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:45:22 GMT</lastBuildDate>
+    <item>
+      <title>Inflationsrate steigt im August weiter – Öl und Niedrigwasser treiben die Preise</title>
+      <link>https://www.finanztip.de/daily/inflationsrate-steigt-im-august-weiter-oel-und-niedrigwasser-treiben-die-preise/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/inflationsrate-steigt-im-august-weiter-oel-und-niedrigwasser-treiben-die-preise/</guid>
+      <pubDate>Mon, 31 Aug 2026 14:45:22 GMT</pubDate>
+    </item>
     <item>
       <title>Aktien beim Arbeitgeber? Wie Du damit am besten umgehst</title>
       <link>https://www.finanztip.de/daily/aktien-beim-arbeitgeber-wie-du-damit-am-besten-umgehst/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/so-manipulieren-supermaerkte-deine-kaufentscheidung/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/so-manipulieren-supermaerkte-deine-kaufentscheidung/</guid>
       <pubDate>Mon, 27 Jul 2026 04:50:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neuer ETF, Festgeld, Versicherungen: Was Du diese Woche gelesen haben solltest</title>
-      <link>https://www.finanztip.de/daily/neuer-etf-festgeld-versicherungen-was-du-diese-woche-gelesen-haben-solltest/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/neuer-etf-festgeld-versicherungen-was-du-diese-woche-gelesen-haben-solltest/</guid>
-      <pubDate>Sun, 26 Jul 2026 14:14:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
