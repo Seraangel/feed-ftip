@@ -7,6 +7,7 @@ import argparse
 import re
 import sqlite3
 import sys
+import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from email.utils import format_datetime
@@ -24,6 +25,11 @@ SOURCE_HOST = "www.finanztip.de"
 RSS_URL = "https://seraangel.github.io/feed-ftip/rss.xml"
 ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0"
+RETRY_DELAYS = {
+    429: 15,
+    503: 10,
+}
+MAX_RETRY_WAIT_SECONDS = 60
 
 GERMAN_MONTHS = {
     "januar": 1,
@@ -152,17 +158,33 @@ def extract_published_at(container: Tag) -> str | None:
 
 
 def fetch_daily_html(timeout: int) -> str:
-    response = requests.get(
-        SOURCE_URL,
-        headers={
-            "User-Agent": USER_AGENT,
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-            "Accept-Language": "de-DE,de;q=0.9,en;q=0.7",
-        },
-        timeout=timeout,
-    )
-    response.raise_for_status()
-    return response.content.decode("utf-8")
+    retry_waited = 0
+    while True:
+        try:
+            response = requests.get(
+                SOURCE_URL,
+                headers={
+                    "User-Agent": USER_AGENT,
+                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                    "Accept-Language": "de-DE,de;q=0.9,en;q=0.7",
+                },
+                timeout=timeout,
+            )
+            response.raise_for_status()
+            return response.content.decode("utf-8")
+        except requests.HTTPError as exc:
+            status_code = exc.response.status_code if exc.response is not None else None
+            retry_delay = RETRY_DELAYS.get(status_code)
+            if retry_delay is None or retry_waited + retry_delay > MAX_RETRY_WAIT_SECONDS:
+                raise
+
+            retry_waited += retry_delay
+            print(
+                f"Finanztip returned HTTP {status_code}; retrying in {retry_delay} seconds "
+                f"({retry_waited}/{MAX_RETRY_WAIT_SECONDS} seconds).",
+                file=sys.stderr,
+            )
+            time.sleep(retry_delay)
 
 
 def extract_articles(document: str) -> list[Article]:
