@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:56:12 GMT</lastBuildDate>
+    <item>
+      <title>AV-Depot: Für wen sich das so richtig lohnt</title>
+      <link>https://www.finanztip.de/daily/av-depot-fuer-wen-sich-das-so-richtig-lohnt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-fuer-wen-sich-das-so-richtig-lohnt/</guid>
+      <pubDate>Tue, 01 Sep 2026 15:56:12 GMT</pubDate>
+    </item>
     <item>
       <title>Zinseszins: So wächst Dein Geld</title>
       <link>https://www.finanztip.de/daily/zinseszins-so-waechst-dein-geld/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/homeoffice-unter-druck-darf-dein-chef-dich-zurueck-ins-buero-holen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/homeoffice-unter-druck-darf-dein-chef-dich-zurueck-ins-buero-holen/</guid>
       <pubDate>Tue, 28 Jul 2026 04:18:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Die Spielgeld-Regel: Wie viel Zocken darf beim Investieren sein?</title>
-      <link>https://www.finanztip.de/daily/die-spielgeld-regel-wie-viel-zocken-darf-beim-investieren-sein/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/die-spielgeld-regel-wie-viel-zocken-darf-beim-investieren-sein/</guid>
-      <pubDate>Mon, 27 Jul 2026 16:13:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
