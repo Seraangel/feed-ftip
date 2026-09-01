@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 01 Sep 2026 04:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:36:06 GMT</lastBuildDate>
+    <item>
+      <title>Zinseszins: So wächst Dein Geld</title>
+      <link>https://www.finanztip.de/daily/zinseszins-so-waechst-dein-geld/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/zinseszins-so-waechst-dein-geld/</guid>
+      <pubDate>Tue, 01 Sep 2026 11:36:06 GMT</pubDate>
+    </item>
     <item>
       <title>Neues Festgeld-Angebot lockt – doch es geht noch mehr</title>
       <link>https://www.finanztip.de/daily/neues-festgeld-angebot-lockt-doch-es-geht-noch-mehr/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/die-spielgeld-regel-wie-viel-zocken-darf-beim-investieren-sein/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/die-spielgeld-regel-wie-viel-zocken-darf-beim-investieren-sein/</guid>
       <pubDate>Mon, 27 Jul 2026 16:13:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Versicherungen: Diese Geldfresser kannst Du Dir sparen</title>
-      <link>https://www.finanztip.de/daily/versicherungen-diese-geldfresser-kannst-du-dir-sparen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/versicherungen-diese-geldfresser-kannst-du-dir-sparen/</guid>
-      <pubDate>Mon, 27 Jul 2026 11:42:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
