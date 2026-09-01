@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 31 Aug 2026 14:45:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 04:00:21 GMT</lastBuildDate>
+    <item>
+      <title>Neues Festgeld-Angebot lockt – doch es geht noch mehr</title>
+      <link>https://www.finanztip.de/daily/neues-festgeld-angebot-lockt-doch-es-geht-noch-mehr/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/neues-festgeld-angebot-lockt-doch-es-geht-noch-mehr/</guid>
+      <pubDate>Tue, 01 Sep 2026 04:00:21 GMT</pubDate>
+    </item>
     <item>
       <title>Inflationsrate steigt im August weiter – Öl und Niedrigwasser treiben die Preise</title>
       <link>https://www.finanztip.de/daily/inflationsrate-steigt-im-august-weiter-oel-und-niedrigwasser-treiben-die-preise/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/versicherungen-diese-geldfresser-kannst-du-dir-sparen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/versicherungen-diese-geldfresser-kannst-du-dir-sparen/</guid>
       <pubDate>Mon, 27 Jul 2026 11:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>So manipulieren Supermärkte Deine Kaufentscheidung</title>
-      <link>https://www.finanztip.de/daily/so-manipulieren-supermaerkte-deine-kaufentscheidung/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/so-manipulieren-supermaerkte-deine-kaufentscheidung/</guid>
-      <pubDate>Mon, 27 Jul 2026 04:50:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
