@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 02 Sep 2026 08:06:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:06:07 GMT</lastBuildDate>
+    <item>
+      <title>Community-Frage: Ein Blick in Eure Depots</title>
+      <link>https://www.finanztip.de/daily/community-frage-ein-blick-in-eure-depots/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/community-frage-ein-blick-in-eure-depots/</guid>
+      <pubDate>Wed, 02 Sep 2026 09:06:07 GMT</pubDate>
+    </item>
     <item>
       <title>Notgroschen: So baust Du Dein “No-Drama”-Konto auf</title>
       <link>https://www.finanztip.de/daily/notgroschen-so-baust-du-dein-no-drama-konto-auf/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/brauchst-du-2026-noch-eine-girocard/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/brauchst-du-2026-noch-eine-girocard/</guid>
       <pubDate>Tue, 28 Jul 2026 17:01:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX: Warum die Börsen-Euphorie verpufft ist</title>
-      <link>https://www.finanztip.de/daily/spacex-warum-die-boersen-euphorie-verpufft-ist/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/spacex-warum-die-boersen-euphorie-verpufft-ist/</guid>
-      <pubDate>Tue, 28 Jul 2026 11:31:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
