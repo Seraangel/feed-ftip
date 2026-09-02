@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 02 Sep 2026 16:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:11:08 GMT</lastBuildDate>
+    <item>
+      <title>Steuerreform so gut wie durch: Das erwartet Dich 2027 bei Deinen Abgaben</title>
+      <link>https://www.finanztip.de/daily/steuerreform-so-gut-wie-durch-das-erwartet-dich-2027-bei-deinen-abgaben/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/steuerreform-so-gut-wie-durch-das-erwartet-dich-2027-bei-deinen-abgaben/</guid>
+      <pubDate>Wed, 02 Sep 2026 16:11:08 GMT</pubDate>
+    </item>
     <item>
       <title>Diese 5 Anlagefehler kosten Dich Rendite und wie Du es besser machst</title>
       <link>https://www.finanztip.de/daily/diese-5-anlagefehler-kosten-dich-rendite-und-wie-du-es-besser-machst/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/so-ordnest-du-deine-finanzen-nach-einer-trennung/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/so-ordnest-du-deine-finanzen-nach-einer-trennung/</guid>
       <pubDate>Wed, 29 Jul 2026 11:31:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schluss mit Konsumschulden: So vermeidest Du Impulskäufe</title>
-      <link>https://www.finanztip.de/daily/schluss-konsumschulden-so-vermeidest-du-impulskaeufe/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/schluss-konsumschulden-so-vermeidest-du-impulskaeufe/</guid>
-      <pubDate>Wed, 29 Jul 2026 09:08:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
