@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 02 Sep 2026 09:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:06:07 GMT</lastBuildDate>
+    <item>
+      <title>Altersvorsorge-Depot: Warum es gerade für Frauen interessant sein kann</title>
+      <link>https://www.finanztip.de/daily/altersvorsorge-depot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/altersvorsorge-depot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</guid>
+      <pubDate>Wed, 02 Sep 2026 11:06:07 GMT</pubDate>
+    </item>
     <item>
       <title>Community-Frage: Ein Blick in Eure Depots</title>
       <link>https://www.finanztip.de/daily/community-frage-ein-blick-in-eure-depots/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/impulskaeufe-im-griff/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/impulskaeufe-im-griff/</guid>
       <pubDate>Wed, 29 Jul 2026 06:14:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brauchst Du 2026 noch eine Girocard?</title>
-      <link>https://www.finanztip.de/daily/brauchst-du-2026-noch-eine-girocard/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/brauchst-du-2026-noch-eine-girocard/</guid>
-      <pubDate>Tue, 28 Jul 2026 17:01:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
