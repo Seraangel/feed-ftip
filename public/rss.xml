@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 08:06:06 GMT</lastBuildDate>
+    <item>
+      <title>Notgroschen: So baust Du Dein “No-Drama”-Konto auf</title>
+      <link>https://www.finanztip.de/daily/notgroschen-so-baust-du-dein-no-drama-konto-auf/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/notgroschen-so-baust-du-dein-no-drama-konto-auf/</guid>
+      <pubDate>Wed, 02 Sep 2026 08:06:06 GMT</pubDate>
+    </item>
     <item>
       <title>AV-Depot: Für wen sich das so richtig lohnt</title>
       <link>https://www.finanztip.de/daily/av-depot-fuer-wen-sich-das-so-richtig-lohnt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/spacex-warum-die-boersen-euphorie-verpufft-ist/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/spacex-warum-die-boersen-euphorie-verpufft-ist/</guid>
       <pubDate>Tue, 28 Jul 2026 11:31:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Homeoffice unter Druck: Darf Dein Chef Dich zurück ins Büro holen?</title>
-      <link>https://www.finanztip.de/daily/homeoffice-unter-druck-darf-dein-chef-dich-zurueck-ins-buero-holen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/homeoffice-unter-druck-darf-dein-chef-dich-zurueck-ins-buero-holen/</guid>
-      <pubDate>Tue, 28 Jul 2026 04:18:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
