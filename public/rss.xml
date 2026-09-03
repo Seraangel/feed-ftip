@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 03 Sep 2026 09:26:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:16:08 GMT</lastBuildDate>
+    <item>
+      <title>Neuer Vanguard-ETF knackt wichtige Marke</title>
+      <link>https://www.finanztip.de/daily/neuer-vanguard-etf-knackt-wichtige-marke/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/neuer-vanguard-etf-knackt-wichtige-marke/</guid>
+      <pubDate>Thu, 03 Sep 2026 12:16:08 GMT</pubDate>
+    </item>
     <item>
       <title>AV-Depot mit zwei ETFs: Reicht das?</title>
       <link>https://www.finanztip.de/daily/av-depot-mit-zwei-etfs-reicht-das/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/weniger-zuschuss-fuer-zahnersatz-brauchst-du-jetzt-die-zusatzversicherung/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/weniger-zuschuss-fuer-zahnersatz-brauchst-du-jetzt-die-zusatzversicherung/</guid>
       <pubDate>Thu, 30 Jul 2026 06:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hol Dir Bauspargebühren zurück: Jetzt bei noch mehr Verträgen</title>
-      <link>https://www.finanztip.de/daily/hol-dir-bauspargebuehren-zurueck-jetzt-bei-noch-mehr-vertraegen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/hol-dir-bauspargebuehren-zurueck-jetzt-bei-noch-mehr-vertraegen/</guid>
-      <pubDate>Wed, 29 Jul 2026 13:15:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
