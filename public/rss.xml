@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 03 Sep 2026 12:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:06:05 GMT</lastBuildDate>
+    <item>
+      <title>Sorge um den Job? So schützt Du Dich</title>
+      <link>https://www.finanztip.de/daily/sorge-um-den-job-so-schuetzt-du-dich/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/sorge-um-den-job-so-schuetzt-du-dich/</guid>
+      <pubDate>Thu, 03 Sep 2026 15:06:05 GMT</pubDate>
+    </item>
     <item>
       <title>Neuer Vanguard-ETF knackt wichtige Marke</title>
       <link>https://www.finanztip.de/daily/neuer-vanguard-etf-knackt-wichtige-marke/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/fruehstartrente-diese-regeln-sollen-fuer-familien-gelten/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/fruehstartrente-diese-regeln-sollen-fuer-familien-gelten/</guid>
       <pubDate>Thu, 30 Jul 2026 10:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Weniger Zuschuss für Zahnersatz: Brauchst Du jetzt die Zusatzversicherung?</title>
-      <link>https://www.finanztip.de/daily/weniger-zuschuss-fuer-zahnersatz-brauchst-du-jetzt-die-zusatzversicherung/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/weniger-zuschuss-fuer-zahnersatz-brauchst-du-jetzt-die-zusatzversicherung/</guid>
-      <pubDate>Thu, 30 Jul 2026 06:01:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
