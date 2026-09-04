@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 04 Sep 2026 04:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:06:06 GMT</lastBuildDate>
+    <item>
+      <title>Deals der Woche: Was Du nicht verpassen solltest</title>
+      <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3626/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3626/</guid>
+      <pubDate>Fri, 04 Sep 2026 10:06:06 GMT</pubDate>
+    </item>
     <item>
       <title>Droht Dir durch KI eine neue Finanzkrise?</title>
       <link>https://www.finanztip.de/daily/droht-dir-durch-ki-eine-neue-finanzkrise/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-reine-spekulation-wann-du-bitcoin-haben-solltest/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-reine-spekulation-wann-du-bitcoin-haben-solltest/</guid>
       <pubDate>Fri, 31 Jul 2026 07:26:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steuer-Countdown läuft ab: So schaffst Du die Frist</title>
-      <link>https://www.finanztip.de/daily/steuer-countdown-laeuft-heute-ab-so-schaffst-du-die-frist-noch/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/steuer-countdown-laeuft-heute-ab-so-schaffst-du-die-frist-noch/</guid>
-      <pubDate>Fri, 31 Jul 2026 04:35:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
