@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:36:08 GMT</lastBuildDate>
+    <item>
+      <title>Netflix dreht an der Preisschraube: So teuer wird Dein Abo</title>
+      <link>https://www.finanztip.de/daily/netflix-dreht-an-der-preisschraube-so-teuer-wird-dein-abo/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/netflix-dreht-an-der-preisschraube-so-teuer-wird-dein-abo/</guid>
+      <pubDate>Fri, 04 Sep 2026 18:36:08 GMT</pubDate>
+    </item>
     <item>
       <title>7500 € BU-Rente? Das steckt dahinter</title>
       <link>https://www.finanztip.de/daily/7500-euro-bu-rente-das-steckt-dahinter/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3126/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3126/</guid>
       <pubDate>Fri, 31 Jul 2026 12:07:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Community-Frage: Wie gut findest Du das Altersvorsorge-Depot?</title>
-      <link>https://www.finanztip.de/daily/community-frage-wie-gut-findest-du-das-altersvorsorge-depot/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/community-frage-wie-gut-findest-du-das-altersvorsorge-depot/</guid>
-      <pubDate>Fri, 31 Jul 2026 10:03:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
