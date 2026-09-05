@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:06:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:06:03 GMT</lastBuildDate>
+    <item>
+      <title>Seit 50 Jahren gilt: Halt Dein Depot einfach</title>
+      <link>https://www.finanztip.de/daily/seit-50-jahren-gilt-halt-dein-depot-einfach/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/seit-50-jahren-gilt-halt-dein-depot-einfach/</guid>
+      <pubDate>Sat, 05 Sep 2026 16:06:03 GMT</pubDate>
+    </item>
     <item>
       <title>Buy now, pay later: Wenn aus später teurer wird</title>
       <link>https://www.finanztip.de/daily/buy-now-pay-later-wenn-aus-spaeter-teurer-wird/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/das-hartnaeckigste-argument-der-versicherungsbranche-und-was-wirklich-dran-ist/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/das-hartnaeckigste-argument-der-versicherungsbranche-und-was-wirklich-dran-ist/</guid>
       <pubDate>Sat, 01 Aug 2026 16:14:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steuerfrist verpasst? Welche Strafen drohen und wie Du sie jetzt noch verhinderst</title>
-      <link>https://www.finanztip.de/daily/steuerfrist-verpasst-welche-strafen-drohen-und-wie-du-sie-jetzt-noch-verhinderst/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/steuerfrist-verpasst-welche-strafen-drohen-und-wie-du-sie-jetzt-noch-verhinderst/</guid>
-      <pubDate>Sat, 01 Aug 2026 07:03:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
