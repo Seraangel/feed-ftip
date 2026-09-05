@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 04 Sep 2026 18:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 04:06:05 GMT</lastBuildDate>
+    <item>
+      <title>Bafög: Wann ist das Einkommen Deiner Eltern zu hoch?</title>
+      <link>https://www.finanztip.de/daily/bafoeg-im-ws-26-27-wann-ist-das-einkommen-deiner-eltern-zu-hoch/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/bafoeg-im-ws-26-27-wann-ist-das-einkommen-deiner-eltern-zu-hoch/</guid>
+      <pubDate>Sat, 05 Sep 2026 04:06:05 GMT</pubDate>
+    </item>
     <item>
       <title>Netflix dreht an der Preisschraube: So teuer wird Dein Abo</title>
       <link>https://www.finanztip.de/daily/netflix-dreht-an-der-preisschraube-so-teuer-wird-dein-abo/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/einspeiseverguetung-recht-auf-reparatur-spacex-quartalsbericht-das-bringt-der-august-2026/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/einspeiseverguetung-recht-auf-reparatur-spacex-quartalsbericht-das-bringt-der-august-2026/</guid>
       <pubDate>Fri, 31 Jul 2026 16:16:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deals der Woche: Was Du nicht verpassen solltest</title>
-      <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3126/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3126/</guid>
-      <pubDate>Fri, 31 Jul 2026 12:07:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
