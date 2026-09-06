@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 06 Sep 2026 04:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 16:06:03 GMT</lastBuildDate>
+    <item>
+      <title>Bundeshaushalt 2027: Was kommt bei Dir an?</title>
+      <link>https://www.finanztip.de/daily/bundeshaushalt-2027-was-kommt-bei-dir-an/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/bundeshaushalt-2027-was-kommt-bei-dir-an/</guid>
+      <pubDate>Sun, 06 Sep 2026 16:06:03 GMT</pubDate>
+    </item>
     <item>
       <title>Tankrabatt, Festgeld, AV-Depot: Was Du diese Woche gelesen haben solltest</title>
       <link>https://www.finanztip.de/daily/tankrabatt-festgeld-av-depot-was-du-diese-woche-gelesen-haben-solltest/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/unzulaessige-gebuehren-homeoffice-versicherungen-was-du-diese-woche-gelesen-haben-solltest/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/unzulaessige-gebuehren-homeoffice-versicherungen-was-du-diese-woche-gelesen-haben-solltest/</guid>
       <pubDate>Sun, 02 Aug 2026 14:12:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zins bei Amazon Visa steigt: So entgehst Du der Kostenfalle</title>
-      <link>https://www.finanztip.de/daily/zins-bei-amazon-visa-steigt-so-entgehst-du-der-kostenfalle/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/zins-bei-amazon-visa-steigt-so-entgehst-du-der-kostenfalle/</guid>
-      <pubDate>Sun, 02 Aug 2026 06:22:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
