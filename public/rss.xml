@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 05 Sep 2026 16:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 04:06:01 GMT</lastBuildDate>
+    <item>
+      <title>Tankrabatt, Festgeld, AV-Depot: Was Du diese Woche gelesen haben solltest</title>
+      <link>https://www.finanztip.de/daily/tankrabatt-festgeld-av-depot-was-du-diese-woche-gelesen-haben-solltest/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/tankrabatt-festgeld-av-depot-was-du-diese-woche-gelesen-haben-solltest/</guid>
+      <pubDate>Sun, 06 Sep 2026 04:06:01 GMT</pubDate>
+    </item>
     <item>
       <title>Seit 50 Jahren gilt: Halt Dein Depot einfach</title>
       <link>https://www.finanztip.de/daily/seit-50-jahren-gilt-halt-dein-depot-einfach/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/zins-bei-amazon-visa-steigt-so-entgehst-du-der-kostenfalle/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/zins-bei-amazon-visa-steigt-so-entgehst-du-der-kostenfalle/</guid>
       <pubDate>Sun, 02 Aug 2026 06:22:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rentenversicherung: So viel bringt Dir der Steuervorteil wirklich</title>
-      <link>https://www.finanztip.de/daily/das-hartnaeckigste-argument-der-versicherungsbranche-und-was-wirklich-dran-ist/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/das-hartnaeckigste-argument-der-versicherungsbranche-und-was-wirklich-dran-ist/</guid>
-      <pubDate>Sat, 01 Aug 2026 16:14:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
