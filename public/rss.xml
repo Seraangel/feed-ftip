@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 14:56:00 GMT</lastBuildDate>
+    <item>
+      <title>Nach der Landtagswahl: Welche Reformpläne jetzt wieder wackeln</title>
+      <link>https://www.finanztip.de/daily/nach-der-landtagswahl-welche-reformplaene-jetzt-wieder-wackeln/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/nach-der-landtagswahl-welche-reformplaene-jetzt-wieder-wackeln/</guid>
+      <pubDate>Mon, 07 Sep 2026 14:56:00 GMT</pubDate>
+    </item>
     <item>
       <title>Bundeshaushalt 2027: Was kommt bei Dir an?</title>
       <link>https://www.finanztip.de/daily/bundeshaushalt-2027-was-kommt-bei-dir-an/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/mach-tempo-beim-heizungstausch-diese-grafik-zeigt-dir-warum/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/mach-tempo-beim-heizungstausch-diese-grafik-zeigt-dir-warum/</guid>
       <pubDate>Mon, 03 Aug 2026 04:35:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unzulässige Gebühren, Homeoffice, Versicherungen: Was Du diese Woche gelesen haben solltest</title>
-      <link>https://www.finanztip.de/daily/unzulaessige-gebuehren-homeoffice-versicherungen-was-du-diese-woche-gelesen-haben-solltest/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/unzulaessige-gebuehren-homeoffice-versicherungen-was-du-diese-woche-gelesen-haben-solltest/</guid>
-      <pubDate>Sun, 02 Aug 2026 14:12:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
