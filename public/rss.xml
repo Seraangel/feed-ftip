@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 07 Sep 2026 14:56:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:05:57 GMT</lastBuildDate>
+    <item>
+      <title>Kirchenaustritt: Musst Du Deinen Depotanbieter informieren?</title>
+      <link>https://www.finanztip.de/daily/kirchenaustritt-musst-du-deinen-depotanbieter-informieren/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/kirchenaustritt-musst-du-deinen-depotanbieter-informieren/</guid>
+      <pubDate>Tue, 08 Sep 2026 04:05:57 GMT</pubDate>
+    </item>
     <item>
       <title>Nach der Landtagswahl: Welche Reformpläne jetzt wieder wackeln</title>
       <link>https://www.finanztip.de/daily/nach-der-landtagswahl-welche-reformplaene-jetzt-wieder-wackeln/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/ruerup-oder-rentenpunkte-kaufen-welche-vorsorge-passt-besser-zu-dir/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/ruerup-oder-rentenpunkte-kaufen-welche-vorsorge-passt-besser-zu-dir/</guid>
       <pubDate>Mon, 03 Aug 2026 11:24:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tausende Euro mehr: Mach Tempo beim Heizungstausch</title>
-      <link>https://www.finanztip.de/daily/mach-tempo-beim-heizungstausch-diese-grafik-zeigt-dir-warum/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/mach-tempo-beim-heizungstausch-diese-grafik-zeigt-dir-warum/</guid>
-      <pubDate>Mon, 03 Aug 2026 04:35:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
