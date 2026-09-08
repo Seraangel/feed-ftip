@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 08 Sep 2026 15:05:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:16:02 GMT</lastBuildDate>
+    <item>
+      <title>AV-Depot: Drei Jahre für 0 €</title>
+      <link>https://www.finanztip.de/daily/av-depot-drei-jahre-fuer-0-eur/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-drei-jahre-fuer-0-eur/</guid>
+      <pubDate>Tue, 08 Sep 2026 16:16:02 GMT</pubDate>
+    </item>
     <item>
       <title>PV-Anlage ab 2027: Direktvermarktung von Enpal und 1Komma5° im Check</title>
       <link>https://www.finanztip.de/daily/pv-anlage-ab-2027-direktvermarktung-von-enpal-und-1komma5-im-check/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/was-ist-eigentlich-aus-silber-geworden-warum-der-preis-trotz-rekordnachfrage-faellt/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/was-ist-eigentlich-aus-silber-geworden-warum-der-preis-trotz-rekordnachfrage-faellt/</guid>
       <pubDate>Wed, 05 Aug 2026 04:18:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deutschlandticket: So viel könnte es ab 2027 kosten</title>
-      <link>https://www.finanztip.de/daily/deutschlandticket-kostet-es-2027-schon-6640-eur/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/deutschlandticket-kostet-es-2027-schon-6640-eur/</guid>
-      <pubDate>Tue, 04 Aug 2026 17:20:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
