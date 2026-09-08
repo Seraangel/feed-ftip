@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:35:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:05:53 GMT</lastBuildDate>
+    <item>
+      <title>PV-Anlage ab 2027: Direktvermarktung von Enpal und 1Komma5° im Check</title>
+      <link>https://www.finanztip.de/daily/pv-anlage-ab-2027-direktvermarktung-von-enpal-und-1komma5-im-check/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/pv-anlage-ab-2027-direktvermarktung-von-enpal-und-1komma5-im-check/</guid>
+      <pubDate>Tue, 08 Sep 2026 15:05:53 GMT</pubDate>
+    </item>
     <item>
       <title>Revolut oder Chase: Welches Tagesgeld bringt Dir mehr?</title>
       <link>https://www.finanztip.de/daily/web/revolut-oder-chase-welches-tagesgeld-bringt-dir-mehr/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/deutschlandticket-kostet-es-2027-schon-6640-eur/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/deutschlandticket-kostet-es-2027-schon-6640-eur/</guid>
       <pubDate>Tue, 04 Aug 2026 17:20:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nach der Schule noch planlos? Dieses neue Angebot kann helfen</title>
-      <link>https://www.finanztip.de/daily/nach-dem-abschluss-kennst-du-schon-dieses-angebot-zur-berufsorientierung/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/nach-dem-abschluss-kennst-du-schon-dieses-angebot-zur-berufsorientierung/</guid>
-      <pubDate>Tue, 04 Aug 2026 11:49:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
