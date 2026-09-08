@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:35:58 GMT</lastBuildDate>
+    <item>
+      <title>Revolut oder Chase: Welches Tagesgeld bringt Dir mehr?</title>
+      <link>https://www.finanztip.de/daily/web/revolut-oder-chase-welches-tagesgeld-bringt-dir-mehr/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/revolut-oder-chase-welches-tagesgeld-bringt-dir-mehr/</guid>
+      <pubDate>Tue, 08 Sep 2026 12:35:58 GMT</pubDate>
+    </item>
     <item>
       <title>Steuererstattung erhalten: Was machst Du am besten mit dem Geld?</title>
       <link>https://www.finanztip.de/daily/steuererstattung-was-machst-du-am-besten-mit-dem-geld/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/nach-dem-abschluss-kennst-du-schon-dieses-angebot-zur-berufsorientierung/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/nach-dem-abschluss-kennst-du-schon-dieses-angebot-zur-berufsorientierung/</guid>
       <pubDate>Tue, 04 Aug 2026 11:49:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kreditkarten-Versicherungen: Darum reichen sie oft nicht aus</title>
-      <link>https://www.finanztip.de/daily/kreditkarten-versicherungen-darum-reichen-sie-oft-nicht-aus/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/kreditkarten-versicherungen-darum-reichen-sie-oft-nicht-aus/</guid>
-      <pubDate>Tue, 04 Aug 2026 04:26:40 GMT</pubDate>
     </item>
   </channel>
 </rss>
