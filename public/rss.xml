@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:05:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:05:54 GMT</lastBuildDate>
+    <item>
+      <title>Steuererstattung erhalten: Was machst Du am besten mit dem Geld?</title>
+      <link>https://www.finanztip.de/daily/steuererstattung-was-machst-du-am-besten-mit-dem-geld/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/steuererstattung-was-machst-du-am-besten-mit-dem-geld/</guid>
+      <pubDate>Tue, 08 Sep 2026 10:05:54 GMT</pubDate>
+    </item>
     <item>
       <title>Kirchenaustritt: Musst Du Deinen Depotanbieter informieren?</title>
       <link>https://www.finanztip.de/daily/kirchenaustritt-musst-du-deinen-depotanbieter-informieren/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/kreditkarten-versicherungen-darum-reichen-sie-oft-nicht-aus/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/kreditkarten-versicherungen-darum-reichen-sie-oft-nicht-aus/</guid>
       <pubDate>Tue, 04 Aug 2026 04:26:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rürup oder Rentenpunkte kaufen: Welche Vorsorge passt besser zu Dir?</title>
-      <link>https://www.finanztip.de/daily/ruerup-oder-rentenpunkte-kaufen-welche-vorsorge-passt-besser-zu-dir/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/ruerup-oder-rentenpunkte-kaufen-welche-vorsorge-passt-besser-zu-dir/</guid>
-      <pubDate>Mon, 03 Aug 2026 11:24:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
