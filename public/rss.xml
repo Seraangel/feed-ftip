@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 08 Sep 2026 16:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 05:05:54 GMT</lastBuildDate>
+    <item>
+      <title>Handy günstiger kaufen: Das ist Dein größter Sparhebel</title>
+      <link>https://www.finanztip.de/daily/web/handy-guenstiger-kaufen-das-ist-dein-groesster-sparhebel/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/handy-guenstiger-kaufen-das-ist-dein-groesster-sparhebel/</guid>
+      <pubDate>Wed, 09 Sep 2026 05:05:54 GMT</pubDate>
+    </item>
     <item>
       <title>AV-Depot: Drei Jahre für 0 €</title>
       <link>https://www.finanztip.de/daily/av-depot-drei-jahre-fuer-0-eur/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/community-frage-machst-du-dir-sorgen-um-die-altersvorsorge-deiner-eltern/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/community-frage-machst-du-dir-sorgen-um-die-altersvorsorge-deiner-eltern/</guid>
       <pubDate>Wed, 05 Aug 2026 11:35:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Was ist eigentlich aus Silber geworden? Warum der Preis trotz Rekordnachfrage fällt</title>
-      <link>https://www.finanztip.de/daily/was-ist-eigentlich-aus-silber-geworden-warum-der-preis-trotz-rekordnachfrage-faellt/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/was-ist-eigentlich-aus-silber-geworden-warum-der-preis-trotz-rekordnachfrage-faellt/</guid>
-      <pubDate>Wed, 05 Aug 2026 04:18:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
