@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 10 Sep 2026 04:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:35:51 GMT</lastBuildDate>
+    <item>
+      <title>Dieses Werkstattrisiko trägst Du trotz Vollkasko selbst</title>
+      <link>https://www.finanztip.de/daily/dieses-werkstattrisiko-traegst-du-trotz-vollkasko-selbst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/dieses-werkstattrisiko-traegst-du-trotz-vollkasko-selbst/</guid>
+      <pubDate>Thu, 10 Sep 2026 09:35:51 GMT</pubDate>
+    </item>
     <item>
       <title>Sammelklage gegen E.ON: Über 1.000 € Erstattung möglich</title>
       <link>https://www.finanztip.de/daily/sammelklage-gegen-eon-ueber-1000-eur-erstattung-moeglich/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/von-mastercard-zu-visa-was-commerzbank-kunden-beachten-muessen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/von-mastercard-zu-visa-was-commerzbank-kunden-beachten-muessen/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unlimited heißt nicht grenzenlos: Wann Dein Handytarif eingeschränkt werden darf</title>
-      <link>https://www.finanztip.de/daily/unlimited-heisst-nicht-grenzenlos-wann-dein-handytarif-eingeschraenkt-werden-darf/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/unlimited-heisst-nicht-grenzenlos-wann-dein-handytarif-eingeschraenkt-werden-darf/</guid>
-      <pubDate>Thu, 06 Aug 2026 15:27:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
