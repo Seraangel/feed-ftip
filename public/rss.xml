@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:05:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:05:55 GMT</lastBuildDate>
+    <item>
+      <title>Sammelklage gegen E.ON: Über 1.000 € Erstattung möglich</title>
+      <link>https://www.finanztip.de/daily/sammelklage-gegen-eon-ueber-1000-eur-erstattung-moeglich/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/sammelklage-gegen-eon-ueber-1000-eur-erstattung-moeglich/</guid>
+      <pubDate>Thu, 10 Sep 2026 04:05:55 GMT</pubDate>
+    </item>
     <item>
       <title>Neue Regionalklassen: Wird Deine Autoversicherung jetzt teurer?</title>
       <link>https://www.finanztip.de/daily/regionalklassen-aendern-sich-wird-deine-autoversicherung-jetzt-teurer/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/unlimited-heisst-nicht-grenzenlos-wann-dein-handytarif-eingeschraenkt-werden-darf/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/unlimited-heisst-nicht-grenzenlos-wann-dein-handytarif-eingeschraenkt-werden-darf/</guid>
       <pubDate>Thu, 06 Aug 2026 15:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neue Rekorde bei Welt-Indizes: So viel wert waren MSCI IMI &amp; Co. noch nie</title>
-      <link>https://www.finanztip.de/daily/neue-rekorde-bei-welt-indizes-so-viel-wert-waren-msci-imi-co-noch-nie/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/neue-rekorde-bei-welt-indizes-so-viel-wert-waren-msci-imi-co-noch-nie/</guid>
-      <pubDate>Thu, 06 Aug 2026 06:21:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
