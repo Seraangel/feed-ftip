@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:25:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 19:05:58 GMT</lastBuildDate>
+    <item>
+      <title>Für Unterstützer: ETF verkaufen? So mistest Du Dein Depot aus</title>
+      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-etf-verkaufen-so-mistest-du-dein-depot-aus/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-etf-verkaufen-so-mistest-du-dein-depot-aus/</guid>
+      <pubDate>Thu, 10 Sep 2026 19:05:58 GMT</pubDate>
+    </item>
     <item>
       <title>AV-Depot-Ticker: Die Angebote im Überblick</title>
       <link>https://www.finanztip.de/daily/av-depot-ticker-diese-anbieter-sind-dabei/</link>
@@ -599,12 +605,6 @@
       <title>Sonnenfinsternis: So sparst Du heute beim E-Auto-Laden</title>
       <link>https://www.finanztip.de/daily/sonnenfinsternis-so-sparst-du-heute-beim-e-auto-laden/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/sonnenfinsternis-so-sparst-du-heute-beim-e-auto-laden/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Strom und Gas: Lohnt sich ein Wechselservice für Dich?</title>
-      <link>https://www.finanztip.de/daily/strom-und-gas-lohnt-sich-ein-wechselservice-fuer-dich/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/strom-und-gas-lohnt-sich-ein-wechselservice-fuer-dich/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
     </item>
   </channel>
