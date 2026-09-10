@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:45:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:25:53 GMT</lastBuildDate>
+    <item>
+      <title>AV-Depot-Ticker: Die Angebote im Überblick</title>
+      <link>https://www.finanztip.de/daily/av-depot-ticker-diese-anbieter-sind-dabei/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-ticker-diese-anbieter-sind-dabei/</guid>
+      <pubDate>Thu, 10 Sep 2026 14:25:53 GMT</pubDate>
+    </item>
     <item>
       <title>EZB erhöht: Welche Zinsen jetzt steigen – und welche nicht</title>
       <link>https://www.finanztip.de/daily/ezb-erhoeht-welche-zinsen-jetzt-steigen-und-welche-nicht/</link>
@@ -599,12 +605,6 @@
       <title>Strom und Gas: Lohnt sich ein Wechselservice für Dich?</title>
       <link>https://www.finanztip.de/daily/strom-und-gas-lohnt-sich-ein-wechselservice-fuer-dich/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/strom-und-gas-lohnt-sich-ein-wechselservice-fuer-dich/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Truth Social: Haben Großanleger jetzt einen unfairen Börsenvorteil?</title>
-      <link>https://www.finanztip.de/daily/truth-social-haben-grossanleger-jetzt-einen-unfairen-boersenvorteil/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/truth-social-haben-grossanleger-jetzt-einen-unfairen-boersenvorteil/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
     </item>
   </channel>
