@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 10 Sep 2026 19:05:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 04:05:51 GMT</lastBuildDate>
+    <item>
+      <title>Brauchst Du im Alter 300.000 € mehr als gedacht?</title>
+      <link>https://www.finanztip.de/daily/jetzt-nachrechnen-so-gut-kannst-du-im-alter-leben/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/jetzt-nachrechnen-so-gut-kannst-du-im-alter-leben/</guid>
+      <pubDate>Fri, 11 Sep 2026 04:05:51 GMT</pubDate>
+    </item>
     <item>
       <title>Für Unterstützer: ETF verkaufen? So mistest Du Dein Depot aus</title>
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-etf-verkaufen-so-mistest-du-dein-depot-aus/</link>
@@ -599,12 +605,6 @@
       <title>Smart-Meter-Angebot im Check: Lohnt sich ein früher Einbau?</title>
       <link>https://www.finanztip.de/daily/smart-meter-angebot-im-check-lohnt-sich-ein-frueher-einbau/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/smart-meter-angebot-im-check-lohnt-sich-ein-frueher-einbau/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sonnenfinsternis: So sparst Du heute beim E-Auto-Laden</title>
-      <link>https://www.finanztip.de/daily/sonnenfinsternis-so-sparst-du-heute-beim-e-auto-laden/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/sonnenfinsternis-so-sparst-du-heute-beim-e-auto-laden/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
     </item>
   </channel>
