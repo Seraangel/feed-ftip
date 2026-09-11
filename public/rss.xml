@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 11 Sep 2026 04:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:05:57 GMT</lastBuildDate>
+    <item>
+      <title>Lohnen sich Robo-Advisors für Deine Geldanlage noch?</title>
+      <link>https://www.finanztip.de/daily/lohnen-sich-robo-advisors-fuer-deine-geldanlage-noch/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/lohnen-sich-robo-advisors-fuer-deine-geldanlage-noch/</guid>
+      <pubDate>Fri, 11 Sep 2026 07:05:57 GMT</pubDate>
+    </item>
     <item>
       <title>Brauchst Du im Alter 300.000 € mehr als gedacht?</title>
       <link>https://www.finanztip.de/daily/jetzt-nachrechnen-so-gut-kannst-du-im-alter-leben/</link>
@@ -599,12 +605,6 @@
       <title>Nimmt KI Dir den Job weg? So real ist die Sorge wirklich</title>
       <link>https://www.finanztip.de/daily/nimmt-ki-dir-den-job-weg-so-real-ist-die-sorge-wirklich/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/nimmt-ki-dir-den-job-weg-so-real-ist-die-sorge-wirklich/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smart-Meter-Angebot im Check: Lohnt sich ein früher Einbau?</title>
-      <link>https://www.finanztip.de/daily/smart-meter-angebot-im-check-lohnt-sich-ein-frueher-einbau/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/smart-meter-angebot-im-check-lohnt-sich-ein-frueher-einbau/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
     </item>
   </channel>
