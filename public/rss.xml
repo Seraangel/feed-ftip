@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:06:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:06:04 GMT</lastBuildDate>
+    <item>
+      <title>Finanztip Woman: Mehr finanzieller Spielraum für Deine Zukunft</title>
+      <link>https://www.finanztip.de/daily/finanztip-woman-mehr-finanzieller-spielraum-fuer-deine-zukunft/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/finanztip-woman-mehr-finanzieller-spielraum-fuer-deine-zukunft/</guid>
+      <pubDate>Fri, 11 Sep 2026 16:06:04 GMT</pubDate>
+    </item>
     <item>
       <title>Deals der Woche: Was Du nicht verpassen solltest</title>
       <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3726/</link>
@@ -599,12 +605,6 @@
       <title>Haus kühlen: Wärmepumpe oder Klimaanlage?</title>
       <link>https://www.finanztip.de/daily/haus-kuehlen-waermepumpe-oder-klimaanlage/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/haus-kuehlen-waermepumpe-oder-klimaanlage/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mogelpackung des Monats: Schokolade, Waschmittel &amp; Co werden teurer</title>
-      <link>https://www.finanztip.de/daily/mogelpackung-des-monats-schokolade-waschmittel-co-werden-teurer/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/mogelpackung-des-monats-schokolade-waschmittel-co-werden-teurer/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
     </item>
   </channel>
