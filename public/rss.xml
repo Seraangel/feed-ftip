@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:05:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:06:05 GMT</lastBuildDate>
+    <item>
+      <title>Deals der Woche: Was Du nicht verpassen solltest</title>
+      <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3726/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3726/</guid>
+      <pubDate>Fri, 11 Sep 2026 10:06:05 GMT</pubDate>
+    </item>
     <item>
       <title>Lohnen sich Robo-Advisors für Deine Geldanlage noch?</title>
       <link>https://www.finanztip.de/daily/lohnen-sich-robo-advisors-fuer-deine-geldanlage-noch/</link>
@@ -599,12 +605,6 @@
       <title>Mogelpackung des Monats: Schokolade, Waschmittel &amp; Co werden teurer</title>
       <link>https://www.finanztip.de/daily/mogelpackung-des-monats-schokolade-waschmittel-co-werden-teurer/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/mogelpackung-des-monats-schokolade-waschmittel-co-werden-teurer/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nimmt KI Dir den Job weg? So real ist die Sorge wirklich</title>
-      <link>https://www.finanztip.de/daily/nimmt-ki-dir-den-job-weg-so-real-ist-die-sorge-wirklich/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/nimmt-ki-dir-den-job-weg-so-real-ist-die-sorge-wirklich/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
     </item>
   </channel>
