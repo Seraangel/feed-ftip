@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:35:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:05:46 GMT</lastBuildDate>
+    <item>
+      <title>Deutschland hat den teuersten Strom: So sparst Du</title>
+      <link>https://www.finanztip.de/daily/deutschland-hat-den-teuersten-stromso-sparst-du/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/deutschland-hat-den-teuersten-stromso-sparst-du/</guid>
+      <pubDate>Sat, 12 Sep 2026 16:05:46 GMT</pubDate>
+    </item>
     <item>
       <title>Ayvens Bank oder Chase: Wo bekommst Du mehr fürs Tagesgeld?</title>
       <link>https://www.finanztip.de/daily/web/ayvens-bank-oder-chase-wo-bekommst-du-mehr-fuers-tagesgeld/</link>
@@ -599,12 +605,6 @@
       <title>Frühstart-Rente: Wie viel ist Flexibilität wert?</title>
       <link>https://www.finanztip.de/daily/fruehstart-rente-wie-viel-ist-flexibilitaet-wert/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/fruehstart-rente-wie-viel-ist-flexibilitaet-wert/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Unterstützer: Was Dich Pflege wirklich kostet</title>
-      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-was-dich-pflege-wirklich-kostet/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-was-dich-pflege-wirklich-kostet/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
     </item>
   </channel>
