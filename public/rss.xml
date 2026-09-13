@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 13 Sep 2026 04:05:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:05:16 GMT</lastBuildDate>
+    <item>
+      <title>In 8 Schritten wird Dein Erspartes zum Vermögen</title>
+      <link>https://www.finanztip.de/daily/in-8-schritten-wird-dein-erspartes-zum-vermoegen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/in-8-schritten-wird-dein-erspartes-zum-vermoegen/</guid>
+      <pubDate>Sun, 13 Sep 2026 16:05:16 GMT</pubDate>
+    </item>
     <item>
       <title>Steuer- und Rentenreform, Gaspreise, Tagesgeld: Was Du diese Woche gelesen haben solltest</title>
       <link>https://www.finanztip.de/daily/steuer-und-rentenreform-gaspreise-tagesgeld-was-du-diese-woche-gelesen-haben-solltest/</link>
@@ -599,12 +605,6 @@
       <title>Eure Fragen zum Altersvorsorge-Depot: Lohnt es sich für Dich?</title>
       <link>https://www.finanztip.de/daily/eure-fragen-zum-altersvorsorge-depot-lohnt-es-sich-fuer-dich/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/eure-fragen-zum-altersvorsorge-depot-lohnt-es-sich-fuer-dich/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Financial Awareness Day: Wie Du Dein Geld besser im Blick behältst</title>
-      <link>https://www.finanztip.de/daily/financial-awareness-day-wie-du-dein-geld-besser-im-blick-behaeltst/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/financial-awareness-day-wie-du-dein-geld-besser-im-blick-behaeltst/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
     </item>
   </channel>
