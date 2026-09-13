@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:05:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 04:05:27 GMT</lastBuildDate>
+    <item>
+      <title>Steuer- und Rentenreform, Gaspreise, Tagesgeld: Was Du diese Woche gelesen haben solltest</title>
+      <link>https://www.finanztip.de/daily/steuer-und-rentenreform-gaspreise-tagesgeld-was-du-diese-woche-gelesen-haben-solltest/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/steuer-und-rentenreform-gaspreise-tagesgeld-was-du-diese-woche-gelesen-haben-solltest/</guid>
+      <pubDate>Sun, 13 Sep 2026 04:05:27 GMT</pubDate>
+    </item>
     <item>
       <title>Deutschland hat den teuersten Strom: So sparst Du</title>
       <link>https://www.finanztip.de/daily/deutschland-hat-den-teuersten-stromso-sparst-du/</link>
@@ -599,12 +605,6 @@
       <title>Financial Awareness Day: Wie Du Dein Geld besser im Blick behältst</title>
       <link>https://www.finanztip.de/daily/financial-awareness-day-wie-du-dein-geld-besser-im-blick-behaeltst/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/financial-awareness-day-wie-du-dein-geld-besser-im-blick-behaeltst/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frühstart-Rente: Wie viel ist Flexibilität wert?</title>
-      <link>https://www.finanztip.de/daily/fruehstart-rente-wie-viel-ist-flexibilitaet-wert/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fruehstart-rente-wie-viel-ist-flexibilitaet-wert/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
     </item>
   </channel>
