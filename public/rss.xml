@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:35:19 GMT</lastBuildDate>
+    <item>
+      <title>Stadt, Land, Immobilienschwemme: Deine Chance auf ein Eigenheim?</title>
+      <link>https://www.finanztip.de/daily/hauskauf-wo-der-demografische-wandel-deine-chancen-verbessern-koennte/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/hauskauf-wo-der-demografische-wandel-deine-chancen-verbessern-koennte/</guid>
+      <pubDate>Mon, 14 Sep 2026 15:35:19 GMT</pubDate>
+    </item>
     <item>
       <title>Ayvens oder Chase: Bei welcher Bank bekommst Du mehr fürs Tagesgeld?</title>
       <link>https://www.finanztip.de/daily/web/ayvens-bank-und-chase-bieten-neukunden-vier-prozent-aufs-tagesgeld/</link>
@@ -599,12 +605,6 @@
       <title>Deals der Woche: Was Du nicht verpassen solltest</title>
       <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3326/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3326/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Die Schaufeln des KI-Goldrauschs: Hier wird still und leise mitverdient</title>
-      <link>https://www.finanztip.de/daily/die-schaufeln-des-ki-goldrauschs-hier-wird-still-und-leise-mitverdient/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/die-schaufeln-des-ki-goldrauschs-hier-wird-still-und-leise-mitverdient/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
     </item>
   </channel>
