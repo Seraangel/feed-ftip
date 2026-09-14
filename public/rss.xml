@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:05:22 GMT</lastBuildDate>
+    <item>
+      <title>Unterhalt fällig, obwohl Dein Kind in der Ausbildung verdient?</title>
+      <link>https://www.finanztip.de/daily/web/unterhalt-faellig-obwohl-dein-kind-in-der-ausbildung-verdient/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/unterhalt-faellig-obwohl-dein-kind-in-der-ausbildung-verdient/</guid>
+      <pubDate>Mon, 14 Sep 2026 13:05:22 GMT</pubDate>
+    </item>
     <item>
       <title>Anleihen: Ist eine Zinsänderung ein Warnsignal?</title>
       <link>https://www.finanztip.de/daily/anleihen-ist-eine-zinsaenderung-ein-warnsignal/</link>
@@ -599,12 +605,6 @@
       <title>Einheitlich 19 % Mehrwertsteuer: Was das für Dich bedeuten könnte</title>
       <link>https://www.finanztip.de/daily/einheitlich-19-mehrwertsteuer-was-das-fuer-dich-bedeuten-koennte/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/einheitlich-19-mehrwertsteuer-was-das-fuer-dich-bedeuten-koennte/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eure Fragen zum Altersvorsorge-Depot: Das wollt Ihr wissen</title>
-      <link>https://www.finanztip.de/daily/eure-fragen-zum-altersvorsorge-depot-das-wollt-ihr-wissen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/eure-fragen-zum-altersvorsorge-depot-das-wollt-ihr-wissen/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
     </item>
   </channel>
