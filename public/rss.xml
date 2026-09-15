@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 15 Sep 2026 09:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:25:20 GMT</lastBuildDate>
+    <item>
+      <title>Unfall im Verein? Wie Du im Ehrenamt geschützt bist</title>
+      <link>https://www.finanztip.de/daily/unfall-im-verein-wie-du-im-ehrenamt-geschuetzt-bist/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/unfall-im-verein-wie-du-im-ehrenamt-geschuetzt-bist/</guid>
+      <pubDate>Tue, 15 Sep 2026 12:25:20 GMT</pubDate>
+    </item>
     <item>
       <title>20.000 € Notgroschen: Was jetzt?</title>
       <link>https://www.finanztip.de/daily/20000-eur-notgroschen-was-jetzt/</link>
@@ -599,12 +605,6 @@
       <title>Amazon verkürzt Rückgabefrist: Bei diesen Produkten hast Du nur noch 14 Tage</title>
       <link>https://www.finanztip.de/daily/amazon-verkuerzt-rueckgabefrist-bei-diesen-produkten-hast-du-nur-noch-14-tage/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/amazon-verkuerzt-rueckgabefrist-bei-diesen-produkten-hast-du-nur-noch-14-tage/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bank oder Vermittler? So findest Du die richtige Baufinanzierung</title>
-      <link>https://www.finanztip.de/daily/bank-oder-vermittler-so-findest-du-die-richtige-baufinanzierung/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/bank-oder-vermittler-so-findest-du-die-richtige-baufinanzierung/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
     </item>
   </channel>
