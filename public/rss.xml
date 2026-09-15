@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 15 Sep 2026 13:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:35:17 GMT</lastBuildDate>
+    <item>
+      <title>Pflegefall in der Familie? Was jetzt zu tun ist</title>
+      <link>https://www.finanztip.de/daily/pflegefall-in-der-familie-was-jetzt-zu-tun-ist/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/pflegefall-in-der-familie-was-jetzt-zu-tun-ist/</guid>
+      <pubDate>Tue, 15 Sep 2026 15:35:17 GMT</pubDate>
+    </item>
     <item>
       <title>Drohen 3 € Spritpreis? Jetzt will die Regierung gegensteuern</title>
       <link>https://www.finanztip.de/daily/drohen-3-eur-spritpreis-jetzt-will-die-regierung-gegensteuern/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/girocard-bei-santander-nun-kostenlos/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/girocard-bei-santander-nun-kostenlos/</guid>
       <pubDate>Sat, 15 Aug 2026 16:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Achtung in der Schweiz und rundherum: Surfen und telefonieren kann teuer werden</title>
-      <link>https://www.finanztip.de/daily/schweiz-surfen-und-telefonieren-kann-teuer-werden/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/schweiz-surfen-und-telefonieren-kann-teuer-werden/</guid>
-      <pubDate>Sat, 15 Aug 2026 04:05:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
