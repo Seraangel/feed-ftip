@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:30:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 09:35:21 GMT</lastBuildDate>
+    <item>
+      <title>20.000 € Notgroschen: Was jetzt?</title>
+      <link>https://www.finanztip.de/daily/20000-eur-notgroschen-was-jetzt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/20000-eur-notgroschen-was-jetzt/</guid>
+      <pubDate>Tue, 15 Sep 2026 09:35:21 GMT</pubDate>
+    </item>
     <item>
       <title>Finanztip Woman: Mach mehr aus Deinem Geld</title>
       <link>https://www.finanztip.de/daily/finanztip-woman-mach-mehr-aus-deinem-geld/</link>
@@ -599,12 +605,6 @@
       <title>Bank oder Vermittler? So findest Du die richtige Baufinanzierung</title>
       <link>https://www.finanztip.de/daily/bank-oder-vermittler-so-findest-du-die-richtige-baufinanzierung/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/bank-oder-vermittler-so-findest-du-die-richtige-baufinanzierung/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Community-Frage: Wie nutzt Du den Finanztip Newsletter und unsere App?</title>
-      <link>https://www.finanztip.de/daily/community-fragewie-nutzt-du-den-finanztip-newsletter-und-unsere-app/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/community-fragewie-nutzt-du-den-finanztip-newsletter-und-unsere-app/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
     </item>
   </channel>
