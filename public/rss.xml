@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:45:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:20:19 GMT</lastBuildDate>
+    <item>
+      <title>Finanztip Woman: Mach mehr aus Deinem Geld!</title>
+      <link>https://www.finanztip.de/daily/finanztip-woman-mach-mehr-aus-deinem-geld/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/finanztip-woman-mach-mehr-aus-deinem-geld/</guid>
+      <pubDate>Tue, 15 Sep 2026 07:20:19 GMT</pubDate>
+    </item>
     <item>
       <title>Immobilienschwemme: Deine Chance auf ein Eigenheim?</title>
       <link>https://www.finanztip.de/daily/hauskauf-wo-der-demografische-wandel-deine-chancen-verbessern-koennte/</link>
@@ -599,12 +605,6 @@
       <title>Community-Frage: Wie nutzt Du den Finanztip Newsletter und unsere App?</title>
       <link>https://www.finanztip.de/daily/community-fragewie-nutzt-du-den-finanztip-newsletter-und-unsere-app/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/community-fragewie-nutzt-du-den-finanztip-newsletter-und-unsere-app/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deals der Woche: Was Du nicht verpassen solltest</title>
-      <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3326/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3326/</guid>
       <pubDate>Fri, 14 Aug 2026 18:06:02 GMT</pubDate>
     </item>
   </channel>
