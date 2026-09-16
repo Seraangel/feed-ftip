@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 16 Sep 2026 08:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:05:20 GMT</lastBuildDate>
+    <item>
+      <title>4 % bei Ayvens Bank &amp; Chase: Wo bekommst Du aktuell mehr für Dein Tagesgeld?</title>
+      <link>https://www.finanztip.de/daily/web/ayvens-und-chase-vier-prozent-aufs-tagesgeld-wo-bekommst-du-mehr/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ayvens-und-chase-vier-prozent-aufs-tagesgeld-wo-bekommst-du-mehr/</guid>
+      <pubDate>Wed, 16 Sep 2026 10:05:20 GMT</pubDate>
+    </item>
     <item>
       <title>Allianz vor Apple und Nvidia: Diese Aktien habt Ihr im Depot</title>
       <link>https://www.finanztip.de/daily/allianz-vor-apple-und-nvidia-diese-aktien-habt-ihr-im-depot/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/neue-euro-scheine-werden-sicherer-so-erkennst-du-falschgeld-schon-jetzt/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/neue-euro-scheine-werden-sicherer-so-erkennst-du-falschgeld-schon-jetzt/</guid>
       <pubDate>Mon, 17 Aug 2026 10:20:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flug verspätet? Wann Du Geld zurück bekommst</title>
-      <link>https://www.finanztip.de/daily/flug-verspaetet-wann-du-geld-zurueck-bekommst/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/flug-verspaetet-wann-du-geld-zurueck-bekommst/</guid>
-      <pubDate>Mon, 17 Aug 2026 04:05:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
