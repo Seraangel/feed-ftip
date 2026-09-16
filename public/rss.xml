@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:05:19 GMT</lastBuildDate>
+    <item>
+      <title>Lohnt sich gerade … plötzlich mal die Grundversorgung?</title>
+      <link>https://www.finanztip.de/daily/lohnt-sich-gerade-ploetzlich-mal-die-grundversorgung/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-gerade-ploetzlich-mal-die-grundversorgung/</guid>
+      <pubDate>Wed, 16 Sep 2026 15:05:19 GMT</pubDate>
+    </item>
     <item>
       <title>Mietenreport 2026: Mietpreisbremse gegen zu hohe Mieten nutzen</title>
       <link>https://www.finanztip.de/daily/web/mietenreport-2026-mietpreisbremse-gegen-zu-hohe-mieten-nutzen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/was-ist-dran-6-boersenweisheiten-im-finanztip-check/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/was-ist-dran-6-boersenweisheiten-im-finanztip-check/</guid>
       <pubDate>Tue, 18 Aug 2026 04:05:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kein KfW-Zuschuss mehr: So klappt der barrierefreie Umbau</title>
-      <link>https://www.finanztip.de/daily/kein-kfw-zuschuss-mehr-so-klappt-der-barrierefreie-umbau-trotzdem/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/kein-kfw-zuschuss-mehr-so-klappt-der-barrierefreie-umbau-trotzdem/</guid>
-      <pubDate>Mon, 17 Aug 2026 16:25:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
