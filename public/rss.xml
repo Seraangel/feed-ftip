@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:46:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:16:33 GMT</lastBuildDate>
+    <item>
+      <title>Bis zu 1.000 € möglich: Muss DAZN Dir Geld erstatten?</title>
+      <link>https://www.finanztip.de/daily/bis-zu-1000-eur-moeglich-muss-dazn-dir-geld-erstatten/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/bis-zu-1000-eur-moeglich-muss-dazn-dir-geld-erstatten/</guid>
+      <pubDate>Thu, 17 Sep 2026 10:16:33 GMT</pubDate>
+    </item>
     <item>
       <title>Durchblick beim AV-Depot – direkt in Dein Postfach</title>
       <link>https://www.finanztip.de/daily/web/durchblick-beim-av-depot-direkt-in-dein-postfach-1/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/rekordhoch-bei-gaspreisen-wie-du-jetzt-richtig-reagierst/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/rekordhoch-bei-gaspreisen-wie-du-jetzt-richtig-reagierst/</guid>
       <pubDate>Thu, 20 Aug 2026 11:35:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>MSCI World: Diese zwei deutschen Unternehmen fliegen raus</title>
-      <link>https://www.finanztip.de/daily/msci-world-diese-zwei-deutschen-unternehmen-fliegen-raus/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/msci-world-diese-zwei-deutschen-unternehmen-fliegen-raus/</guid>
-      <pubDate>Thu, 20 Aug 2026 07:55:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
