@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 16 Sep 2026 15:05:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:06:01 GMT</lastBuildDate>
+    <item>
+      <title>Durchblick beim AV-Depot – direkt in Dein Postfach</title>
+      <link>https://www.finanztip.de/daily/durchblick-beim-av-depot-direkt-in-dein-postfach/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/durchblick-beim-av-depot-direkt-in-dein-postfach/</guid>
+      <pubDate>Thu, 17 Sep 2026 04:06:01 GMT</pubDate>
+    </item>
     <item>
       <title>Lohnt sich gerade … plötzlich mal die Grundversorgung?</title>
       <link>https://www.finanztip.de/daily/lohnt-sich-gerade-ploetzlich-mal-die-grundversorgung/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/wie-guenstiges-geld-aus-japan-die-boersen-bewegt/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/wie-guenstiges-geld-aus-japan-die-boersen-bewegt/</guid>
       <pubDate>Tue, 18 Aug 2026 10:55:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Was ist dran? 6 Börsenweisheiten im Finanztip-Check</title>
-      <link>https://www.finanztip.de/daily/was-ist-dran-6-boersenweisheiten-im-finanztip-check/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/was-ist-dran-6-boersenweisheiten-im-finanztip-check/</guid>
-      <pubDate>Tue, 18 Aug 2026 04:05:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
