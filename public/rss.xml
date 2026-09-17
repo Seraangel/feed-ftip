@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:51:21 GMT</lastBuildDate>
+    <item>
+      <title>Von 1.337 Euro leben? Weshalb das für die BU deutlich zu wenig ist</title>
+      <link>https://www.finanztip.de/daily/web/von-1337-euro-leben-weshalb-das-fuer-die-bu-deutlich-zu-wenig-ist/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/von-1337-euro-leben-weshalb-das-fuer-die-bu-deutlich-zu-wenig-ist/</guid>
+      <pubDate>Thu, 17 Sep 2026 04:51:21 GMT</pubDate>
+    </item>
     <item>
       <title>Durchblick beim AV-Depot – direkt in Dein Postfach</title>
       <link>https://www.finanztip.de/daily/durchblick-beim-av-depot-direkt-in-dein-postfach/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/tagesgeld-rekord-425-p-a-aber-mit-zwei-haken/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/tagesgeld-rekord-425-p-a-aber-mit-zwei-haken/</guid>
       <pubDate>Tue, 18 Aug 2026 16:05:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wie günstiges Geld aus Japan die Börsen bewegt</title>
-      <link>https://www.finanztip.de/daily/wie-guenstiges-geld-aus-japan-die-boersen-bewegt/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/wie-guenstiges-geld-aus-japan-die-boersen-bewegt/</guid>
-      <pubDate>Tue, 18 Aug 2026 10:55:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
