@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:16:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:31:58 GMT</lastBuildDate>
+    <item>
+      <title>Vodafone-Preiserhöhung: So kannst Du Dich der Sammelklage anschließen</title>
+      <link>https://www.finanztip.de/daily/web/vodafone-preiserhoehung-so-kannst-du-dich-der-sammelklage-anschliessen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/vodafone-preiserhoehung-so-kannst-du-dich-der-sammelklage-anschliessen/</guid>
+      <pubDate>Thu, 17 Sep 2026 14:31:58 GMT</pubDate>
+    </item>
     <item>
       <title>140 % Rendite mit dem ATX und was dahintersteckt</title>
       <link>https://www.finanztip.de/daily/140-rendite-mit-dem-atx-und-was-dahintersteckt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/altersvorsorge-depot-mit-0-kosten-erster-anbieter-stellt-sein-produkt-vor/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/altersvorsorge-depot-mit-0-kosten-erster-anbieter-stellt-sein-produkt-vor/</guid>
       <pubDate>Thu, 20 Aug 2026 14:15:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neuer Vanguard-ETF mit 99 % Marktabdeckung: Eine gute Investition?</title>
-      <link>https://www.finanztip.de/daily/der-neue-vanguard-etf-deckt-fast-die-ganze-welt-ab-eine-gute-investition/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/der-neue-vanguard-etf-deckt-fast-die-ganze-welt-ab-eine-gute-investition/</guid>
-      <pubDate>Thu, 20 Aug 2026 12:30:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
