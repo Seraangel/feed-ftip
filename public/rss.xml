@@ -6,7 +6,19 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:31:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:06:25 GMT</lastBuildDate>
+    <item>
+      <title>Für Unterstützer: Sanieren – Zuschüsse oder von der Steuer absetzen?</title>
+      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-sanieren-zuschuesse-oder-von-der-steuer-absetzen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-sanieren-zuschuesse-oder-von-der-steuer-absetzen/</guid>
+      <pubDate>Thu, 17 Sep 2026 16:06:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rekordrenditen bei Anleihen: Das ist der Haken</title>
+      <link>https://www.finanztip.de/daily/rekordrenditen-bei-anleihen-das-ist-der-haken/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/rekordrenditen-bei-anleihen-das-ist-der-haken/</guid>
+      <pubDate>Thu, 17 Sep 2026 16:06:25 GMT</pubDate>
+    </item>
     <item>
       <title>Vodafone-Preiserhöhung: So kannst Du Dich der Sammelklage anschließen</title>
       <link>https://www.finanztip.de/daily/web/vodafone-preiserhoehung-so-kannst-du-dich-der-sammelklage-anschliessen/</link>
@@ -594,18 +606,6 @@
       <link>https://www.finanztip.de/daily/bu-rente-diese-80-regel-solltest-du-kennen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/bu-rente-diese-80-regel-solltest-du-kennen/</guid>
       <pubDate>Fri, 21 Aug 2026 08:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stecken wir in einer zweiten Dotcom-Blase?</title>
-      <link>https://www.finanztip.de/daily/stecken-wir-in-einer-zweiten-dotcom-blase/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/stecken-wir-in-einer-zweiten-dotcom-blase/</guid>
-      <pubDate>Fri, 21 Aug 2026 04:05:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Altersvorsorge-Depot mit 0 % Kosten: Erster Anbieter stellt sein Produkt vor</title>
-      <link>https://www.finanztip.de/daily/altersvorsorge-depot-mit-0-kosten-erster-anbieter-stellt-sein-produkt-vor/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/altersvorsorge-depot-mit-0-kosten-erster-anbieter-stellt-sein-produkt-vor/</guid>
-      <pubDate>Thu, 20 Aug 2026 14:15:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
