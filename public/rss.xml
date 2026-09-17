@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:51:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:16:31 GMT</lastBuildDate>
+    <item>
+      <title>Durchblick beim AV-Depot – direkt in Dein Postfach</title>
+      <link>https://www.finanztip.de/daily/durchblick-beim-av-depot-direkt-in-dein-postfach-1/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/durchblick-beim-av-depot-direkt-in-dein-postfach-1/</guid>
+      <pubDate>Thu, 17 Sep 2026 08:16:31 GMT</pubDate>
+    </item>
     <item>
       <title>Von 1.337 Euro leben? Weshalb das für die BU deutlich zu wenig ist</title>
       <link>https://www.finanztip.de/daily/web/von-1337-euro-leben-weshalb-das-fuer-die-bu-deutlich-zu-wenig-ist/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/hoert-dein-handy-dich-ab-darum-passt-werbung-verdaechtig-gut/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/hoert-dein-handy-dich-ab-darum-passt-werbung-verdaechtig-gut/</guid>
       <pubDate>Wed, 19 Aug 2026 07:50:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tagesgeld-Rekord: 4,25 % p. a. – aber mit zwei Haken</title>
-      <link>https://www.finanztip.de/daily/tagesgeld-rekord-425-p-a-aber-mit-zwei-haken/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/tagesgeld-rekord-425-p-a-aber-mit-zwei-haken/</guid>
-      <pubDate>Tue, 18 Aug 2026 16:05:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
