@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 17 Sep 2026 08:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:56:20 GMT</lastBuildDate>
+    <item>
+      <title>Achtung, Phishing: Diese Mail ist nicht von Finanztip</title>
+      <link>https://www.finanztip.de/daily/achtung-phishing-diese-mail-ist-nicht-von-finanztip/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/achtung-phishing-diese-mail-ist-nicht-von-finanztip/</guid>
+      <pubDate>Thu, 17 Sep 2026 08:56:20 GMT</pubDate>
+    </item>
     <item>
       <title>Durchblick beim AV-Depot – direkt in Dein Postfach</title>
       <link>https://www.finanztip.de/daily/durchblick-beim-av-depot-direkt-in-dein-postfach-1/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/agb-geaendert-darf-die-bank-dein-konto-einfach-kuendigen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/agb-geaendert-darf-die-bank-dein-konto-einfach-kuendigen/</guid>
       <pubDate>Wed, 19 Aug 2026 11:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hört Dein Handy Dich ab? Darum passt Werbung oft verdächtig gut</title>
-      <link>https://www.finanztip.de/daily/hoert-dein-handy-dich-ab-darum-passt-werbung-verdaechtig-gut/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/hoert-dein-handy-dich-ab-darum-passt-werbung-verdaechtig-gut/</guid>
-      <pubDate>Wed, 19 Aug 2026 07:50:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
