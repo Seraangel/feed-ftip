@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 18 Sep 2026 04:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:02:47 GMT</lastBuildDate>
+    <item>
+      <title>Zinsschock für Deine Immobilie? So finanzierst Du günstig weiter</title>
+      <link>https://www.finanztip.de/daily/zinsschock-fuer-deine-immobilie-so-finanzierst-du-guenstig-weiter/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/zinsschock-fuer-deine-immobilie-so-finanzierst-du-guenstig-weiter/</guid>
+      <pubDate>Fri, 18 Sep 2026 07:02:47 GMT</pubDate>
+    </item>
     <item>
       <title>Überteuerte Nebenkosten: Das musst Du nicht hinnehmen</title>
       <link>https://www.finanztip.de/daily/web/ueberteuerte-nebenkosten-das-musst-du-nicht-hinnehmen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3426/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3426/</guid>
       <pubDate>Fri, 21 Aug 2026 10:05:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Unterstützer: Deine Fragen zu Phishing und Pflege</title>
-      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-deine-fragen-zu-phishing-und-pflege/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-deine-fragen-zu-phishing-und-pflege/</guid>
-      <pubDate>Fri, 21 Aug 2026 10:00:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
