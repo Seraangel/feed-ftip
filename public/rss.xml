@@ -6,7 +6,19 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:26:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:36:20 GMT</lastBuildDate>
+    <item>
+      <title>Deals der Woche: Was Du nicht verpassen solltest</title>
+      <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3826/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3826/</guid>
+      <pubDate>Fri, 18 Sep 2026 10:36:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Achtung, Phishing: Diese Anrufe sind nicht von Finanztip</title>
+      <link>https://www.finanztip.de/daily/web/achtung-phishing-diese-anrufe-sind-nicht-von-finanztip/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/achtung-phishing-diese-anrufe-sind-nicht-von-finanztip/</guid>
+      <pubDate>Fri, 18 Sep 2026 10:36:20 GMT</pubDate>
+    </item>
     <item>
       <title>Zinsschock für Deine Immobilie? So finanzierst Du günstig weiter</title>
       <link>https://www.finanztip.de/daily/zinsschock-fuer-deine-immobilie-so-finanzierst-du-guenstig-weiter/</link>
@@ -594,18 +606,6 @@
       <link>https://www.finanztip.de/daily/neue-heizung-geplant-warum-warten-jetzt-teuer-werden-kann/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/neue-heizung-geplant-warum-warten-jetzt-teuer-werden-kann/</guid>
       <pubDate>Sat, 22 Aug 2026 16:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sparen – aber nicht beim Lippenstift? Darum ist das so</title>
-      <link>https://www.finanztip.de/daily/sparen-aber-nicht-beim-lippenstift-darum-ist-das-so/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/sparen-aber-nicht-beim-lippenstift-darum-ist-das-so/</guid>
-      <pubDate>Sat, 22 Aug 2026 04:01:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deals der Woche: Was Du nicht verpassen solltest</title>
-      <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3426/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3426/</guid>
-      <pubDate>Fri, 21 Aug 2026 10:05:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
