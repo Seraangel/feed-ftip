@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:31:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:02:08 GMT</lastBuildDate>
+    <item>
+      <title>PayPal+ startet: So viel bringen Dir die Punkte wirklich</title>
+      <link>https://www.finanztip.de/daily/paypal-startet-so-viel-bringen-dir-die-punkte-wirklich/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/paypal-startet-so-viel-bringen-dir-die-punkte-wirklich/</guid>
+      <pubDate>Fri, 18 Sep 2026 16:02:08 GMT</pubDate>
+    </item>
     <item>
       <title>EZB erhöht Zins auf 2,5 %: Was jetzt bei Tagesgeld und Bauzinsen passiert</title>
       <link>https://www.finanztip.de/daily/web/ezb-erhoeht-zins-auf-25-was-jetzt-bei-tagesgeld-und-bauzinsen-passiert/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/e-auto-kaufen-warum-du-vorher-die-versicherung-checken-solltest/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/e-auto-kaufen-warum-du-vorher-die-versicherung-checken-solltest/</guid>
       <pubDate>Sun, 23 Aug 2026 14:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tagesgeld-Rekord, MSCI World, neue Euro-Scheine: Was Du diese Woche gelesen haben solltest</title>
-      <link>https://www.finanztip.de/daily/tagesgeld-rekord-msci-world-neue-euro-scheine-was-du-diese-woche-gelesen-haben-solltest/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/tagesgeld-rekord-msci-world-neue-euro-scheine-was-du-diese-woche-gelesen-haben-solltest/</guid>
-      <pubDate>Sun, 23 Aug 2026 04:05:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
