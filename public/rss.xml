@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 04:06:11 GMT</lastBuildDate>
+    <item>
+      <title>Wiesn-Effekt: So viel mehr geben Gäste in München aus</title>
+      <link>https://www.finanztip.de/daily/wiesn-effekt-so-viel-mehr-geben-gaeste-in-muenchen-aus/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/wiesn-effekt-so-viel-mehr-geben-gaeste-in-muenchen-aus/</guid>
+      <pubDate>Sat, 19 Sep 2026 04:06:11 GMT</pubDate>
+    </item>
     <item>
       <title>PayPal+ startet: So viel bringen Dir die Punkte wirklich</title>
       <link>https://www.finanztip.de/daily/paypal-startet-so-viel-bringen-dir-die-punkte-wirklich/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/etf-steuern-wann-du-zahlen-musst-und-wie-du-sie-pruefst/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/etf-steuern-wann-du-zahlen-musst-und-wie-du-sie-pruefst/</guid>
       <pubDate>Mon, 24 Aug 2026 04:05:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>E-Auto kaufen: Warum Du vorher die Versicherung checken solltest</title>
-      <link>https://www.finanztip.de/daily/e-auto-kaufen-warum-du-vorher-die-versicherung-checken-solltest/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/e-auto-kaufen-warum-du-vorher-die-versicherung-checken-solltest/</guid>
-      <pubDate>Sun, 23 Aug 2026 14:05:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
