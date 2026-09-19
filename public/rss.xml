@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 19 Sep 2026 04:16:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:06:21 GMT</lastBuildDate>
+    <item>
+      <title>So hilfst Du Deinen Eltern im Pflegefall: Das ist jetzt wichtig</title>
+      <link>https://www.finanztip.de/daily/so-hilfst-du-deinen-eltern-im-pflegefall-das-ist-jetzt-wichtig/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/so-hilfst-du-deinen-eltern-im-pflegefall-das-ist-jetzt-wichtig/</guid>
+      <pubDate>Sat, 19 Sep 2026 16:06:21 GMT</pubDate>
+    </item>
     <item>
       <title>Der MSCI World lief besser – warum trotzdem breiter investieren?</title>
       <link>https://www.finanztip.de/daily/web/der-msci-world-lief-besser-warum-trotzdem-breiter-investieren/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/steuererstattung-fuer-dich-achtung-vor-diesem-neuen-phishing-trick/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/steuererstattung-fuer-dich-achtung-vor-diesem-neuen-phishing-trick/</guid>
       <pubDate>Mon, 24 Aug 2026 15:45:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Girocard mit neuen Funktionen: Brauchst Du bald keine Kreditkarte mehr?</title>
-      <link>https://www.finanztip.de/daily/girocard-mit-neuen-funktionen-brauchst-du-bald-keine-kreditkarte-mehr/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/girocard-mit-neuen-funktionen-brauchst-du-bald-keine-kreditkarte-mehr/</guid>
-      <pubDate>Mon, 24 Aug 2026 10:05:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
