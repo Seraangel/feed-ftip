@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 19 Sep 2026 04:06:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 04:16:26 GMT</lastBuildDate>
+    <item>
+      <title>Der MSCI World lief besser – warum trotzdem breiter investieren?</title>
+      <link>https://www.finanztip.de/daily/web/der-msci-world-lief-besser-warum-trotzdem-breiter-investieren/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/der-msci-world-lief-besser-warum-trotzdem-breiter-investieren/</guid>
+      <pubDate>Sat, 19 Sep 2026 04:16:26 GMT</pubDate>
+    </item>
     <item>
       <title>Wiesn-Effekt: So viel mehr geben Gäste in München aus</title>
       <link>https://www.finanztip.de/daily/wiesn-effekt-so-viel-mehr-geben-gaeste-in-muenchen-aus/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/girocard-mit-neuen-funktionen-brauchst-du-bald-keine-kreditkarte-mehr/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/girocard-mit-neuen-funktionen-brauchst-du-bald-keine-kreditkarte-mehr/</guid>
       <pubDate>Mon, 24 Aug 2026 10:05:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>ETF-Steuern: Wann Du zahlen musst und wie Du sie prüfst</title>
-      <link>https://www.finanztip.de/daily/etf-steuern-wann-du-zahlen-musst-und-wie-du-sie-pruefst/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/etf-steuern-wann-du-zahlen-musst-und-wie-du-sie-pruefst/</guid>
-      <pubDate>Mon, 24 Aug 2026 04:05:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
