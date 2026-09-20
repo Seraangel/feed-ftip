@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 19 Sep 2026 16:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:06:02 GMT</lastBuildDate>
+    <item>
+      <title>Zinsen, Altersvorsorge, Immobilien: Was Du diese Woche gelesen haben solltest</title>
+      <link>https://www.finanztip.de/daily/zinsen-altersvorsorge-immobilien-was-du-diese-woche-gelesen-haben-solltest/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/zinsen-altersvorsorge-immobilien-was-du-diese-woche-gelesen-haben-solltest/</guid>
+      <pubDate>Sun, 20 Sep 2026 04:06:02 GMT</pubDate>
+    </item>
     <item>
       <title>So hilfst Du Deinen Eltern im Pflegefall: Das ist jetzt wichtig</title>
       <link>https://www.finanztip.de/daily/so-hilfst-du-deinen-eltern-im-pflegefall-das-ist-jetzt-wichtig/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/aktuelle-phishing-welle-so-erkennst-du-den-falschen-steuerbescheid/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/aktuelle-phishing-welle-so-erkennst-du-den-falschen-steuerbescheid/</guid>
       <pubDate>Mon, 24 Aug 2026 16:10:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steuererstattung für Dich? Achtung vor diesem neuen Phishing-Trick</title>
-      <link>https://www.finanztip.de/daily/steuererstattung-fuer-dich-achtung-vor-diesem-neuen-phishing-trick/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/steuererstattung-fuer-dich-achtung-vor-diesem-neuen-phishing-trick/</guid>
-      <pubDate>Mon, 24 Aug 2026 15:45:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
