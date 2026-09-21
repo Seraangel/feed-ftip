@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 20 Sep 2026 16:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 04:06:03 GMT</lastBuildDate>
+    <item>
+      <title>Was ein Big Mac über Dein Geld aussagt</title>
+      <link>https://www.finanztip.de/daily/was-ein-big-mac-ueber-dein-geld-aussagt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/was-ein-big-mac-ueber-dein-geld-aussagt/</guid>
+      <pubDate>Mon, 21 Sep 2026 04:06:03 GMT</pubDate>
+    </item>
     <item>
       <title>Heizen in der Übergangszeit: Ab wann die Heizung aufdrehen?</title>
       <link>https://www.finanztip.de/daily/heizen-in-der-uebergangszeit-ab-wann-die-heizung-aufdrehen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/100-eur-im-monat-so-werden-daraus-360000-eur/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/100-eur-im-monat-so-werden-daraus-360000-eur/</guid>
       <pubDate>Tue, 25 Aug 2026 15:05:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Depot per KI steuern: Was Dir die neue Funktion bringt – und worauf Du achten solltest</title>
-      <link>https://www.finanztip.de/daily/depot-per-ki-steuern-was-dir-die-neue-funktion-bringt-und-worauf-du-achten-solltest/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/depot-per-ki-steuern-was-dir-die-neue-funktion-bringt-und-worauf-du-achten-solltest/</guid>
-      <pubDate>Tue, 25 Aug 2026 04:00:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
