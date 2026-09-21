@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 21 Sep 2026 04:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:06:14 GMT</lastBuildDate>
+    <item>
+      <title>Immobilie als Altersvorsorge: Setzt Du alles auf eine Karte?</title>
+      <link>https://www.finanztip.de/daily/immobilie-als-altersvorsorge-setzt-du-alles-auf-eine-karte/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/immobilie-als-altersvorsorge-setzt-du-alles-auf-eine-karte/</guid>
+      <pubDate>Mon, 21 Sep 2026 10:06:14 GMT</pubDate>
+    </item>
     <item>
       <title>Was ein Big Mac über Dein Geld aussagt</title>
       <link>https://www.finanztip.de/daily/was-ein-big-mac-ueber-dein-geld-aussagt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/av-depot-diese-vier-dinge-werden-fuer-deine-auswahl-wichtig/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-diese-vier-dinge-werden-fuer-deine-auswahl-wichtig/</guid>
       <pubDate>Wed, 26 Aug 2026 04:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>100 € im Monat: So werden daraus 360.000 €</title>
-      <link>https://www.finanztip.de/daily/100-eur-im-monat-so-werden-daraus-360000-eur/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/100-eur-im-monat-so-werden-daraus-360000-eur/</guid>
-      <pubDate>Tue, 25 Aug 2026 15:05:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
