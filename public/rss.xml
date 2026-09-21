@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 21 Sep 2026 10:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 15:41:18 GMT</lastBuildDate>
+    <item>
+      <title>Die BaFin ruft an? Achtung vor dieser Betrugsmasche</title>
+      <link>https://www.finanztip.de/daily/die-bafin-ruft-an-achtung-vor-dieser-betrugsmasche/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/die-bafin-ruft-an-achtung-vor-dieser-betrugsmasche/</guid>
+      <pubDate>Mon, 21 Sep 2026 15:41:18 GMT</pubDate>
+    </item>
     <item>
       <title>Immobilie als Altersvorsorge: Setzt Du alles auf eine Karte?</title>
       <link>https://www.finanztip.de/daily/immobilie-als-altersvorsorge-setzt-du-alles-auf-eine-karte/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/community-frage-wo-hast-du-dein-geld-investiert/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/community-frage-wo-hast-du-dein-geld-investiert/</guid>
       <pubDate>Wed, 26 Aug 2026 10:05:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>AV-Depot: Diese vier Dinge werden für Deine Auswahl wichtig</title>
-      <link>https://www.finanztip.de/daily/av-depot-diese-vier-dinge-werden-fuer-deine-auswahl-wichtig/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-diese-vier-dinge-werden-fuer-deine-auswahl-wichtig/</guid>
-      <pubDate>Wed, 26 Aug 2026 04:05:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
