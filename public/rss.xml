@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 22 Sep 2026 10:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 13:41:06 GMT</lastBuildDate>
+    <item>
+      <title>Krankenkassen sollen Dich informieren müssen</title>
+      <link>https://www.finanztip.de/daily/krankenkassen-sollen-dich-informieren-muessen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/krankenkassen-sollen-dich-informieren-muessen/</guid>
+      <pubDate>Tue, 22 Sep 2026 13:41:06 GMT</pubDate>
+    </item>
     <item>
       <title>Getrennte Depots – trotzdem gemeinsam denken?</title>
       <link>https://www.finanztip.de/daily/getrennte-depots-trotzdem-gemeinsam-denken/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/in-deinen-fussballklub-investieren-grosschance-oder-nullnummer/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/in-deinen-fussballklub-investieren-grosschance-oder-nullnummer/</guid>
       <pubDate>Thu, 27 Aug 2026 20:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Einfach und kostenlos: Finde mit dem Finanzcoach heraus, was Du finanziell als Nächstes tun solltest</title>
-      <link>https://www.finanztip.de/daily/einfach-und-kostenlos-finde-mit-dem-finanzcoach-heraus-was-du-finanziell-als-naechstes-tun-solltest/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/einfach-und-kostenlos-finde-mit-dem-finanzcoach-heraus-was-du-finanziell-als-naechstes-tun-solltest/</guid>
-      <pubDate>Thu, 27 Aug 2026 14:45:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
