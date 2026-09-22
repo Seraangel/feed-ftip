@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 22 Sep 2026 13:41:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 17:12:22 GMT</lastBuildDate>
+    <item>
+      <title>Bank muss zahlen: Dieses Urteil stärkt Anleger bei Falschberatung</title>
+      <link>https://www.finanztip.de/daily/bank-muss-zahlen-dieses-urteil-staerkt-anleger-bei-falschberatung/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/bank-muss-zahlen-dieses-urteil-staerkt-anleger-bei-falschberatung/</guid>
+      <pubDate>Tue, 22 Sep 2026 17:12:22 GMT</pubDate>
+    </item>
     <item>
       <title>Krankenkassen sollen Dich informieren müssen</title>
       <link>https://www.finanztip.de/daily/krankenkassen-sollen-dich-informieren-muessen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/lohnt-sich-gerade-schnell-diesen-heizungscheck-zu-machen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-gerade-schnell-diesen-heizungscheck-zu-machen/</guid>
       <pubDate>Fri, 28 Aug 2026 04:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>In Deinen Fußballklub investieren: Großchance oder Nullnummer?</title>
-      <link>https://www.finanztip.de/daily/in-deinen-fussballklub-investieren-grosschance-oder-nullnummer/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/in-deinen-fussballklub-investieren-grosschance-oder-nullnummer/</guid>
-      <pubDate>Thu, 27 Aug 2026 20:05:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
