@@ -6,7 +6,19 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 22 Sep 2026 04:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:06:14 GMT</lastBuildDate>
+    <item>
+      <title>Getrennte Depots – trotzdem gemeinsam denken?</title>
+      <link>https://www.finanztip.de/daily/getrennte-depots-trotzdem-gemeinsam-denken/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/getrennte-depots-trotzdem-gemeinsam-denken/</guid>
+      <pubDate>Tue, 22 Sep 2026 10:06:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>EZB erhöht den Leitzins: Was das für Tagesgeld und Bauzinsen bedeutet</title>
+      <link>https://www.finanztip.de/daily/web/ezb-erhoeht-den-leitzins-was-das-fuer-tagesgeld-und-bauzinsen-bedeutet/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ezb-erhoeht-den-leitzins-was-das-fuer-tagesgeld-und-bauzinsen-bedeutet/</guid>
+      <pubDate>Tue, 22 Sep 2026 10:06:14 GMT</pubDate>
+    </item>
     <item>
       <title>ETF-Flops: Die 5 schlechtesten ETFs seit Jahresanfang</title>
       <link>https://www.finanztip.de/daily/etf-flops-die-5-schlechtesten-etfs-seit-jahresanfang-1/</link>
@@ -594,18 +606,6 @@
       <link>https://www.finanztip.de/daily/einfach-und-kostenlos-finde-mit-dem-finanzcoach-heraus-was-du-finanziell-als-naechstes-tun-solltest/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/einfach-und-kostenlos-finde-mit-dem-finanzcoach-heraus-was-du-finanziell-als-naechstes-tun-solltest/</guid>
       <pubDate>Thu, 27 Aug 2026 14:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Altersvorsorge-Depot und mehr: Das ist ab heute bei Scalable neu</title>
-      <link>https://www.finanztip.de/daily/altersvorsorge-depot-startet-bei-scalable-das-ist-ab-heute-neu/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/altersvorsorge-depot-startet-bei-scalable-das-ist-ab-heute-neu/</guid>
-      <pubDate>Thu, 27 Aug 2026 08:15:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>MSCI World: Warum gelten Milliardenkonzerne als Small Caps?</title>
-      <link>https://www.finanztip.de/daily/msci-world-warum-gelten-milliardenkonzerne-als-small-caps/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/msci-world-warum-gelten-milliardenkonzerne-als-small-caps/</guid>
-      <pubDate>Thu, 27 Aug 2026 04:05:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
