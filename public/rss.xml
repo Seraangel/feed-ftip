@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 21 Sep 2026 15:41:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 04:01:46 GMT</lastBuildDate>
+    <item>
+      <title>ETF-Flops: Die 5 schlechtesten ETFs seit Jahresanfang</title>
+      <link>https://www.finanztip.de/daily/etf-flops-die-5-schlechtesten-etfs-seit-jahresanfang-1/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/etf-flops-die-5-schlechtesten-etfs-seit-jahresanfang-1/</guid>
+      <pubDate>Tue, 22 Sep 2026 04:01:46 GMT</pubDate>
+    </item>
     <item>
       <title>Die BaFin ruft an? Achtung vor dieser Betrugsmasche</title>
       <link>https://www.finanztip.de/daily/die-bafin-ruft-an-achtung-vor-dieser-betrugsmasche/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/msci-world-warum-gelten-milliardenkonzerne-als-small-caps/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/msci-world-warum-gelten-milliardenkonzerne-als-small-caps/</guid>
       <pubDate>Thu, 27 Aug 2026 04:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Community-Frage: Wo hast Du Dein Geld investiert?</title>
-      <link>https://www.finanztip.de/daily/community-frage-wo-hast-du-dein-geld-investiert/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/community-frage-wo-hast-du-dein-geld-investiert/</guid>
-      <pubDate>Wed, 26 Aug 2026 10:05:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
