@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 23 Sep 2026 04:16:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 08:26:03 GMT</lastBuildDate>
+    <item>
+      <title>Hohe Sparraten, aber wie breit streut Ihr?</title>
+      <link>https://www.finanztip.de/daily/hohe-sparraten-aber-wie-breit-streut-ihr/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/hohe-sparraten-aber-wie-breit-streut-ihr/</guid>
+      <pubDate>Wed, 23 Sep 2026 08:26:03 GMT</pubDate>
+    </item>
     <item>
       <title>Rentenversicherung vorzeitig beenden? Prüfe zuerst diese Kosten</title>
       <link>https://www.finanztip.de/daily/rentenversicherung-vorzeitig-beenden-pruefe-zuerst-diese-kosten/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/gold-und-bitcoin-rally-was-steckt-dahinter/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/gold-und-bitcoin-rally-was-steckt-dahinter/</guid>
       <pubDate>Fri, 28 Aug 2026 07:05:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Doppelter Tankrabatt: Hier sparst Du bald</title>
-      <link>https://www.finanztip.de/daily/doppelter-tankrabatt-hier-sparst-du-bald/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/doppelter-tankrabatt-hier-sparst-du-bald/</guid>
-      <pubDate>Fri, 28 Aug 2026 04:35:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
