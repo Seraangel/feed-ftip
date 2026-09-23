@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 22 Sep 2026 17:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:16:12 GMT</lastBuildDate>
+    <item>
+      <title>Rentenversicherung vorzeitig beenden? Prüfe zuerst diese Kosten</title>
+      <link>https://www.finanztip.de/daily/rentenversicherung-vorzeitig-beenden-pruefe-zuerst-diese-kosten/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/rentenversicherung-vorzeitig-beenden-pruefe-zuerst-diese-kosten/</guid>
+      <pubDate>Wed, 23 Sep 2026 04:16:12 GMT</pubDate>
+    </item>
     <item>
       <title>Bank muss zahlen: Dieses Urteil stärkt Anleger bei Falschberatung</title>
       <link>https://www.finanztip.de/daily/bank-muss-zahlen-dieses-urteil-staerkt-anleger-bei-falschberatung/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/doppelter-tankrabatt-hier-sparst-du-bald/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/doppelter-tankrabatt-hier-sparst-du-bald/</guid>
       <pubDate>Fri, 28 Aug 2026 04:35:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lohnt sich gerade … schnell diesen Heizungscheck zu machen?</title>
-      <link>https://www.finanztip.de/daily/lohnt-sich-gerade-schnell-diesen-heizungscheck-zu-machen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-gerade-schnell-diesen-heizungscheck-zu-machen/</guid>
-      <pubDate>Fri, 28 Aug 2026 04:05:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
