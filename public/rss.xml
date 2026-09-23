@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 23 Sep 2026 08:26:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:06:14 GMT</lastBuildDate>
+    <item>
+      <title>Heizungsförderung: So sicherst Du Dir Tausende Euro zusätzlich</title>
+      <link>https://www.finanztip.de/daily/heizungsfoerderung-so-sicherst-du-dir-tausende-euro-zusaetzlich/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/heizungsfoerderung-so-sicherst-du-dir-tausende-euro-zusaetzlich/</guid>
+      <pubDate>Wed, 23 Sep 2026 10:06:14 GMT</pubDate>
+    </item>
     <item>
       <title>Hohe Sparraten, aber wie breit streut Ihr?</title>
       <link>https://www.finanztip.de/daily/hohe-sparraten-aber-wie-breit-streut-ihr/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/msci-steuer-tanken-das-aendert-sich-im-september-2026/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/msci-steuer-tanken-das-aendert-sich-im-september-2026/</guid>
       <pubDate>Fri, 28 Aug 2026 08:05:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gold- und Bitcoin-Rally: Was steckt dahinter?</title>
-      <link>https://www.finanztip.de/daily/gold-und-bitcoin-rally-was-steckt-dahinter/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/gold-und-bitcoin-rally-was-steckt-dahinter/</guid>
-      <pubDate>Fri, 28 Aug 2026 07:05:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
