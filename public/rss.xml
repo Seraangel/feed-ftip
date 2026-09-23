@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 23 Sep 2026 14:36:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:06:22 GMT</lastBuildDate>
+    <item>
+      <title>Wann Du 2027 weniger netto bekommst</title>
+      <link>https://www.finanztip.de/daily/wann-du-2027-weniger-netto-bekommst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/wann-du-2027-weniger-netto-bekommst/</guid>
+      <pubDate>Wed, 23 Sep 2026 16:06:22 GMT</pubDate>
+    </item>
     <item>
       <title>Leere Gasspeicher und Trump als Preisrisiko: Das schützt Dich vor einem teuren Winter</title>
       <link>https://www.finanztip.de/daily/web/leere-gasspeicher-und-trump-als-preisrisiko-das-schuetzt-dich-vor-einem-teuren-winter/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3526/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3526/</guid>
       <pubDate>Fri, 28 Aug 2026 10:05:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Unterstützer: Wie Du Dein Depot im Alter richtig nutzt</title>
-      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-wie-du-dein-depot-im-alter-richtig-nutzt/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-wie-du-dein-depot-im-alter-richtig-nutzt/</guid>
-      <pubDate>Fri, 28 Aug 2026 08:05:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
