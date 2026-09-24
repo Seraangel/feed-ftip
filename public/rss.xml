@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 23 Sep 2026 16:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:06:06 GMT</lastBuildDate>
+    <item>
+      <title>Türkei könnte Schwellenland-Status verlieren: Das bedeutet das für Deinen ETF</title>
+      <link>https://www.finanztip.de/daily/tuerkei-koennte-schwellenland-status-verlieren-das-bedeutet-das-fuer-deinen-etf/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/tuerkei-koennte-schwellenland-status-verlieren-das-bedeutet-das-fuer-deinen-etf/</guid>
+      <pubDate>Thu, 24 Sep 2026 04:06:06 GMT</pubDate>
+    </item>
     <item>
       <title>Wann Du 2027 weniger netto bekommst</title>
       <link>https://www.finanztip.de/daily/wann-du-2027-weniger-netto-bekommst/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/5-tage-frei-so-wirst-du-kostenlos-fitter/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/5-tage-frei-so-wirst-du-kostenlos-fitter/</guid>
       <pubDate>Sat, 29 Aug 2026 04:05:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deals der Woche: Was Du nicht verpassen solltest</title>
-      <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3526/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3526/</guid>
-      <pubDate>Fri, 28 Aug 2026 10:05:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
