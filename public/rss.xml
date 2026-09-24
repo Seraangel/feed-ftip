@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 24 Sep 2026 10:06:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:36:11 GMT</lastBuildDate>
+    <item>
+      <title>Altersvorsorgedepot als Köder? Das steckt hinter der Renten-Kampagne der DVAG</title>
+      <link>https://www.finanztip.de/daily/web/altersvorsorgedepot-als-koeder-das-steckt-hinter-der-renten-kampagne-der-dvag/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/altersvorsorgedepot-als-koeder-das-steckt-hinter-der-renten-kampagne-der-dvag/</guid>
+      <pubDate>Thu, 24 Sep 2026 12:36:11 GMT</pubDate>
+    </item>
     <item>
       <title>Vodafone-Preiserhöhung – Dieses Urteil macht Hoffnung</title>
       <link>https://www.finanztip.de/daily/vodafone-preiserhoehung-dieses-urteil-macht-hoffnung/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/aktien-beim-arbeitgeber-wie-du-damit-am-besten-umgehst/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/aktien-beim-arbeitgeber-wie-du-damit-am-besten-umgehst/</guid>
       <pubDate>Mon, 31 Aug 2026 11:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>ETF-Steuern, AV-Depot, KI: Was Du diese Woche gelesen haben solltest</title>
-      <link>https://www.finanztip.de/daily/etf-steuern-av-depot-ki-was-du-diese-woche-gelesen-haben-solltest/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/etf-steuern-av-depot-ki-was-du-diese-woche-gelesen-haben-solltest/</guid>
-      <pubDate>Sun, 30 Aug 2026 04:05:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
