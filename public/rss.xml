@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 24 Sep 2026 13:35:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:01:56 GMT</lastBuildDate>
+    <item>
+      <title>Für Unterstützer: Reine Spekulation? Wann Du Bitcoin haben solltest</title>
+      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-reine-spekulation-wann-du-bitcoin-haben-solltest-1/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-reine-spekulation-wann-du-bitcoin-haben-solltest-1/</guid>
+      <pubDate>Thu, 24 Sep 2026 16:01:56 GMT</pubDate>
+    </item>
     <item>
       <title>12-Uhr-Regel: So nutzen Autofahrer die Maßnahme richtig</title>
       <link>https://www.finanztip.de/daily/web/12-uhr-regel-so-nutzen-autofahrer-die-massnahme-richtig/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/neues-festgeld-angebot-lockt-doch-es-geht-noch-mehr/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/neues-festgeld-angebot-lockt-doch-es-geht-noch-mehr/</guid>
       <pubDate>Tue, 01 Sep 2026 04:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inflationsrate steigt im August weiter – Öl und Niedrigwasser treiben die Preise</title>
-      <link>https://www.finanztip.de/daily/inflationsrate-steigt-im-august-weiter-oel-und-niedrigwasser-treiben-die-preise/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/inflationsrate-steigt-im-august-weiter-oel-und-niedrigwasser-treiben-die-preise/</guid>
-      <pubDate>Mon, 31 Aug 2026 14:45:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
