@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:36:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:35:59 GMT</lastBuildDate>
+    <item>
+      <title>12-Uhr-Regel: So nutzen Autofahrer die Maßnahme richtig</title>
+      <link>https://www.finanztip.de/daily/web/12-uhr-regel-so-nutzen-autofahrer-die-massnahme-richtig/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/12-uhr-regel-so-nutzen-autofahrer-die-massnahme-richtig/</guid>
+      <pubDate>Thu, 24 Sep 2026 13:35:59 GMT</pubDate>
+    </item>
     <item>
       <title>Altersvorsorgedepot als Köder? Das steckt hinter der Renten-Kampagne der DVAG</title>
       <link>https://www.finanztip.de/daily/web/altersvorsorgedepot-als-koeder-das-steckt-hinter-der-renten-kampagne-der-dvag/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/inflationsrate-steigt-im-august-weiter-oel-und-niedrigwasser-treiben-die-preise/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/inflationsrate-steigt-im-august-weiter-oel-und-niedrigwasser-treiben-die-preise/</guid>
       <pubDate>Mon, 31 Aug 2026 14:45:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aktien beim Arbeitgeber? Wie Du damit am besten umgehst</title>
-      <link>https://www.finanztip.de/daily/aktien-beim-arbeitgeber-wie-du-damit-am-besten-umgehst/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/aktien-beim-arbeitgeber-wie-du-damit-am-besten-umgehst/</guid>
-      <pubDate>Mon, 31 Aug 2026 11:05:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
