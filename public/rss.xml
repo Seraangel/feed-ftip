@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 24 Sep 2026 07:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:06:18 GMT</lastBuildDate>
+    <item>
+      <title>Vodafone-Preiserhöhung – Dieses Urteil macht Hoffnung</title>
+      <link>https://www.finanztip.de/daily/vodafone-preiserhoehung-dieses-urteil-macht-hoffnung/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/vodafone-preiserhoehung-dieses-urteil-macht-hoffnung/</guid>
+      <pubDate>Thu, 24 Sep 2026 10:06:18 GMT</pubDate>
+    </item>
     <item>
       <title>Nur noch diese Woche: Hol Dir bis zu 972 Euro von Dazn zurück</title>
       <link>https://www.finanztip.de/daily/web/nur-noch-diese-woche-hol-dir-bis-zu-972-euro-von-dazn-zurueck/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/etf-steuern-av-depot-ki-was-du-diese-woche-gelesen-haben-solltest/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/etf-steuern-av-depot-ki-was-du-diese-woche-gelesen-haben-solltest/</guid>
       <pubDate>Sun, 30 Aug 2026 04:05:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>So viel teurer wird Deine BU als Raucher</title>
-      <link>https://www.finanztip.de/daily/so-viel-teurer-wird-deine-bu-als-raucher/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/so-viel-teurer-wird-deine-bu-als-raucher/</guid>
-      <pubDate>Sat, 29 Aug 2026 16:05:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
