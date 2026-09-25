@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 25 Sep 2026 10:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:01:29 GMT</lastBuildDate>
+    <item>
+      <title>Immobilienpreise überraschen: Das solltest Du jetzt wissen</title>
+      <link>https://www.finanztip.de/daily/immobilienpreise-ueberraschen-das-solltest-du-jetzt-wissen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/immobilienpreise-ueberraschen-das-solltest-du-jetzt-wissen/</guid>
+      <pubDate>Fri, 25 Sep 2026 13:01:29 GMT</pubDate>
+    </item>
     <item>
       <title>Deals der Woche: Was Du nicht verpassen solltest</title>
       <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/altersvorsorge-depot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/altersvorsorge-depot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</guid>
       <pubDate>Wed, 02 Sep 2026 11:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>So legt die Finanztip-Community an: Eine Zahl überrascht besonders</title>
-      <link>https://www.finanztip.de/daily/community-frage-ein-blick-in-eure-depots/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/community-frage-ein-blick-in-eure-depots/</guid>
-      <pubDate>Wed, 02 Sep 2026 09:06:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
