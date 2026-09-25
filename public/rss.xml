@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 25 Sep 2026 05:06:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 09:01:29 GMT</lastBuildDate>
+    <item>
+      <title>Lohnt sich gerade … Geld in Irland anzulegen?</title>
+      <link>https://www.finanztip.de/daily/lohnt-sich-gerade-geld-in-irland-anzulegen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-gerade-geld-in-irland-anzulegen/</guid>
+      <pubDate>Fri, 25 Sep 2026 09:01:29 GMT</pubDate>
+    </item>
     <item>
       <title>Heizen wird teurer: Mit zwei Tipps richtig auf die Preiserhöhung vom Gasanbieter reagieren</title>
       <link>https://www.finanztip.de/daily/web/heizen-wird-teurer-mit-zwei-tipps-richtig-auf-die-preiserhoehung-vom-gasanbieter-reagieren/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/notgroschen-so-baust-du-dein-no-drama-konto-auf/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/notgroschen-so-baust-du-dein-no-drama-konto-auf/</guid>
       <pubDate>Wed, 02 Sep 2026 08:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>AV-Depot: Für wen sich das so richtig lohnt</title>
-      <link>https://www.finanztip.de/daily/av-depot-fuer-wen-sich-das-so-richtig-lohnt/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-fuer-wen-sich-das-so-richtig-lohnt/</guid>
-      <pubDate>Tue, 01 Sep 2026 15:56:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
