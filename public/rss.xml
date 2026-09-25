@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 24 Sep 2026 16:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:06:04 GMT</lastBuildDate>
+    <item>
+      <title>Unterschätzt Du dieses ETF-Risiko?</title>
+      <link>https://www.finanztip.de/daily/unterschaetzt-du-dieses-etf-risiko/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/unterschaetzt-du-dieses-etf-risiko/</guid>
+      <pubDate>Fri, 25 Sep 2026 04:06:04 GMT</pubDate>
+    </item>
     <item>
       <title>Für Unterstützer: Reine Spekulation? Wann Du Bitcoin haben solltest</title>
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-reine-spekulation-wann-du-bitcoin-haben-solltest-1/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/zinseszins-so-waechst-dein-geld/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/zinseszins-so-waechst-dein-geld/</guid>
       <pubDate>Tue, 01 Sep 2026 11:36:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neues Festgeld-Angebot lockt – doch es geht noch mehr</title>
-      <link>https://www.finanztip.de/daily/neues-festgeld-angebot-lockt-doch-es-geht-noch-mehr/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/neues-festgeld-angebot-lockt-doch-es-geht-noch-mehr/</guid>
-      <pubDate>Tue, 01 Sep 2026 04:00:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
