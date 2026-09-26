@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 26 Sep 2026 04:06:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 04:36:15 GMT</lastBuildDate>
+    <item>
+      <title>Gaspreise steigen vor dem Winter: So prüfst Du, ob Du handeln solltest</title>
+      <link>https://www.finanztip.de/daily/web/gaspreise-steigen-vor-dem-winter-so-pruefst-du-ob-du-handeln-solltest/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/gaspreise-steigen-vor-dem-winter-so-pruefst-du-ob-du-handeln-solltest/</guid>
+      <pubDate>Sat, 26 Sep 2026 04:36:15 GMT</pubDate>
+    </item>
     <item>
       <title>Altersvorsorgedepot als Köder? Das steckt hinter „Deutschland macht Rente“ der DVAG</title>
       <link>https://www.finanztip.de/daily/web/altersvorsorgedepot-als-koeder-was-sich-hinter-der-dvag-renten-kampagne-verbirgt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/steuerreform-so-gut-wie-durch-das-erwartet-dich-2027-bei-deinen-abgaben/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/steuerreform-so-gut-wie-durch-das-erwartet-dich-2027-bei-deinen-abgaben/</guid>
       <pubDate>Wed, 02 Sep 2026 16:11:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Diese 5 Anlagefehler kosten Dich Rendite und wie Du es besser machst</title>
-      <link>https://www.finanztip.de/daily/diese-5-anlagefehler-kosten-dich-rendite-und-wie-du-es-besser-machst/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/diese-5-anlagefehler-kosten-dich-rendite-und-wie-du-es-besser-machst/</guid>
-      <pubDate>Wed, 02 Sep 2026 16:06:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
