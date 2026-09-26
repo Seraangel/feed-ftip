@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 26 Sep 2026 06:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:06:13 GMT</lastBuildDate>
+    <item>
+      <title>Nachhaltiges Banking und ganz nebenbei etwas Gutes tun</title>
+      <link>https://www.finanztip.de/daily/nachhaltiges-banking-und-ganz-nebenbei-etwas-gutes-tun/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/nachhaltiges-banking-und-ganz-nebenbei-etwas-gutes-tun/</guid>
+      <pubDate>Sat, 26 Sep 2026 10:06:13 GMT</pubDate>
+    </item>
     <item>
       <title>Altersvorsorgedepot als Köder? Das steckt hinter „Deutschland macht Rente“ der DVAG</title>
       <link>https://www.finanztip.de/daily/altersvorsorgedepot-als-koeder-was-sich-hinter-der-dvag-renten-kampagne-verbirgt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/sorge-um-den-job-so-schuetzt-du-dich/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/sorge-um-den-job-so-schuetzt-du-dich/</guid>
       <pubDate>Thu, 03 Sep 2026 15:06:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neuer Vanguard-ETF knackt wichtige Marke</title>
-      <link>https://www.finanztip.de/daily/neuer-vanguard-etf-knackt-wichtige-marke/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/neuer-vanguard-etf-knackt-wichtige-marke/</guid>
-      <pubDate>Thu, 03 Sep 2026 12:16:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
