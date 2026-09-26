@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 26 Sep 2026 04:36:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:06:12 GMT</lastBuildDate>
+    <item>
+      <title>Heizöl: Warum Du mit der Bestellung nicht zu lange warten solltest</title>
+      <link>https://www.finanztip.de/daily/heizoel-warum-du-mit-der-bestellung-nicht-zu-lange-warten-solltest/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/heizoel-warum-du-mit-der-bestellung-nicht-zu-lange-warten-solltest/</guid>
+      <pubDate>Sat, 26 Sep 2026 05:06:12 GMT</pubDate>
+    </item>
     <item>
       <title>Gaspreise steigen vor dem Winter: So prüfst Du, ob Du handeln solltest</title>
       <link>https://www.finanztip.de/daily/web/gaspreise-steigen-vor-dem-winter-so-pruefst-du-ob-du-handeln-solltest/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/av-depot-mit-zwei-etfs-reicht-das/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-mit-zwei-etfs-reicht-das/</guid>
       <pubDate>Thu, 03 Sep 2026 09:26:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steuerreform so gut wie durch: Das erwartet Dich 2027 bei Deinen Abgaben</title>
-      <link>https://www.finanztip.de/daily/steuerreform-so-gut-wie-durch-das-erwartet-dich-2027-bei-deinen-abgaben/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/steuerreform-so-gut-wie-durch-das-erwartet-dich-2027-bei-deinen-abgaben/</guid>
-      <pubDate>Wed, 02 Sep 2026 16:11:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
