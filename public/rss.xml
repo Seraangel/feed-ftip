@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 26 Sep 2026 10:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 16:06:14 GMT</lastBuildDate>
+    <item>
+      <title>Krypto-Steuer: Warum Deine Nachweise jetzt noch wichtiger werden</title>
+      <link>https://www.finanztip.de/daily/krypto-steuer-warum-deine-nachweise-jetzt-noch-wichtiger-werden/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/krypto-steuer-warum-deine-nachweise-jetzt-noch-wichtiger-werden/</guid>
+      <pubDate>Sat, 26 Sep 2026 16:06:14 GMT</pubDate>
+    </item>
     <item>
       <title>Nachhaltiges Banking und ganz nebenbei etwas Gutes tun</title>
       <link>https://www.finanztip.de/daily/nachhaltiges-banking-und-ganz-nebenbei-etwas-gutes-tun/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/tagesgeld-mit-4-lohnt-sich-festgeld-ueberhaupt-noch/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/tagesgeld-mit-4-lohnt-sich-festgeld-ueberhaupt-noch/</guid>
       <pubDate>Thu, 03 Sep 2026 16:06:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sorge um den Job? So schützt Du Dich</title>
-      <link>https://www.finanztip.de/daily/sorge-um-den-job-so-schuetzt-du-dich/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/sorge-um-den-job-so-schuetzt-du-dich/</guid>
-      <pubDate>Thu, 03 Sep 2026 15:06:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
