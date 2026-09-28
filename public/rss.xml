@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 28 Sep 2026 13:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:01:38 GMT</lastBuildDate>
+    <item>
+      <title>ETF ans Kind übertragen: Vorsicht vor dieser Steuer</title>
+      <link>https://www.finanztip.de/daily/etf-ans-kind-uebertragen-vorsicht-vor-dieser-steuer/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/etf-ans-kind-uebertragen-vorsicht-vor-dieser-steuer/</guid>
+      <pubDate>Mon, 28 Sep 2026 16:01:38 GMT</pubDate>
+    </item>
     <item>
       <title>Payback, tanken, Vorsorge: Das ändert sich im Oktober 2026</title>
       <link>https://www.finanztip.de/daily/payback-tanken-vorsorge-das-aendert-sich-im-oktober-2026/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/netflix-dreht-an-der-preisschraube-so-teuer-wird-dein-abo/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/netflix-dreht-an-der-preisschraube-so-teuer-wird-dein-abo/</guid>
       <pubDate>Fri, 04 Sep 2026 18:36:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>7500 € BU-Rente? Das steckt dahinter</title>
-      <link>https://www.finanztip.de/daily/7500-euro-bu-rente-das-steckt-dahinter/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/7500-euro-bu-rente-das-steckt-dahinter/</guid>
-      <pubDate>Fri, 04 Sep 2026 16:06:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
