@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 27 Sep 2026 16:06:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:01:31 GMT</lastBuildDate>
+    <item>
+      <title>Erst Altersvorsorge, dann mehr? Was hinter der DVAG-Kampagne steckt</title>
+      <link>https://www.finanztip.de/daily/erst-altersvorsorge-dann-mehr-was-hinter-der-dvag-kampagne-steckt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/erst-altersvorsorge-dann-mehr-was-hinter-der-dvag-kampagne-steckt/</guid>
+      <pubDate>Mon, 28 Sep 2026 04:01:31 GMT</pubDate>
+    </item>
     <item>
       <title>AV-Depot: 300 € je Kind</title>
       <link>https://www.finanztip.de/daily/av-depot-300-eur-je-kind/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3626/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3626/</guid>
       <pubDate>Fri, 04 Sep 2026 10:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Droht Dir durch KI eine neue Finanzkrise?</title>
-      <link>https://www.finanztip.de/daily/droht-dir-durch-ki-eine-neue-finanzkrise/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/droht-dir-durch-ki-eine-neue-finanzkrise/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:06:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
