@@ -6,7 +6,19 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 01 Oct 2026 12:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:36:22 GMT</lastBuildDate>
+    <item>
+      <title>Pflegebeitrag 2027: Warum Eltern ihre Gehaltsabrechnung prüfen sollten</title>
+      <link>https://www.finanztip.de/daily/web/pflegebeitrag-2027-warum-eltern-ihre-gehaltsabrechnung-pruefen-sollten/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/pflegebeitrag-2027-warum-eltern-ihre-gehaltsabrechnung-pruefen-sollten/</guid>
+      <pubDate>Thu, 01 Oct 2026 12:36:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wärmepumpe geplant? Diese Fragen sollte Dein Anbieter beantworten können</title>
+      <link>https://www.finanztip.de/daily/web/waermepumpe-geplant-diese-fragen-sollte-dein-anbieter-beantworten-koennen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/waermepumpe-geplant-diese-fragen-sollte-dein-anbieter-beantworten-koennen/</guid>
+      <pubDate>Thu, 01 Oct 2026 12:36:22 GMT</pubDate>
+    </item>
     <item>
       <title>Darauf musst Du künftig bei Kinderkrankentagen achten</title>
       <link>https://www.finanztip.de/daily/darauf-musst-du-kuenftig-bei-kinderkrankentagen-achten/</link>
@@ -594,18 +606,6 @@
       <link>https://www.finanztip.de/daily/kirchenaustritt-musst-du-deinen-depotanbieter-informieren/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/kirchenaustritt-musst-du-deinen-depotanbieter-informieren/</guid>
       <pubDate>Tue, 08 Sep 2026 04:05:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nach der Landtagswahl: Welche Reformpläne jetzt wieder wackeln</title>
-      <link>https://www.finanztip.de/daily/nach-der-landtagswahl-welche-reformplaene-jetzt-wieder-wackeln/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/nach-der-landtagswahl-welche-reformplaene-jetzt-wieder-wackeln/</guid>
-      <pubDate>Mon, 07 Sep 2026 14:56:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bundeshaushalt 2027: Was kommt bei Dir an?</title>
-      <link>https://www.finanztip.de/daily/bundeshaushalt-2027-was-kommt-bei-dir-an/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/bundeshaushalt-2027-was-kommt-bei-dir-an/</guid>
-      <pubDate>Sun, 06 Sep 2026 16:06:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
