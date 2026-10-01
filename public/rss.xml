@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 01 Oct 2026 06:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:02:05 GMT</lastBuildDate>
+    <item>
+      <title>Altersvorsorge-Depot: Warum es gerade für Frauen interessant sein kann</title>
+      <link>https://www.finanztip.de/daily/web/altersvorsorge-depot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/altersvorsorge-depot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</guid>
+      <pubDate>Thu, 01 Oct 2026 09:02:05 GMT</pubDate>
+    </item>
     <item>
       <title>GMX kombiniert Handytarife und Cloud-Speicher: Taugt das was?</title>
       <link>https://www.finanztip.de/daily/web/gmx-kombiniert-handytarife-und-cloud-speicher-taugt-das-was/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/tankrabatt-festgeld-av-depot-was-du-diese-woche-gelesen-haben-solltest/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/tankrabatt-festgeld-av-depot-was-du-diese-woche-gelesen-haben-solltest/</guid>
       <pubDate>Sun, 06 Sep 2026 04:06:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Seit 50 Jahren gilt: Halt Dein Depot einfach</title>
-      <link>https://www.finanztip.de/daily/seit-50-jahren-gilt-halt-dein-depot-einfach/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/seit-50-jahren-gilt-halt-dein-depot-einfach/</guid>
-      <pubDate>Sat, 05 Sep 2026 16:06:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
