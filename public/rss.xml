@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 30 Sep 2026 16:41:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:06:22 GMT</lastBuildDate>
+    <item>
+      <title>GMX kombiniert Handytarife und Cloud-Speicher: Taugt das was?</title>
+      <link>https://www.finanztip.de/daily/web/gmx-kombiniert-handytarife-und-cloud-speicher-taugt-das-was/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/gmx-kombiniert-handytarife-und-cloud-speicher-taugt-das-was/</guid>
+      <pubDate>Thu, 01 Oct 2026 06:06:22 GMT</pubDate>
+    </item>
     <item>
       <title>Tankrabatt beschlossen: So viel kannst Du ab Oktober sparen</title>
       <link>https://www.finanztip.de/daily/tankrabatt-beschlossen-so-viel-kannst-du-ab-oktober-sparen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/seit-50-jahren-gilt-halt-dein-depot-einfach/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/seit-50-jahren-gilt-halt-dein-depot-einfach/</guid>
       <pubDate>Sat, 05 Sep 2026 16:06:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Buy now, pay later: Wenn aus später teurer wird</title>
-      <link>https://www.finanztip.de/daily/buy-now-pay-later-wenn-aus-spaeter-teurer-wird/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/buy-now-pay-later-wenn-aus-spaeter-teurer-wird/</guid>
-      <pubDate>Sat, 05 Sep 2026 10:06:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
