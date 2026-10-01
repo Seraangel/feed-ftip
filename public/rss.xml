@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 01 Oct 2026 09:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:06:22 GMT</lastBuildDate>
+    <item>
+      <title>Darauf musst Du künftig bei Kinderkrankentagen achten</title>
+      <link>https://www.finanztip.de/daily/darauf-musst-du-kuenftig-bei-kinderkrankentagen-achten/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/darauf-musst-du-kuenftig-bei-kinderkrankentagen-achten/</guid>
+      <pubDate>Thu, 01 Oct 2026 12:06:22 GMT</pubDate>
+    </item>
     <item>
       <title>Altersvorsorge-Depot: Warum es gerade für Frauen interessant sein kann</title>
       <link>https://www.finanztip.de/daily/web/altersvorsorge-depot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/bundeshaushalt-2027-was-kommt-bei-dir-an/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/bundeshaushalt-2027-was-kommt-bei-dir-an/</guid>
       <pubDate>Sun, 06 Sep 2026 16:06:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tankrabatt, Festgeld, AV-Depot: Was Du diese Woche gelesen haben solltest</title>
-      <link>https://www.finanztip.de/daily/tankrabatt-festgeld-av-depot-was-du-diese-woche-gelesen-haben-solltest/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/tankrabatt-festgeld-av-depot-was-du-diese-woche-gelesen-haben-solltest/</guid>
-      <pubDate>Sun, 06 Sep 2026 04:06:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
