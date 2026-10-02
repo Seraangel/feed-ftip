@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 02 Oct 2026 13:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:56:18 GMT</lastBuildDate>
+    <item>
+      <title>Altersvorsorgedepot: Warum es gerade für Frauen interessant sein kann</title>
+      <link>https://www.finanztip.de/daily/altersvorsorgedepot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/altersvorsorgedepot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</guid>
+      <pubDate>Fri, 02 Oct 2026 13:56:18 GMT</pubDate>
+    </item>
     <item>
       <title>Bis zu 300 Prozent Preisunterschied: So vergleichst Du Wärmepumpen-Angebote</title>
       <link>https://www.finanztip.de/daily/web/bis-zu-300-prozent-preisunterschied-so-vergleichst-du-waermepumpen-angebote/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/handy-guenstiger-kaufen-das-ist-dein-groesster-sparhebel/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/handy-guenstiger-kaufen-das-ist-dein-groesster-sparhebel/</guid>
       <pubDate>Wed, 09 Sep 2026 05:05:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>AV-Depot: Drei Jahre für 0 €</title>
-      <link>https://www.finanztip.de/daily/av-depot-drei-jahre-fuer-0-eur/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-drei-jahre-fuer-0-eur/</guid>
-      <pubDate>Tue, 08 Sep 2026 16:16:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
