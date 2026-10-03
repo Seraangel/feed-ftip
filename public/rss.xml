@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 02 Oct 2026 13:56:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:01:40 GMT</lastBuildDate>
+    <item>
+      <title>Aus der Finanztip Woman Community: Lohnt sich die Frühstart-Rente?</title>
+      <link>https://www.finanztip.de/daily/frage-aus-unserer-community-lohnt-sich-die-fruehstart-rente/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/frage-aus-unserer-community-lohnt-sich-die-fruehstart-rente/</guid>
+      <pubDate>Sat, 03 Oct 2026 12:01:40 GMT</pubDate>
+    </item>
     <item>
       <title>Altersvorsorgedepot: Warum es gerade für Frauen interessant sein kann</title>
       <link>https://www.finanztip.de/daily/altersvorsorgedepot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/so-viel-notgroschen-hat-die-finanztip-community/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/so-viel-notgroschen-hat-die-finanztip-community/</guid>
       <pubDate>Wed, 09 Sep 2026 08:15:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Handy günstiger kaufen: Das ist Dein größter Sparhebel</title>
-      <link>https://www.finanztip.de/daily/web/handy-guenstiger-kaufen-das-ist-dein-groesster-sparhebel/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/handy-guenstiger-kaufen-das-ist-dein-groesster-sparhebel/</guid>
-      <pubDate>Wed, 09 Sep 2026 05:05:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
