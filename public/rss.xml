@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 03 Oct 2026 12:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:06:12 GMT</lastBuildDate>
+    <item>
+      <title>Dein No-Drama-Konto: So baust Du Deinen Notgroschen auf</title>
+      <link>https://www.finanztip.de/daily/dein-no-drama-konto-so-baust-du-deinen-notgroschen-auf/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/dein-no-drama-konto-so-baust-du-deinen-notgroschen-auf/</guid>
+      <pubDate>Sun, 04 Oct 2026 04:06:12 GMT</pubDate>
+    </item>
     <item>
       <title>Aus der Finanztip Woman Community: Lohnt sich die Frühstart-Rente?</title>
       <link>https://www.finanztip.de/daily/frage-aus-unserer-community-lohnt-sich-die-fruehstart-rente/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/regionalklassen-aendern-sich-wird-deine-autoversicherung-jetzt-teurer/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/regionalklassen-aendern-sich-wird-deine-autoversicherung-jetzt-teurer/</guid>
       <pubDate>Wed, 09 Sep 2026 10:05:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>So viel Notgroschen hat die Finanztip-Community</title>
-      <link>https://www.finanztip.de/daily/so-viel-notgroschen-hat-die-finanztip-community/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/so-viel-notgroschen-hat-die-finanztip-community/</guid>
-      <pubDate>Wed, 09 Sep 2026 08:15:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
