@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 05 Oct 2026 04:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:06:02 GMT</lastBuildDate>
+    <item>
+      <title>Kinderkrankentage: Was sie für Deinen finanziellen Spielraum bedeuten</title>
+      <link>https://www.finanztip.de/daily/web/default-9362e8bfc05648fc203aa8e31fcd5adc/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/default-9362e8bfc05648fc203aa8e31fcd5adc/</guid>
+      <pubDate>Mon, 05 Oct 2026 08:06:02 GMT</pubDate>
+    </item>
     <item>
       <title>Equal Pay: So prüfst Du, ob Du fair bezahlt wirst</title>
       <link>https://www.finanztip.de/daily/equal-pay-so-pruefst-du-ob-du-fair-bezahlt-wirst/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/dieses-werkstattrisiko-traegst-du-trotz-vollkasko-selbst/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/dieses-werkstattrisiko-traegst-du-trotz-vollkasko-selbst/</guid>
       <pubDate>Thu, 10 Sep 2026 09:35:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sammelklage gegen E.ON: Über 1.000 € Erstattung möglich</title>
-      <link>https://www.finanztip.de/daily/sammelklage-gegen-eon-ueber-1000-eur-erstattung-moeglich/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/sammelklage-gegen-eon-ueber-1000-eur-erstattung-moeglich/</guid>
-      <pubDate>Thu, 10 Sep 2026 04:05:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
