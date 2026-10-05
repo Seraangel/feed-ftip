@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 04 Oct 2026 04:06:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:05:59 GMT</lastBuildDate>
+    <item>
+      <title>Equal Pay: So prüfst Du, ob Du fair bezahlt wirst</title>
+      <link>https://www.finanztip.de/daily/equal-pay-so-pruefst-du-ob-du-fair-bezahlt-wirst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/equal-pay-so-pruefst-du-ob-du-fair-bezahlt-wirst/</guid>
+      <pubDate>Mon, 05 Oct 2026 04:05:59 GMT</pubDate>
+    </item>
     <item>
       <title>Dein No-Drama-Konto: So baust Du Deinen Notgroschen auf</title>
       <link>https://www.finanztip.de/daily/dein-no-drama-konto-so-baust-du-deinen-notgroschen-auf/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/sammelklage-gegen-eon-ueber-1000-eur-erstattung-moeglich/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/sammelklage-gegen-eon-ueber-1000-eur-erstattung-moeglich/</guid>
       <pubDate>Thu, 10 Sep 2026 04:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neue Regionalklassen: Wird Deine Autoversicherung jetzt teurer?</title>
-      <link>https://www.finanztip.de/daily/regionalklassen-aendern-sich-wird-deine-autoversicherung-jetzt-teurer/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/regionalklassen-aendern-sich-wird-deine-autoversicherung-jetzt-teurer/</guid>
-      <pubDate>Wed, 09 Sep 2026 10:05:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
