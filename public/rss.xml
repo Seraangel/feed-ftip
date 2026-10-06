@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 06 Oct 2026 12:31:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:02:43 GMT</lastBuildDate>
+    <item>
+      <title>Pflegereform: Musst Du 2027 mehr in die Pflegekasse einzahlen?</title>
+      <link>https://www.finanztip.de/daily/web/pflegereform-musst-du-2027-mehr-in-die-pflegekasse-einzahlen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/pflegereform-musst-du-2027-mehr-in-die-pflegekasse-einzahlen/</guid>
+      <pubDate>Tue, 06 Oct 2026 14:02:43 GMT</pubDate>
+    </item>
     <item>
       <title>Sofort Hunderte Euro sparen: Jeder Dritte sollte seinen Stromtarif wechseln</title>
       <link>https://www.finanztip.de/daily/web/sofort-hunderte-euro-sparen-jeder-dritte-sollte-seinen-stromtarif-wechseln/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/av-depot-ticker-diese-anbieter-sind-dabei/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-ticker-diese-anbieter-sind-dabei/</guid>
       <pubDate>Thu, 10 Sep 2026 14:25:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>EZB erhöht: Welche Zinsen jetzt steigen – und welche nicht</title>
-      <link>https://www.finanztip.de/daily/ezb-erhoeht-welche-zinsen-jetzt-steigen-und-welche-nicht/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/ezb-erhoeht-welche-zinsen-jetzt-steigen-und-welche-nicht/</guid>
-      <pubDate>Thu, 10 Sep 2026 12:45:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
