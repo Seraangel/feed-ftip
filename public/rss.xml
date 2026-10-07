@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:06:06 GMT</lastBuildDate>
+    <item>
+      <title>Finanztip Woman: Deshalb brauchen Finanzen für Frauen eine eigene Perspektive</title>
+      <link>https://www.finanztip.de/daily/finanztip-woman-deshalb-brauchen-finanzen-fuer-frauen-eine-eigene-perspektive/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/finanztip-woman-deshalb-brauchen-finanzen-fuer-frauen-eine-eigene-perspektive/</guid>
+      <pubDate>Wed, 07 Oct 2026 10:06:06 GMT</pubDate>
+    </item>
     <item>
       <title>Finanztip Woman: Deshalb brauchen Finanzen für Frauen eine eigene Perspektive</title>
       <link>https://www.finanztip.de/daily/web/finanztip-woman-deshalb-brauchen-finanzen-fuer-frauen-eine-eigene-perspektive/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/jetzt-nachrechnen-so-gut-kannst-du-im-alter-leben/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/jetzt-nachrechnen-so-gut-kannst-du-im-alter-leben/</guid>
       <pubDate>Fri, 11 Sep 2026 04:05:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Unterstützer: ETF verkaufen? So mistest Du Dein Depot aus</title>
-      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-etf-verkaufen-so-mistest-du-dein-depot-aus/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-etf-verkaufen-so-mistest-du-dein-depot-aus/</guid>
-      <pubDate>Thu, 10 Sep 2026 19:05:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
