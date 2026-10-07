@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 07 Oct 2026 10:06:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 11:06:20 GMT</lastBuildDate>
+    <item>
+      <title>Preiserhöhung bei 1&amp;1? Das musst Du nicht hinnehmen</title>
+      <link>https://www.finanztip.de/daily/web/preiserhoehung-bei-11-das-musst-du-nicht-hinnehmen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/preiserhoehung-bei-11-das-musst-du-nicht-hinnehmen/</guid>
+      <pubDate>Wed, 07 Oct 2026 11:06:20 GMT</pubDate>
+    </item>
     <item>
       <title>Finanztip Woman: Deshalb brauchen Finanzen für Frauen eine eigene Perspektive</title>
       <link>https://www.finanztip.de/daily/finanztip-woman-deshalb-brauchen-finanzen-fuer-frauen-eine-eigene-perspektive/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/lohnen-sich-robo-advisors-fuer-deine-geldanlage-noch/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/lohnen-sich-robo-advisors-fuer-deine-geldanlage-noch/</guid>
       <pubDate>Fri, 11 Sep 2026 07:05:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brauchst Du im Alter 300.000 € mehr als gedacht?</title>
-      <link>https://www.finanztip.de/daily/jetzt-nachrechnen-so-gut-kannst-du-im-alter-leben/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/jetzt-nachrechnen-so-gut-kannst-du-im-alter-leben/</guid>
-      <pubDate>Fri, 11 Sep 2026 04:05:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
