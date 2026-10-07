@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 07 Oct 2026 11:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 11:36:15 GMT</lastBuildDate>
+    <item>
+      <title>Pflegebeitrag: Falsch oder nicht erfasste Kinder können Eltern Geld kosten</title>
+      <link>https://www.finanztip.de/daily/web/pflegebeitrag-falsch-oder-nicht-erfasste-kinder-koennen-eltern-geld-kosten/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/pflegebeitrag-falsch-oder-nicht-erfasste-kinder-koennen-eltern-geld-kosten/</guid>
+      <pubDate>Wed, 07 Oct 2026 11:36:15 GMT</pubDate>
+    </item>
     <item>
       <title>Preiserhöhung bei 1&amp;1? Das musst Du nicht hinnehmen</title>
       <link>https://www.finanztip.de/daily/web/preiserhoehung-bei-11-das-musst-du-nicht-hinnehmen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3726/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3726/</guid>
       <pubDate>Fri, 11 Sep 2026 10:06:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lohnen sich Robo-Advisors für Deine Geldanlage noch?</title>
-      <link>https://www.finanztip.de/daily/lohnen-sich-robo-advisors-fuer-deine-geldanlage-noch/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/lohnen-sich-robo-advisors-fuer-deine-geldanlage-noch/</guid>
-      <pubDate>Fri, 11 Sep 2026 07:05:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
