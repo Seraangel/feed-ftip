@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 06 Oct 2026 14:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:01:35 GMT</lastBuildDate>
+    <item>
+      <title>Finanztip Woman: Deshalb brauchen Finanzen für Frauen eine eigene Perspektive</title>
+      <link>https://www.finanztip.de/daily/web/finanztip-woman-deshalb-brauchen-finanzen-fuer-frauen-eine-eigene-perspektive/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/finanztip-woman-deshalb-brauchen-finanzen-fuer-frauen-eine-eigene-perspektive/</guid>
+      <pubDate>Wed, 07 Oct 2026 08:01:35 GMT</pubDate>
+    </item>
     <item>
       <title>Pflegereform: Musst Du 2027 mehr in die Pflegekasse einzahlen?</title>
       <link>https://www.finanztip.de/daily/web/pflegereform-musst-du-2027-mehr-in-die-pflegekasse-einzahlen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-etf-verkaufen-so-mistest-du-dein-depot-aus/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-etf-verkaufen-so-mistest-du-dein-depot-aus/</guid>
       <pubDate>Thu, 10 Sep 2026 19:05:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>AV-Depot-Ticker: Die Angebote im Überblick</title>
-      <link>https://www.finanztip.de/daily/av-depot-ticker-diese-anbieter-sind-dabei/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-ticker-diese-anbieter-sind-dabei/</guid>
-      <pubDate>Thu, 10 Sep 2026 14:25:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
