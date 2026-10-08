@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 08 Oct 2026 06:06:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:06:21 GMT</lastBuildDate>
+    <item>
+      <title>Lohnt sich gerade … ein längerfristiger Gasvertrag?</title>
+      <link>https://www.finanztip.de/daily/lohnt-sich-gerade-ein-laengerfristiger-gasvertrag/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-gerade-ein-laengerfristiger-gasvertrag/</guid>
+      <pubDate>Thu, 08 Oct 2026 10:06:21 GMT</pubDate>
+    </item>
     <item>
       <title>Entlastungsbetrag 2026: Restbudget besser noch nutzen</title>
       <link>https://www.finanztip.de/daily/web/entlastungsbetrag-2026-restbudget-besser-noch-nutzen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/ayvens-bank-oder-chase-wo-bekommst-du-mehr-fuers-tagesgeld/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/ayvens-bank-oder-chase-wo-bekommst-du-mehr-fuers-tagesgeld/</guid>
       <pubDate>Sat, 12 Sep 2026 11:35:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kfz-Versicherung reagiert nicht: Mit diesen 7 Schritten kommst Du weiter</title>
-      <link>https://www.finanztip.de/daily/kfz-versicherung-reagiert-nicht-mit-diesen-7-schritten-kommst-du-weiter/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/kfz-versicherung-reagiert-nicht-mit-diesen-7-schritten-kommst-du-weiter/</guid>
-      <pubDate>Sat, 12 Sep 2026 04:05:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
