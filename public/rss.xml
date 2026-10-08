@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 08 Oct 2026 15:36:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:06:24 GMT</lastBuildDate>
+    <item>
+      <title>MSCI World verkaufen: So viel kostet Dich dieser Fehler</title>
+      <link>https://www.finanztip.de/daily/msci-world-verkaufen-so-viel-kostet-dich-dieser-fehler/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/msci-world-verkaufen-so-viel-kostet-dich-dieser-fehler/</guid>
+      <pubDate>Thu, 08 Oct 2026 16:06:24 GMT</pubDate>
+    </item>
     <item>
       <title>4 % Zinsen aufs Tagesgeld: Wer ist eigentlich Openbank?</title>
       <link>https://www.finanztip.de/daily/4-zinsen-aufs-tagesgeld-wer-ist-eigentlich-openbank/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/finanztip-woman-mach-mehr-aus-deinem-geld/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/finanztip-woman-mach-mehr-aus-deinem-geld/</guid>
       <pubDate>Tue, 15 Sep 2026 07:20:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Immobilienschwemme: Deine Chance auf ein Eigenheim?</title>
-      <link>https://www.finanztip.de/daily/hauskauf-wo-der-demografische-wandel-deine-chancen-verbessern-koennte/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/hauskauf-wo-der-demografische-wandel-deine-chancen-verbessern-koennte/</guid>
-      <pubDate>Mon, 14 Sep 2026 15:35:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
