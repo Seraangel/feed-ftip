@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 09 Oct 2026 15:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:16:47 GMT</lastBuildDate>
+    <item>
+      <title>Neu bei Airbnb: Geld zurück bei Regen?</title>
+      <link>https://www.finanztip.de/daily/neu-bei-airbnb-geld-zurueck-bei-regen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/neu-bei-airbnb-geld-zurueck-bei-regen/</guid>
+      <pubDate>Mon, 12 Oct 2026 15:16:47 GMT</pubDate>
+    </item>
     <item>
       <title>Beliebte Stromanbieter wollen alle Verträge kündigen: Was Du tun kannst</title>
       <link>https://www.finanztip.de/daily/beliebte-stromanbieter-wollen-alle-vertraege-kuendigen-was-du-tun-kannst/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/bgh-kippt-rentenkuerzungen-pruefe-jetzt-deinen-vertrag/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/bgh-kippt-rentenkuerzungen-pruefe-jetzt-deinen-vertrag/</guid>
       <pubDate>Wed, 16 Sep 2026 04:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pflegefall in der Familie? Was jetzt zu tun ist</title>
-      <link>https://www.finanztip.de/daily/pflegefall-in-der-familie-was-jetzt-zu-tun-ist/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/pflegefall-in-der-familie-was-jetzt-zu-tun-ist/</guid>
-      <pubDate>Tue, 15 Sep 2026 15:35:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
