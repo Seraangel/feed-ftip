@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 12 Oct 2026 15:16:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:06:00 GMT</lastBuildDate>
+    <item>
+      <title>Gaspreise steigen: Dieser Winter wird teuer – die nächsten Winter wahrscheinlich auch</title>
+      <link>https://www.finanztip.de/daily/web/gaspreise-steigen-dieser-winter-wird-teuer-die-naechsten-winter-wahrscheinlich-auch/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/gaspreise-steigen-dieser-winter-wird-teuer-die-naechsten-winter-wahrscheinlich-auch/</guid>
+      <pubDate>Tue, 13 Oct 2026 04:06:00 GMT</pubDate>
+    </item>
     <item>
       <title>Neu bei Airbnb: Geld zurück bei Regen?</title>
       <link>https://www.finanztip.de/daily/neu-bei-airbnb-geld-zurueck-bei-regen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/allianz-vor-apple-und-nvidia-diese-aktien-habt-ihr-im-depot/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/allianz-vor-apple-und-nvidia-diese-aktien-habt-ihr-im-depot/</guid>
       <pubDate>Wed, 16 Sep 2026 08:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gerichte kippen Rentenkürzungen: Prüf jetzt Deinen Vertrag</title>
-      <link>https://www.finanztip.de/daily/bgh-kippt-rentenkuerzungen-pruefe-jetzt-deinen-vertrag/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/bgh-kippt-rentenkuerzungen-pruefe-jetzt-deinen-vertrag/</guid>
-      <pubDate>Wed, 16 Sep 2026 04:05:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
