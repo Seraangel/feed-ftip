@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 13 Oct 2026 04:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:06:15 GMT</lastBuildDate>
+    <item>
+      <title>Trade Republic zeigt sein AV-Depot: Das beste Angebot auf dem Markt?</title>
+      <link>https://www.finanztip.de/daily/trade-republic-zeigt-sein-av-depot-das-beste-angebot-auf-dem-markt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/trade-republic-zeigt-sein-av-depot-das-beste-angebot-auf-dem-markt/</guid>
+      <pubDate>Tue, 13 Oct 2026 07:06:15 GMT</pubDate>
+    </item>
     <item>
       <title>Gaspreise steigen: Dieser Winter wird teuer – die nächsten Winter wahrscheinlich auch</title>
       <link>https://www.finanztip.de/daily/web/gaspreise-steigen-dieser-winter-wird-teuer-die-naechsten-winter-wahrscheinlich-auch/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/ayvens-und-chase-vier-prozent-aufs-tagesgeld-wo-bekommst-du-mehr/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/ayvens-und-chase-vier-prozent-aufs-tagesgeld-wo-bekommst-du-mehr/</guid>
       <pubDate>Wed, 16 Sep 2026 10:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Allianz vor Apple und Nvidia: Diese Aktien habt Ihr im Depot</title>
-      <link>https://www.finanztip.de/daily/allianz-vor-apple-und-nvidia-diese-aktien-habt-ihr-im-depot/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/allianz-vor-apple-und-nvidia-diese-aktien-habt-ihr-im-depot/</guid>
-      <pubDate>Wed, 16 Sep 2026 08:05:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
