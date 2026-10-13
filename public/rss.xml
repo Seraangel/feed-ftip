@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:34:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:46:38 GMT</lastBuildDate>
+    <item>
+      <title>Worauf es bei der Auswahl Deines AV-Depots ankommt</title>
+      <link>https://www.finanztip.de/daily/worauf-es-bei-der-auswahl-deines-av-depots-ankommt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/worauf-es-bei-der-auswahl-deines-av-depots-ankommt/</guid>
+      <pubDate>Tue, 13 Oct 2026 15:46:38 GMT</pubDate>
+    </item>
     <item>
       <title>Unwetter gefährden immer mehr Häuser: So prüfst Du, ob Du richtig versichert bist</title>
       <link>https://www.finanztip.de/daily/web/unwetter-gefaehrden-immer-mehr-haeuser-so-pruefst-du-ob-du-richtig-versichert-bist/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/achtung-phishing-diese-mail-ist-nicht-von-finanztip/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/achtung-phishing-diese-mail-ist-nicht-von-finanztip/</guid>
       <pubDate>Thu, 17 Sep 2026 08:56:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Durchblick beim AV-Depot – direkt in Dein Postfach</title>
-      <link>https://www.finanztip.de/daily/durchblick-beim-av-depot-direkt-in-dein-postfach-1/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/durchblick-beim-av-depot-direkt-in-dein-postfach-1/</guid>
-      <pubDate>Thu, 17 Sep 2026 08:16:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
