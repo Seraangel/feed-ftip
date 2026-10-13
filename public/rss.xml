@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 13 Oct 2026 07:41:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:46:21 GMT</lastBuildDate>
+    <item>
+      <title>Bargeld einzahlen: So vermeidest Du Probleme</title>
+      <link>https://www.finanztip.de/daily/bargeld-einzahlen-so-vermeidest-du-probleme-1/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/bargeld-einzahlen-so-vermeidest-du-probleme-1/</guid>
+      <pubDate>Tue, 13 Oct 2026 09:46:21 GMT</pubDate>
+    </item>
     <item>
       <title>Trade Republic zeigt sein AV-Depot: Das beste Angebot auf dem Markt?</title>
       <link>https://www.finanztip.de/daily/web/trade-republic-zeigt-sein-av-depot-ist-es-das-beste-angebot-auf-dem-markt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/von-1337-euro-leben-weshalb-das-fuer-die-bu-deutlich-zu-wenig-ist/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/von-1337-euro-leben-weshalb-das-fuer-die-bu-deutlich-zu-wenig-ist/</guid>
       <pubDate>Thu, 17 Sep 2026 04:51:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Durchblick beim AV-Depot – direkt in Dein Postfach</title>
-      <link>https://www.finanztip.de/daily/durchblick-beim-av-depot-direkt-in-dein-postfach/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/durchblick-beim-av-depot-direkt-in-dein-postfach/</guid>
-      <pubDate>Thu, 17 Sep 2026 04:06:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
