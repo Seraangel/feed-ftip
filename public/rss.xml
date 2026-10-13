@@ -6,7 +6,19 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 13 Oct 2026 07:06:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:26:02 GMT</lastBuildDate>
+    <item>
+      <title>Endlich anfangen: Vier kostenlose Academy-Kurse für Frauen</title>
+      <link>https://www.finanztip.de/daily/web/endlich-anfangen-vier-kostenlose-academy-kurse-fuer-frauen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/endlich-anfangen-vier-kostenlose-academy-kurse-fuer-frauen/</guid>
+      <pubDate>Tue, 13 Oct 2026 07:26:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Finanztip-Studie: Jede vierte Frau hat weniger als 50 € zum Sparen</title>
+      <link>https://www.finanztip.de/daily/web/finanztip-studie-jede-vierte-frau-hat-weniger-als-50-eur-zum-sparen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/finanztip-studie-jede-vierte-frau-hat-weniger-als-50-eur-zum-sparen/</guid>
+      <pubDate>Tue, 13 Oct 2026 07:26:02 GMT</pubDate>
+    </item>
     <item>
       <title>Trade Republic zeigt sein AV-Depot: Das beste Angebot auf dem Markt?</title>
       <link>https://www.finanztip.de/daily/trade-republic-zeigt-sein-av-depot-das-beste-angebot-auf-dem-markt/</link>
@@ -594,18 +606,6 @@
       <link>https://www.finanztip.de/daily/lohnt-sich-gerade-ploetzlich-mal-die-grundversorgung/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-gerade-ploetzlich-mal-die-grundversorgung/</guid>
       <pubDate>Wed, 16 Sep 2026 15:05:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mietenreport 2026: Mietpreisbremse gegen zu hohe Mieten nutzen</title>
-      <link>https://www.finanztip.de/daily/web/mietenreport-2026-mietpreisbremse-gegen-zu-hohe-mieten-nutzen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/mietenreport-2026-mietpreisbremse-gegen-zu-hohe-mieten-nutzen/</guid>
-      <pubDate>Wed, 16 Sep 2026 12:35:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>4 % bei Ayvens Bank &amp; Chase: Wo bekommst Du aktuell mehr für Dein Tagesgeld?</title>
-      <link>https://www.finanztip.de/daily/web/ayvens-und-chase-vier-prozent-aufs-tagesgeld-wo-bekommst-du-mehr/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ayvens-und-chase-vier-prozent-aufs-tagesgeld-wo-bekommst-du-mehr/</guid>
-      <pubDate>Wed, 16 Sep 2026 10:05:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
