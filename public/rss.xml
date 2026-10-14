@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 13 Oct 2026 15:46:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:35:52 GMT</lastBuildDate>
+    <item>
+      <title>AV-Depot kostenlos? Warum das allein nicht reicht</title>
+      <link>https://www.finanztip.de/daily/web/av-depot-kostenlos-warum-das-allein-nicht-reicht/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-kostenlos-warum-das-allein-nicht-reicht/</guid>
+      <pubDate>Wed, 14 Oct 2026 04:35:52 GMT</pubDate>
+    </item>
     <item>
       <title>Worauf es bei der Auswahl Deines AV-Depots ankommt</title>
       <link>https://www.finanztip.de/daily/worauf-es-bei-der-auswahl-deines-av-depots-ankommt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/durchblick-beim-av-depot-direkt-in-dein-postfach/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/durchblick-beim-av-depot-direkt-in-dein-postfach/</guid>
       <pubDate>Thu, 17 Sep 2026 09:36:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Achtung, Betrug: Diese Mail und Anrufe sind nicht von Finanztip</title>
-      <link>https://www.finanztip.de/daily/achtung-phishing-diese-mail-ist-nicht-von-finanztip/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/achtung-phishing-diese-mail-ist-nicht-von-finanztip/</guid>
-      <pubDate>Thu, 17 Sep 2026 08:56:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
