@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 14 Oct 2026 04:35:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:15:50 GMT</lastBuildDate>
+    <item>
+      <title>ETF statt BU? Warum das gefährlich ist</title>
+      <link>https://www.finanztip.de/daily/web/etf-statt-bu-warum-das-gefaehrlich-sein-kann/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/etf-statt-bu-warum-das-gefaehrlich-sein-kann/</guid>
+      <pubDate>Wed, 14 Oct 2026 07:15:50 GMT</pubDate>
+    </item>
     <item>
       <title>AV-Depot kostenlos? Warum das allein nicht reicht</title>
       <link>https://www.finanztip.de/daily/web/av-depot-kostenlos-warum-das-allein-nicht-reicht/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/durchblick-beim-av-depot-direkt-in-dein-postfach-1/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/durchblick-beim-av-depot-direkt-in-dein-postfach-1/</guid>
       <pubDate>Thu, 17 Sep 2026 09:46:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Durchblick beim AV-Depot – direkt in Dein Postfach</title>
-      <link>https://www.finanztip.de/daily/web/durchblick-beim-av-depot-direkt-in-dein-postfach/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/durchblick-beim-av-depot-direkt-in-dein-postfach/</guid>
-      <pubDate>Thu, 17 Sep 2026 09:36:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
