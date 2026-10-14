@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 14 Oct 2026 08:45:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:55:53 GMT</lastBuildDate>
+    <item>
+      <title>Aufhebungsvertrag und Abfindung: Wie Du richtig reagierst</title>
+      <link>https://www.finanztip.de/daily/web/aufhebungsvertrag-und-abfindung-wie-du-richtig-reagierst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/aufhebungsvertrag-und-abfindung-wie-du-richtig-reagierst/</guid>
+      <pubDate>Wed, 14 Oct 2026 08:55:53 GMT</pubDate>
+    </item>
     <item>
       <title>Willkommen zum zweiten Teil der Mail-Serie</title>
       <link>https://www.finanztip.de/daily/web/willkommen-zum-zweiten-teil-der-mail-serie-jobverlust/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/paypal-startet-so-viel-bringen-dir-die-punkte-wirklich/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/paypal-startet-so-viel-bringen-dir-die-punkte-wirklich/</guid>
       <pubDate>Fri, 18 Sep 2026 16:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>EZB erhöht Zins auf 2,5 %: Was jetzt bei Tagesgeld und Bauzinsen passiert</title>
-      <link>https://www.finanztip.de/daily/web/ezb-erhoeht-zins-auf-25-was-jetzt-bei-tagesgeld-und-bauzinsen-passiert/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ezb-erhoeht-zins-auf-25-was-jetzt-bei-tagesgeld-und-bauzinsen-passiert/</guid>
-      <pubDate>Fri, 18 Sep 2026 12:31:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
