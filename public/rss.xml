@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 14 Oct 2026 09:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 09:15:49 GMT</lastBuildDate>
+    <item>
+      <title>Sparplan, bAV, Depot: Darauf kommt es jetzt an</title>
+      <link>https://www.finanztip.de/daily/web/sparplan-bav-depot-darauf-kommt-es-jetzt-an/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/sparplan-bav-depot-darauf-kommt-es-jetzt-an/</guid>
+      <pubDate>Wed, 14 Oct 2026 09:15:49 GMT</pubDate>
+    </item>
     <item>
       <title>Fazit und Deine To-Dos aus der zweiten Mail</title>
       <link>https://www.finanztip.de/daily/web/fazit-und-deine-to-dos-aus-der-zweiten-mail-jobverlust/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/zinsen-altersvorsorge-immobilien-was-du-diese-woche-gelesen-haben-solltest/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/zinsen-altersvorsorge-immobilien-was-du-diese-woche-gelesen-haben-solltest/</guid>
       <pubDate>Sun, 20 Sep 2026 04:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>So hilfst Du Deinen Eltern im Pflegefall: Das ist jetzt wichtig</title>
-      <link>https://www.finanztip.de/daily/so-hilfst-du-deinen-eltern-im-pflegefall-das-ist-jetzt-wichtig/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/so-hilfst-du-deinen-eltern-im-pflegefall-das-ist-jetzt-wichtig/</guid>
-      <pubDate>Sat, 19 Sep 2026 16:06:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
