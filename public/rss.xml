@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 14 Oct 2026 10:05:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:05:50 GMT</lastBuildDate>
+    <item>
+      <title>Internet fürs Tablet? Deshalb solltest Du einen normalen Handytarif nehmen</title>
+      <link>https://www.finanztip.de/daily/web/internet-fuers-tablet-deshalb-solltest-du-einen-normalen-handytarif-nehmen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/internet-fuers-tablet-deshalb-solltest-du-einen-normalen-handytarif-nehmen/</guid>
+      <pubDate>Wed, 14 Oct 2026 13:05:50 GMT</pubDate>
+    </item>
     <item>
       <title>Kostenlose Academy-Kurse: Dein Start in Deine Finanzen</title>
       <link>https://www.finanztip.de/daily/kostenlose-academy-kurse-dein-start-in-deine-finanzen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/was-ein-big-mac-ueber-dein-geld-aussagt/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/was-ein-big-mac-ueber-dein-geld-aussagt/</guid>
       <pubDate>Mon, 21 Sep 2026 04:06:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heizen in der Übergangszeit: Ab wann die Heizung aufdrehen?</title>
-      <link>https://www.finanztip.de/daily/heizen-in-der-uebergangszeit-ab-wann-die-heizung-aufdrehen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/heizen-in-der-uebergangszeit-ab-wann-die-heizung-aufdrehen/</guid>
-      <pubDate>Sun, 20 Sep 2026 16:01:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
