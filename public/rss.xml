@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 14 Oct 2026 08:35:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:45:50 GMT</lastBuildDate>
+    <item>
+      <title>Willkommen zum zweiten Teil der Mail-Serie</title>
+      <link>https://www.finanztip.de/daily/web/willkommen-zum-zweiten-teil-der-mail-serie-jobverlust/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/willkommen-zum-zweiten-teil-der-mail-serie-jobverlust/</guid>
+      <pubDate>Wed, 14 Oct 2026 08:45:50 GMT</pubDate>
+    </item>
     <item>
       <title>Damit Deine Rücklagen möglichst lange reichen</title>
       <link>https://www.finanztip.de/daily/web/damit-deine-ruecklagen-moeglichst-lange-reichen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/ezb-erhoeht-zins-auf-25-was-jetzt-bei-tagesgeld-und-bauzinsen-passiert/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/ezb-erhoeht-zins-auf-25-was-jetzt-bei-tagesgeld-und-bauzinsen-passiert/</guid>
       <pubDate>Fri, 18 Sep 2026 12:31:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deals der Woche: Was Du nicht verpassen solltest</title>
-      <link>https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3826/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/deals-der-woche-was-du-nicht-verpassen-solltest-kw3826/</guid>
-      <pubDate>Fri, 18 Sep 2026 10:36:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
