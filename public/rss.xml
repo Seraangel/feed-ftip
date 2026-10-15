@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:35:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:45:53 GMT</lastBuildDate>
+    <item>
+      <title>Inflationsrate steigt weiter: So viel teurer wurde es im September</title>
+      <link>https://www.finanztip.de/daily/inflationsrate-steigt-weiter-so-viel-teurer-wurde-es-im-september/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/inflationsrate-steigt-weiter-so-viel-teurer-wurde-es-im-september/</guid>
+      <pubDate>Thu, 15 Oct 2026 15:45:53 GMT</pubDate>
+    </item>
     <item>
       <title>Bis zu 32 Cent mehr für Deine Limo? Was die Zuckersteuer bedeutet</title>
       <link>https://www.finanztip.de/daily/bis-zu-32-cent-mehr-fuer-deine-limo-was-die-zuckersteuer-bedeutet/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/heizungsfoerderung-so-sicherst-du-dir-tausende-euro-zusaetzlich/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/heizungsfoerderung-so-sicherst-du-dir-tausende-euro-zusaetzlich/</guid>
       <pubDate>Wed, 23 Sep 2026 10:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hohe Sparraten, aber wie breit streut Ihr?</title>
-      <link>https://www.finanztip.de/daily/hohe-sparraten-aber-wie-breit-streut-ihr/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/hohe-sparraten-aber-wie-breit-streut-ihr/</guid>
-      <pubDate>Wed, 23 Sep 2026 08:26:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
