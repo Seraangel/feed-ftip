@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 15 Oct 2026 10:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:10:57 GMT</lastBuildDate>
+    <item>
+      <title>Für Unterstützer: AV-Depot – Wie funktioniert's und was bringt's?</title>
+      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-av-depot-wie-funktionierts-und-was-bringts/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-av-depot-wie-funktionierts-und-was-bringts/</guid>
+      <pubDate>Thu, 15 Oct 2026 15:10:57 GMT</pubDate>
+    </item>
     <item>
       <title>Lohnt sich gerade … noch ein Automobilclub?</title>
       <link>https://www.finanztip.de/daily/lohnt-sich-gerade-noch-ein-automobilclub/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/krankenkassen-sollen-dich-informieren-muessen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/krankenkassen-sollen-dich-informieren-muessen/</guid>
       <pubDate>Tue, 22 Sep 2026 13:41:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Getrennte Depots – trotzdem gemeinsam denken?</title>
-      <link>https://www.finanztip.de/daily/getrennte-depots-trotzdem-gemeinsam-denken/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/getrennte-depots-trotzdem-gemeinsam-denken/</guid>
-      <pubDate>Tue, 22 Sep 2026 10:06:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
