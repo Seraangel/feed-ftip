@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 15 Oct 2026 04:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:05:31 GMT</lastBuildDate>
+    <item>
+      <title>Lohnt sich gerade … noch ein Automobilclub?</title>
+      <link>https://www.finanztip.de/daily/lohnt-sich-gerade-noch-ein-automobilclub/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-gerade-noch-ein-automobilclub/</guid>
+      <pubDate>Thu, 15 Oct 2026 10:05:31 GMT</pubDate>
+    </item>
     <item>
       <title>ETF statt BU? Warum das gefährlich sein kann</title>
       <link>https://www.finanztip.de/daily/web/etf-statt-bu-warum-das-gefaehrlich-ist/</link>
@@ -599,12 +605,6 @@
       <title>Getrennte Depots – trotzdem gemeinsam denken?</title>
       <link>https://www.finanztip.de/daily/getrennte-depots-trotzdem-gemeinsam-denken/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/getrennte-depots-trotzdem-gemeinsam-denken/</guid>
-      <pubDate>Tue, 22 Sep 2026 10:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>EZB erhöht den Leitzins: Was das für Tagesgeld und Bauzinsen bedeutet</title>
-      <link>https://www.finanztip.de/daily/web/ezb-erhoeht-den-leitzins-was-das-fuer-tagesgeld-und-bauzinsen-bedeutet/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ezb-erhoeht-den-leitzins-was-das-fuer-tagesgeld-und-bauzinsen-bedeutet/</guid>
       <pubDate>Tue, 22 Sep 2026 10:06:14 GMT</pubDate>
     </item>
   </channel>
