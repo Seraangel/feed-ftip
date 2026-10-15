@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:45:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:55:52 GMT</lastBuildDate>
+    <item>
+      <title>Rauchen? Das geht bald richtig ins Geld</title>
+      <link>https://www.finanztip.de/daily/rauchen-das-geht-bald-richtig-ins-geld/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/rauchen-das-geht-bald-richtig-ins-geld/</guid>
+      <pubDate>Thu, 15 Oct 2026 15:55:52 GMT</pubDate>
+    </item>
     <item>
       <title>Inflationsrate steigt weiter: So viel teurer wurde es im September</title>
       <link>https://www.finanztip.de/daily/inflationsrate-steigt-weiter-so-viel-teurer-wurde-es-im-september/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/leere-gasspeicher-und-trump-als-preisrisiko-das-schuetzt-dich-vor-einem-teuren-winter/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/leere-gasspeicher-und-trump-als-preisrisiko-das-schuetzt-dich-vor-einem-teuren-winter/</guid>
       <pubDate>Wed, 23 Sep 2026 14:36:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heizungsförderung: So sicherst Du Dir Tausende Euro zusätzlich</title>
-      <link>https://www.finanztip.de/daily/heizungsfoerderung-so-sicherst-du-dir-tausende-euro-zusaetzlich/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/heizungsfoerderung-so-sicherst-du-dir-tausende-euro-zusaetzlich/</guid>
-      <pubDate>Wed, 23 Sep 2026 10:06:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
