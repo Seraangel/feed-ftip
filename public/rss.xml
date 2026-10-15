@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 14 Oct 2026 14:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:00:56 GMT</lastBuildDate>
+    <item>
+      <title>ETF statt BU? Warum das gefährlich sein kann</title>
+      <link>https://www.finanztip.de/daily/web/etf-statt-bu-warum-das-gefaehrlich-ist/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/etf-statt-bu-warum-das-gefaehrlich-ist/</guid>
+      <pubDate>Thu, 15 Oct 2026 04:00:56 GMT</pubDate>
+    </item>
     <item>
       <title>Altersvorsorge-Depot ab 2027: Warum Du die Kosten genau vergleichen solltest</title>
       <link>https://www.finanztip.de/daily/web/altersvorsorge-depot-ab-2027-warum-du-die-kosten-genau-vergleichen-solltest/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/ezb-erhoeht-den-leitzins-was-das-fuer-tagesgeld-und-bauzinsen-bedeutet/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/ezb-erhoeht-den-leitzins-was-das-fuer-tagesgeld-und-bauzinsen-bedeutet/</guid>
       <pubDate>Tue, 22 Sep 2026 10:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>ETF-Flops: Die 5 schlechtesten ETFs seit Jahresanfang</title>
-      <link>https://www.finanztip.de/daily/etf-flops-die-5-schlechtesten-etfs-seit-jahresanfang-1/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/etf-flops-die-5-schlechtesten-etfs-seit-jahresanfang-1/</guid>
-      <pubDate>Tue, 22 Sep 2026 04:01:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
