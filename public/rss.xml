@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 16 Oct 2026 07:25:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:30:56 GMT</lastBuildDate>
+    <item>
+      <title>E.ON-Fernwärme: Gericht kippt Preisformeln</title>
+      <link>https://www.finanztip.de/daily/eon-fernwaerme-gericht-kippt-preisformeln/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/eon-fernwaerme-gericht-kippt-preisformeln/</guid>
+      <pubDate>Fri, 16 Oct 2026 07:30:56 GMT</pubDate>
+    </item>
     <item>
       <title>Strom- und Gaspreise 2027: Wer jetzt schnell sein sollte</title>
       <link>https://www.finanztip.de/daily/strom-und-gaspreise-2027-wer-jetzt-schnell-sein-sollte/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/nur-noch-diese-woche-hol-dir-bis-zu-972-euro-von-dazn-zurueck/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/nur-noch-diese-woche-hol-dir-bis-zu-972-euro-von-dazn-zurueck/</guid>
       <pubDate>Thu, 24 Sep 2026 07:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Türkei vor dem ETF-Abstieg: Was das für Dein Depot bedeutet</title>
-      <link>https://www.finanztip.de/daily/tuerkei-koennte-schwellenland-status-verlieren-das-bedeutet-das-fuer-deinen-etf/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/tuerkei-koennte-schwellenland-status-verlieren-das-bedeutet-das-fuer-deinen-etf/</guid>
-      <pubDate>Thu, 24 Sep 2026 04:06:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
