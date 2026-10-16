@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 16 Oct 2026 07:35:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:35:53 GMT</lastBuildDate>
+    <item>
+      <title>Frühstartrente kommt: Was Eltern jetzt wissen müssen</title>
+      <link>https://www.finanztip.de/daily/web/fruehstartrente-beschlossen-was-eltern-jetzt-wissen-muessen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/fruehstartrente-beschlossen-was-eltern-jetzt-wissen-muessen/</guid>
+      <pubDate>Fri, 16 Oct 2026 14:35:53 GMT</pubDate>
+    </item>
     <item>
       <title>E.ON-Fernwärme: Gericht kippt Preisformeln</title>
       <link>https://www.finanztip.de/daily/eon-fernwaerme-gericht-kippt-preisformeln/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/vodafone-preiserhoehung-dieses-urteil-macht-hoffnung/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/vodafone-preiserhoehung-dieses-urteil-macht-hoffnung/</guid>
       <pubDate>Thu, 24 Sep 2026 10:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nur noch diese Woche: Hol Dir bis zu 972 Euro von Dazn zurück</title>
-      <link>https://www.finanztip.de/daily/web/nur-noch-diese-woche-hol-dir-bis-zu-972-euro-von-dazn-zurueck/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/nur-noch-diese-woche-hol-dir-bis-zu-972-euro-von-dazn-zurueck/</guid>
-      <pubDate>Thu, 24 Sep 2026 07:06:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
