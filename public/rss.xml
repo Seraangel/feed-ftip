@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:55:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:05:55 GMT</lastBuildDate>
+    <item>
+      <title>Kündigung erhalten? Darum kann sich eine Klage lohnen</title>
+      <link>https://www.finanztip.de/daily/web/kuendigung-erhalten-darum-kann-sich-eine-klage-lohnen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/kuendigung-erhalten-darum-kann-sich-eine-klage-lohnen/</guid>
+      <pubDate>Fri, 16 Oct 2026 05:05:55 GMT</pubDate>
+    </item>
     <item>
       <title>Rauchen? Das geht bald richtig ins Geld</title>
       <link>https://www.finanztip.de/daily/rauchen-das-geht-bald-richtig-ins-geld/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/wann-du-2027-weniger-netto-bekommst/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/wann-du-2027-weniger-netto-bekommst/</guid>
       <pubDate>Wed, 23 Sep 2026 16:06:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Leere Gasspeicher und Trump als Preisrisiko: Das schützt Dich vor einem teuren Winter</title>
-      <link>https://www.finanztip.de/daily/web/leere-gasspeicher-und-trump-als-preisrisiko-das-schuetzt-dich-vor-einem-teuren-winter/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/leere-gasspeicher-und-trump-als-preisrisiko-das-schuetzt-dich-vor-einem-teuren-winter/</guid>
-      <pubDate>Wed, 23 Sep 2026 14:36:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
