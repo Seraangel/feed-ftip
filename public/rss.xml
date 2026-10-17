@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 16 Oct 2026 14:35:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 04:05:52 GMT</lastBuildDate>
+    <item>
+      <title>Über 300 Euro Neukundenbonus: Die Wahrheit über Stromtarife mit Lock-Prämien</title>
+      <link>https://www.finanztip.de/daily/web/ueber-300-euro-neukundenbonus-die-wahrheit-ueber-stromtarife-mit-lock-praemien/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ueber-300-euro-neukundenbonus-die-wahrheit-ueber-stromtarife-mit-lock-praemien/</guid>
+      <pubDate>Sat, 17 Oct 2026 04:05:52 GMT</pubDate>
+    </item>
     <item>
       <title>Frühstartrente kommt: Was Eltern jetzt wissen müssen</title>
       <link>https://www.finanztip.de/daily/web/fruehstartrente-beschlossen-was-eltern-jetzt-wissen-muessen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/altersvorsorgedepot-als-koeder-das-steckt-hinter-der-renten-kampagne-der-dvag/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/altersvorsorgedepot-als-koeder-das-steckt-hinter-der-renten-kampagne-der-dvag/</guid>
       <pubDate>Thu, 24 Sep 2026 12:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vodafone-Preiserhöhung – Dieses Urteil macht Hoffnung</title>
-      <link>https://www.finanztip.de/daily/vodafone-preiserhoehung-dieses-urteil-macht-hoffnung/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/vodafone-preiserhoehung-dieses-urteil-macht-hoffnung/</guid>
-      <pubDate>Thu, 24 Sep 2026 10:06:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
