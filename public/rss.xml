@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 17 Oct 2026 04:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 04:06:07 GMT</lastBuildDate>
+    <item>
+      <title>Hausratvertrag prüfen: Passt der Versicherungsschutz bei Extremwetter</title>
+      <link>https://www.finanztip.de/daily/web/hausratvertrag-pruefen-passt-der-versicherungsschutz-bei-extremwetter/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/hausratvertrag-pruefen-passt-der-versicherungsschutz-bei-extremwetter/</guid>
+      <pubDate>Sun, 18 Oct 2026 04:06:07 GMT</pubDate>
+    </item>
     <item>
       <title>Über 300 Euro Neukundenbonus: Die Wahrheit über Stromtarife mit Lock-Prämien</title>
       <link>https://www.finanztip.de/daily/web/ueber-300-euro-neukundenbonus-die-wahrheit-ueber-stromtarife-mit-lock-praemien/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/12-uhr-regel-so-nutzen-autofahrer-die-massnahme-richtig/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/12-uhr-regel-so-nutzen-autofahrer-die-massnahme-richtig/</guid>
       <pubDate>Thu, 24 Sep 2026 13:35:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Altersvorsorgedepot als Köder? Was sich hinter der Renten-Kampagne der DVAG verbirgt</title>
-      <link>https://www.finanztip.de/daily/web/altersvorsorgedepot-als-koeder-das-steckt-hinter-der-renten-kampagne-der-dvag/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/altersvorsorgedepot-als-koeder-das-steckt-hinter-der-renten-kampagne-der-dvag/</guid>
-      <pubDate>Thu, 24 Sep 2026 12:36:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
