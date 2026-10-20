@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:11:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 04:11:02 GMT</lastBuildDate>
+    <item>
+      <title>Quirion legt nach: Das günstigste AV-Depot bisher</title>
+      <link>https://www.finanztip.de/daily/web/quirion-legt-nach-das-guenstigste-av-depot-aktuell/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/quirion-legt-nach-das-guenstigste-av-depot-aktuell/</guid>
+      <pubDate>Tue, 20 Oct 2026 04:11:02 GMT</pubDate>
+    </item>
     <item>
       <title>Pflegebeitrag 2027: Weniger Spielraum auch für Dich?</title>
       <link>https://www.finanztip.de/daily/pflegebeitrag-2027-weniger-spielraum-auch-fuer-dich/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/unterschaetzt-du-dieses-etf-risiko/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/unterschaetzt-du-dieses-etf-risiko/</guid>
       <pubDate>Fri, 25 Sep 2026 04:06:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Unterstützer: Reine Spekulation? Wann Du Bitcoin haben solltest</title>
-      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-reine-spekulation-wann-du-bitcoin-haben-solltest-1/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-reine-spekulation-wann-du-bitcoin-haben-solltest-1/</guid>
-      <pubDate>Thu, 24 Sep 2026 16:01:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
