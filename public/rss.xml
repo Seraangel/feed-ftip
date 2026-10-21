@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:36:08 GMT</lastBuildDate>
+    <item>
+      <title>Solltest Du als Gutverdiener jetzt in die PKV wechseln?</title>
+      <link>https://www.finanztip.de/daily/web/solltest-du-als-gutverdiener-jetzt-in-die-pkv-wechseln/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/solltest-du-als-gutverdiener-jetzt-in-die-pkv-wechseln/</guid>
+      <pubDate>Wed, 21 Oct 2026 04:36:08 GMT</pubDate>
+    </item>
     <item>
       <title>10 Euro für Unlimited: Was hinter Simsalasim steckt</title>
       <link>https://www.finanztip.de/daily/web/10-euro-fuer-unlimited-was-hinter-simsalasim-steckt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/altersvorsorgedepot-als-koeder-was-sich-hinter-der-dvag-renten-kampagne-verbirgt/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/altersvorsorgedepot-als-koeder-was-sich-hinter-der-dvag-renten-kampagne-verbirgt/</guid>
       <pubDate>Sat, 26 Sep 2026 04:06:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Immobilienpreise überraschen: Das solltest Du jetzt wissen</title>
-      <link>https://www.finanztip.de/daily/immobilienpreise-ueberraschen-das-solltest-du-jetzt-wissen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/immobilienpreise-ueberraschen-das-solltest-du-jetzt-wissen/</guid>
-      <pubDate>Fri, 25 Sep 2026 13:01:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
