@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 21 Oct 2026 07:26:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:05:46 GMT</lastBuildDate>
+    <item>
+      <title>AV-Depot startet 2027: Neue Chance für Selbstständige</title>
+      <link>https://www.finanztip.de/daily/web/av-depot-startet-2027-neue-chance-fuer-selbststaendige/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-startet-2027-neue-chance-fuer-selbststaendige/</guid>
+      <pubDate>Thu, 22 Oct 2026 04:05:46 GMT</pubDate>
+    </item>
     <item>
       <title>Geld beim Dating: Wie Du das Thema souverän ansprichst</title>
       <link>https://www.finanztip.de/daily/web/geld-beim-dating-wie-du-das-thema-souveraen-ansprichst/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/nachhaltiges-banking-und-ganz-nebenbei-etwas-gutes-tun/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/nachhaltiges-banking-und-ganz-nebenbei-etwas-gutes-tun/</guid>
       <pubDate>Sat, 26 Sep 2026 10:06:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Altersvorsorgedepot als Köder? Das steckt hinter „Deutschland macht Rente“ der DVAG</title>
-      <link>https://www.finanztip.de/daily/altersvorsorgedepot-als-koeder-was-sich-hinter-der-dvag-renten-kampagne-verbirgt/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/altersvorsorgedepot-als-koeder-was-sich-hinter-der-dvag-renten-kampagne-verbirgt/</guid>
-      <pubDate>Sat, 26 Sep 2026 06:16:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
