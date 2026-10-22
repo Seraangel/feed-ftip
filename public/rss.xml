@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 22 Oct 2026 04:05:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:35:52 GMT</lastBuildDate>
+    <item>
+      <title>Finanzen ab 50: Warum Du gerade jetzt anfangen solltest</title>
+      <link>https://www.finanztip.de/daily/finanzen-ab-50-warum-du-gerade-jetzt-anfangen-solltest/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/finanzen-ab-50-warum-du-gerade-jetzt-anfangen-solltest/</guid>
+      <pubDate>Thu, 22 Oct 2026 08:35:52 GMT</pubDate>
+    </item>
     <item>
       <title>AV-Depot startet 2027: Neue Chance für Selbstständige</title>
       <link>https://www.finanztip.de/daily/web/av-depot-startet-2027-neue-chance-fuer-selbststaendige/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/krypto-steuer-warum-deine-nachweise-jetzt-noch-wichtiger-werden/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/krypto-steuer-warum-deine-nachweise-jetzt-noch-wichtiger-werden/</guid>
       <pubDate>Sat, 26 Sep 2026 16:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nachhaltiges Banking und ganz nebenbei etwas Gutes tun</title>
-      <link>https://www.finanztip.de/daily/nachhaltiges-banking-und-ganz-nebenbei-etwas-gutes-tun/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/nachhaltiges-banking-und-ganz-nebenbei-etwas-gutes-tun/</guid>
-      <pubDate>Sat, 26 Sep 2026 10:06:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
