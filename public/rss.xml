@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 22 Oct 2026 08:35:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:05:47 GMT</lastBuildDate>
+    <item>
+      <title>Card Control: Bestimme selbst, was Deine Karte darf</title>
+      <link>https://www.finanztip.de/daily/web/card-control-bestimme-selbst-was-deine-karte-darf/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/card-control-bestimme-selbst-was-deine-karte-darf/</guid>
+      <pubDate>Thu, 22 Oct 2026 12:05:47 GMT</pubDate>
+    </item>
     <item>
       <title>Finanzen ab 50: Warum Du gerade jetzt anfangen solltest</title>
       <link>https://www.finanztip.de/daily/finanzen-ab-50-warum-du-gerade-jetzt-anfangen-solltest/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/weniger-netto-rentenversicherung-krankenkasse-was-du-diese-woche-gelesen-haben-solltest/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/weniger-netto-rentenversicherung-krankenkasse-was-du-diese-woche-gelesen-haben-solltest/</guid>
       <pubDate>Sun, 27 Sep 2026 04:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krypto-Steuer: Warum Deine Nachweise jetzt noch wichtiger werden</title>
-      <link>https://www.finanztip.de/daily/krypto-steuer-warum-deine-nachweise-jetzt-noch-wichtiger-werden/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/krypto-steuer-warum-deine-nachweise-jetzt-noch-wichtiger-werden/</guid>
-      <pubDate>Sat, 26 Sep 2026 16:06:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
