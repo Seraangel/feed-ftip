@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 23 Oct 2026 12:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:30:38 GMT</lastBuildDate>
+    <item>
+      <title>Für Unterstützer: Kapital für die Immobilie – So sparst Du richtig</title>
+      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-kapital-fuer-die-immobilie-so-sparst-du-richtig/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-kapital-fuer-die-immobilie-so-sparst-du-richtig/</guid>
+      <pubDate>Fri, 23 Oct 2026 17:30:38 GMT</pubDate>
+    </item>
     <item>
       <title>Dachsanierung: Warum die richtige Reihenfolge Tausende Euro ausmachen kann</title>
       <link>https://www.finanztip.de/daily/web/dachsanierung-warum-die-richtige-reihenfolge-tausende-euro-ausmachen-kann/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/etf-ans-kind-uebertragen-vorsicht-vor-dieser-steuer/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/etf-ans-kind-uebertragen-vorsicht-vor-dieser-steuer/</guid>
       <pubDate>Mon, 28 Sep 2026 16:01:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Payback, tanken, Vorsorge: Das ändert sich im Oktober 2026</title>
-      <link>https://www.finanztip.de/daily/payback-tanken-vorsorge-das-aendert-sich-im-oktober-2026/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/payback-tanken-vorsorge-das-aendert-sich-im-oktober-2026/</guid>
-      <pubDate>Mon, 28 Sep 2026 13:06:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
