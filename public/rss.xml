@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 23 Oct 2026 11:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:05:37 GMT</lastBuildDate>
+    <item>
+      <title>Dachsanierung: Warum die richtige Reihenfolge Tausende Euro ausmachen kann</title>
+      <link>https://www.finanztip.de/daily/web/dachsanierung-warum-die-richtige-reihenfolge-tausende-euro-ausmachen-kann/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/dachsanierung-warum-die-richtige-reihenfolge-tausende-euro-ausmachen-kann/</guid>
+      <pubDate>Fri, 23 Oct 2026 12:05:37 GMT</pubDate>
+    </item>
     <item>
       <title>Für Unterstützer: Wie Du beim AV-Depot später an Dein Geld kommst</title>
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-av-depot-wie-du-spaeter-an-dein-geld-kommst/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/payback-tanken-vorsorge-das-aendert-sich-im-oktober-2026/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/payback-tanken-vorsorge-das-aendert-sich-im-oktober-2026/</guid>
       <pubDate>Mon, 28 Sep 2026 13:06:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Erst Altersvorsorge, dann mehr? Was hinter der DVAG-Kampagne steckt</title>
-      <link>https://www.finanztip.de/daily/erst-altersvorsorge-dann-mehr-was-hinter-der-dvag-kampagne-steckt/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/erst-altersvorsorge-dann-mehr-was-hinter-der-dvag-kampagne-steckt/</guid>
-      <pubDate>Mon, 28 Sep 2026 04:01:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
