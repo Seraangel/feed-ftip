@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 23 Oct 2026 04:05:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:05:34 GMT</lastBuildDate>
+    <item>
+      <title>Für Unterstützer: Wie Du beim AV-Depot später an Dein Geld kommst</title>
+      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-av-depot-wie-du-spaeter-an-dein-geld-kommst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-av-depot-wie-du-spaeter-an-dein-geld-kommst/</guid>
+      <pubDate>Fri, 23 Oct 2026 07:05:34 GMT</pubDate>
+    </item>
     <item>
       <title>Advanzia bietet über 4 % beim Tagesgeld: Lohnt sich der Wechsel?</title>
       <link>https://www.finanztip.de/daily/web/tagesgeld-mit-418-zinsen-lohnt-sich-das-angebot-der-advanzia/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/erst-altersvorsorge-dann-mehr-was-hinter-der-dvag-kampagne-steckt/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/erst-altersvorsorge-dann-mehr-was-hinter-der-dvag-kampagne-steckt/</guid>
       <pubDate>Mon, 28 Sep 2026 04:01:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>AV-Depot: 300 € je Kind</title>
-      <link>https://www.finanztip.de/daily/av-depot-300-eur-je-kind/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-300-eur-je-kind/</guid>
-      <pubDate>Sun, 27 Sep 2026 16:06:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
