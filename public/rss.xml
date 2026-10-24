@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 23 Oct 2026 17:30:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 04:00:38 GMT</lastBuildDate>
+    <item>
+      <title>AV-Depot: So viel Förderung bekommst Du</title>
+      <link>https://www.finanztip.de/daily/web/av-depot-so-viel-foerderung-bekommst-du/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-so-viel-foerderung-bekommst-du/</guid>
+      <pubDate>Sat, 24 Oct 2026 04:00:38 GMT</pubDate>
+    </item>
     <item>
       <title>Für Unterstützer: Kapital für die Immobilie – So sparst Du richtig</title>
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-kapital-fuer-die-immobilie-so-sparst-du-richtig/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/dein-partner-hat-eine-eigentumswohnung-wer-zahlt-was/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/dein-partner-hat-eine-eigentumswohnung-wer-zahlt-was/</guid>
       <pubDate>Tue, 29 Sep 2026 08:01:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>ETF ans Kind übertragen: Vorsicht vor dieser Steuer</title>
-      <link>https://www.finanztip.de/daily/etf-ans-kind-uebertragen-vorsicht-vor-dieser-steuer/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/etf-ans-kind-uebertragen-vorsicht-vor-dieser-steuer/</guid>
-      <pubDate>Mon, 28 Sep 2026 16:01:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
