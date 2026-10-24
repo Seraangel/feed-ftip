@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 24 Oct 2026 09:05:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:05:36 GMT</lastBuildDate>
+    <item>
+      <title>Glasfaser-Angebot erhalten? Vergleiche diese Kosten</title>
+      <link>https://www.finanztip.de/daily/web/glasfaser-angebot-erhalten-vergleiche-diese-kosten/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/glasfaser-angebot-erhalten-vergleiche-diese-kosten/</guid>
+      <pubDate>Sat, 24 Oct 2026 12:05:36 GMT</pubDate>
+    </item>
     <item>
       <title>Altersvorsorgedepot: Rechne aus, was es Dir bringt</title>
       <link>https://www.finanztip.de/daily/web/av-depot-rechne-in-wenigen-minuten-aus-was-es-dir-bringt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/gmx-kombiniert-handytarife-und-cloud-speicher-taugt-das-was/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/gmx-kombiniert-handytarife-und-cloud-speicher-taugt-das-was/</guid>
       <pubDate>Thu, 01 Oct 2026 06:06:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tankrabatt beschlossen: So viel kannst Du ab Oktober sparen</title>
-      <link>https://www.finanztip.de/daily/tankrabatt-beschlossen-so-viel-kannst-du-ab-oktober-sparen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/tankrabatt-beschlossen-so-viel-kannst-du-ab-oktober-sparen/</guid>
-      <pubDate>Tue, 29 Sep 2026 10:06:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
