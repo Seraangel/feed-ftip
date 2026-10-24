@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 24 Oct 2026 04:00:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 09:05:33 GMT</lastBuildDate>
+    <item>
+      <title>Altersvorsorgedepot: Rechne aus, was es Dir bringt</title>
+      <link>https://www.finanztip.de/daily/web/av-depot-rechne-in-wenigen-minuten-aus-was-es-dir-bringt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-rechne-in-wenigen-minuten-aus-was-es-dir-bringt/</guid>
+      <pubDate>Sat, 24 Oct 2026 09:05:33 GMT</pubDate>
+    </item>
     <item>
       <title>AV-Depot: So viel Förderung bekommst Du</title>
       <link>https://www.finanztip.de/daily/web/av-depot-so-viel-foerderung-bekommst-du/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/tankrabatt-beschlossen-so-viel-kannst-du-ab-oktober-sparen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/tankrabatt-beschlossen-so-viel-kannst-du-ab-oktober-sparen/</guid>
       <pubDate>Tue, 29 Sep 2026 10:06:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dein Partner hat eine Eigentumswohnung: Wer zahlt was?</title>
-      <link>https://www.finanztip.de/daily/dein-partner-hat-eine-eigentumswohnung-wer-zahlt-was/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/dein-partner-hat-eine-eigentumswohnung-wer-zahlt-was/</guid>
-      <pubDate>Tue, 29 Sep 2026 08:01:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
