@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 24 Oct 2026 12:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 05:05:33 GMT</lastBuildDate>
+    <item>
+      <title>AV-Depot: Was passiert, wenn Du die Sparrate nicht mehr zahlen kannst?</title>
+      <link>https://www.finanztip.de/daily/web/av-depot-was-passiert-wenn-du-die-sparrate-nicht-mehr-zahlen-kannst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-was-passiert-wenn-du-die-sparrate-nicht-mehr-zahlen-kannst/</guid>
+      <pubDate>Sun, 25 Oct 2026 05:05:33 GMT</pubDate>
+    </item>
     <item>
       <title>Glasfaser-Angebot erhalten? Vergleiche diese Kosten</title>
       <link>https://www.finanztip.de/daily/web/glasfaser-angebot-erhalten-vergleiche-diese-kosten/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/altersvorsorge-depot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/altersvorsorge-depot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</guid>
       <pubDate>Thu, 01 Oct 2026 09:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>GMX kombiniert Handytarife und Cloud-Speicher: Taugt das was?</title>
-      <link>https://www.finanztip.de/daily/web/gmx-kombiniert-handytarife-und-cloud-speicher-taugt-das-was/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/gmx-kombiniert-handytarife-und-cloud-speicher-taugt-das-was/</guid>
-      <pubDate>Thu, 01 Oct 2026 06:06:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
