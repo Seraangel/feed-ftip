@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 25 Oct 2026 05:05:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:05:36 GMT</lastBuildDate>
+    <item>
+      <title>Einmalanlage oder Sparplan: Was ist besser?</title>
+      <link>https://www.finanztip.de/daily/web/einmalanlage-sparplan-was-ist-besser/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/einmalanlage-sparplan-was-ist-besser/</guid>
+      <pubDate>Sun, 25 Oct 2026 10:05:36 GMT</pubDate>
+    </item>
     <item>
       <title>AV-Depot: Was passiert, wenn Du die Sparrate nicht mehr zahlen kannst?</title>
       <link>https://www.finanztip.de/daily/web/av-depot-was-passiert-wenn-du-die-sparrate-nicht-mehr-zahlen-kannst/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/darauf-musst-du-kuenftig-bei-kinderkrankentagen-achten/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/darauf-musst-du-kuenftig-bei-kinderkrankentagen-achten/</guid>
       <pubDate>Thu, 01 Oct 2026 12:06:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Altersvorsorge-Depot: Warum es gerade für Frauen interessant sein kann</title>
-      <link>https://www.finanztip.de/daily/web/altersvorsorge-depot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/altersvorsorge-depot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</guid>
-      <pubDate>Thu, 01 Oct 2026 09:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
