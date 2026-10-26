@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 25 Oct 2026 13:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:05:36 GMT</lastBuildDate>
+    <item>
+      <title>Helvetia zieht AV-Depot-Brücke zurück: Warum Du kein Übergangsprodukt brauchst</title>
+      <link>https://www.finanztip.de/daily/web/vorsicht-vor-brueckenprodukten-nicht-ueberall-wo-av-depot-draufsteht-ist-auch-ein-av-depot-drin/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/vorsicht-vor-brueckenprodukten-nicht-ueberall-wo-av-depot-draufsteht-ist-auch-ein-av-depot-drin/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:05:36 GMT</pubDate>
+    </item>
     <item>
       <title>Wenn kostenlos nicht kostenlos ist: Welche Grenzen gibt es beim Bargeld abheben?</title>
       <link>https://www.finanztip.de/daily/web/wenn-kostenlos-nicht-kostenlos-ist-welche-grenzen-gibt-es-beim-bargeld-abheben/</link>
@@ -599,12 +605,6 @@
       <title>Pflegebeitrag 2027: Warum Eltern ihre Gehaltsabrechnung prüfen sollten</title>
       <link>https://www.finanztip.de/daily/web/pflegebeitrag-2027-warum-eltern-ihre-gehaltsabrechnung-pruefen-sollten/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/pflegebeitrag-2027-warum-eltern-ihre-gehaltsabrechnung-pruefen-sollten/</guid>
-      <pubDate>Thu, 01 Oct 2026 12:36:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wärmepumpe geplant? Diese Fragen sollte Dein Anbieter beantworten können</title>
-      <link>https://www.finanztip.de/daily/web/waermepumpe-geplant-diese-fragen-sollte-dein-anbieter-beantworten-koennen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/waermepumpe-geplant-diese-fragen-sollte-dein-anbieter-beantworten-koennen/</guid>
       <pubDate>Thu, 01 Oct 2026 12:36:22 GMT</pubDate>
     </item>
   </channel>
