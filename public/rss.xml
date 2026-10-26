@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 26 Oct 2026 10:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:05:41 GMT</lastBuildDate>
+    <item>
+      <title>ING geht mit zwei AV-Depots an den Start: Wo es punktet – und wo nicht</title>
+      <link>https://www.finanztip.de/daily/web/ing-geht-mit-zwei-av-depots-an-den-start-wo-es-punktet-und-wo-eher-nicht/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ing-geht-mit-zwei-av-depots-an-den-start-wo-es-punktet-und-wo-eher-nicht/</guid>
+      <pubDate>Mon, 26 Oct 2026 13:05:41 GMT</pubDate>
+    </item>
     <item>
       <title>Helvetia zieht AV-Depot-Brücke zurück: Warum Du kein Übergangsprodukt brauchst</title>
       <link>https://www.finanztip.de/daily/web/vorsicht-vor-brueckenprodukten-nicht-ueberall-wo-av-depot-draufsteht-ist-auch-ein-av-depot-drin/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/ist-das-der-beste-welt-etf/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/ist-das-der-beste-welt-etf/</guid>
       <pubDate>Fri, 02 Oct 2026 04:06:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pflegebeitrag 2027: Warum Eltern ihre Gehaltsabrechnung prüfen sollten</title>
-      <link>https://www.finanztip.de/daily/web/pflegebeitrag-2027-warum-eltern-ihre-gehaltsabrechnung-pruefen-sollten/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/pflegebeitrag-2027-warum-eltern-ihre-gehaltsabrechnung-pruefen-sollten/</guid>
-      <pubDate>Thu, 01 Oct 2026 12:36:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
