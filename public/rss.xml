@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 27 Oct 2026 13:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:35:37 GMT</lastBuildDate>
+    <item>
+      <title>AV-Depot oder normales ETF-Depot: Was passt zu Dir?</title>
+      <link>https://www.finanztip.de/daily/av-depot-oder-normales-etf-depot-was-passt-zu-dir/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-oder-normales-etf-depot-was-passt-zu-dir/</guid>
+      <pubDate>Tue, 27 Oct 2026 15:35:37 GMT</pubDate>
+    </item>
     <item>
       <title>Heizöl kaufen: Warum sich ein Händlervergleich auch bei Zeitdruck lohnt</title>
       <link>https://www.finanztip.de/daily/web/heizoel-warum-sich-der-haendlervergleich-selbst-bei-zeitdruck-lohnt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/altersvorsorgedepot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/altersvorsorgedepot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</guid>
       <pubDate>Fri, 02 Oct 2026 13:56:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bis zu 300 Prozent Preisunterschied: So vergleichst Du Wärmepumpen-Angebote</title>
-      <link>https://www.finanztip.de/daily/web/bis-zu-300-prozent-preisunterschied-so-vergleichst-du-waermepumpen-angebote/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/bis-zu-300-prozent-preisunterschied-so-vergleichst-du-waermepumpen-angebote/</guid>
-      <pubDate>Fri, 02 Oct 2026 13:46:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
