@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 26 Oct 2026 15:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:05:35 GMT</lastBuildDate>
+    <item>
+      <title>Altersvorsorgedepot: Ist es wichtig, ob Du monatlich oder jährlich einzahlst?</title>
+      <link>https://www.finanztip.de/daily/web/av-depot-ist-es-wichtig-wann-genau-du-einzahlst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-ist-es-wichtig-wann-genau-du-einzahlst/</guid>
+      <pubDate>Tue, 27 Oct 2026 05:05:35 GMT</pubDate>
+    </item>
     <item>
       <title>Gaspreise: Grundversorgung plötzlich 400 Euro günstiger – lohnt sich der Wechsel?</title>
       <link>https://www.finanztip.de/daily/web/gaspreise-grundversorgung-ploetzlich-400-euro-guenstiger-lohnt-sich-der-wechsel/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/altersvorsorgedepot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/altersvorsorgedepot-warum-es-gerade-fuer-frauen-interessant-sein-kann/</guid>
       <pubDate>Fri, 02 Oct 2026 12:06:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lohnt sich gerade … die Grundsteuer per Gutachten zu senken?</title>
-      <link>https://www.finanztip.de/daily/lohnt-sich-gerade-die-grundsteuer-per-gutachten-zu-senken/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-gerade-die-grundsteuer-per-gutachten-zu-senken/</guid>
-      <pubDate>Fri, 02 Oct 2026 08:06:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
