@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 28 Oct 2026 08:35:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:05:34 GMT</lastBuildDate>
+    <item>
+      <title>Warum die Erwerbsminderungsrente oft nicht reicht</title>
+      <link>https://www.finanztip.de/daily/web/warum-die-erwerbsminderungsrente-oft-nicht-reicht/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/warum-die-erwerbsminderungsrente-oft-nicht-reicht/</guid>
+      <pubDate>Wed, 28 Oct 2026 10:05:34 GMT</pubDate>
+    </item>
     <item>
       <title>“Ich bin 62 Jahre alt: Lohnt sich noch das Altersvorsorgedepot?”</title>
       <link>https://www.finanztip.de/daily/web/ich-bin-62-jahre-lohnt-sich-noch-das-altersvorsorgedepot/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/finanztip-woman-deshalb-brauchen-finanzen-fuer-frauen-eine-eigene-perspektive/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/finanztip-woman-deshalb-brauchen-finanzen-fuer-frauen-eine-eigene-perspektive/</guid>
       <pubDate>Wed, 07 Oct 2026 08:01:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pflegereform: Musst Du 2027 mehr in die Pflegekasse einzahlen?</title>
-      <link>https://www.finanztip.de/daily/web/pflegereform-musst-du-2027-mehr-in-die-pflegekasse-einzahlen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/pflegereform-musst-du-2027-mehr-in-die-pflegekasse-einzahlen/</guid>
-      <pubDate>Tue, 06 Oct 2026 14:02:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
