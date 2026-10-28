@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 28 Oct 2026 05:05:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 06:35:35 GMT</lastBuildDate>
+    <item>
+      <title>Advanzia: Tagesgeld-Aktion mit über 4 % Zinsen läuft nur noch wenige Tage</title>
+      <link>https://www.finanztip.de/daily/web/advanzia-tagesgeld-aktion-mit-ueber-vier-prozent-zinsen-endet-am-31-oktober/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/advanzia-tagesgeld-aktion-mit-ueber-vier-prozent-zinsen-endet-am-31-oktober/</guid>
+      <pubDate>Wed, 28 Oct 2026 06:35:35 GMT</pubDate>
+    </item>
     <item>
       <title>Altersvorsorge ab 50: Mit „Finanzen ab 50“ den Ruhestand planen</title>
       <link>https://www.finanztip.de/daily/web/altersvorsorge-ab-50-mit-finanzen-ab-50-den-ruhestand-planen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/dein-no-drama-konto-so-baust-du-deinen-notgroschen-auf/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/dein-no-drama-konto-so-baust-du-deinen-notgroschen-auf/</guid>
       <pubDate>Sun, 04 Oct 2026 04:06:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aus der Finanztip Woman Community: Lohnt sich die Frühstart-Rente?</title>
-      <link>https://www.finanztip.de/daily/frage-aus-unserer-community-lohnt-sich-die-fruehstart-rente/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/frage-aus-unserer-community-lohnt-sich-die-fruehstart-rente/</guid>
-      <pubDate>Sat, 03 Oct 2026 12:01:40 GMT</pubDate>
     </item>
   </channel>
 </rss>
