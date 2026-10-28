@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 28 Oct 2026 10:05:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:35:34 GMT</lastBuildDate>
+    <item>
+      <title>PKV-Zuschuss 2027: Was für Dich und Deine Familie drin ist</title>
+      <link>https://www.finanztip.de/daily/web/pkv-zuschuss-2027-was-fuer-dich-und-deine-familie-drin-ist/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/pkv-zuschuss-2027-was-fuer-dich-und-deine-familie-drin-ist/</guid>
+      <pubDate>Wed, 28 Oct 2026 12:35:34 GMT</pubDate>
+    </item>
     <item>
       <title>Warum die Erwerbsminderungsrente oft nicht reicht</title>
       <link>https://www.finanztip.de/daily/web/warum-die-erwerbsminderungsrente-oft-nicht-reicht/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/finanztip-woman-deshalb-brauchen-finanzen-fuer-frauen-eine-eigene-perspektive/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/finanztip-woman-deshalb-brauchen-finanzen-fuer-frauen-eine-eigene-perspektive/</guid>
       <pubDate>Wed, 07 Oct 2026 10:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Finanztip Woman: Deshalb brauchen Finanzen für Frauen eine eigene Perspektive</title>
-      <link>https://www.finanztip.de/daily/web/finanztip-woman-deshalb-brauchen-finanzen-fuer-frauen-eine-eigene-perspektive/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/finanztip-woman-deshalb-brauchen-finanzen-fuer-frauen-eine-eigene-perspektive/</guid>
-      <pubDate>Wed, 07 Oct 2026 08:01:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
