@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 28 Oct 2026 06:45:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 07:05:34 GMT</lastBuildDate>
+    <item>
+      <title>Sanierungsfahrplan: Warum er sich trotz weniger Bonus lohnen kann</title>
+      <link>https://www.finanztip.de/daily/web/sanierungsfahrplan-warum-er-sich-trotz-weniger-bonus-lohnen-kann/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/sanierungsfahrplan-warum-er-sich-trotz-weniger-bonus-lohnen-kann/</guid>
+      <pubDate>Wed, 28 Oct 2026 07:05:34 GMT</pubDate>
+    </item>
     <item>
       <title>Advanzia: Tagesgeld-Aktion mit über 4 % Zinsen endet in drei Tagen</title>
       <link>https://www.finanztip.de/daily/web/advanzia-tagesgeld-aktion-mit-ueber-vier-prozent-zinsen-endet-am-31-oktober/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/equal-pay-so-pruefst-du-ob-du-fair-bezahlt-wirst/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/equal-pay-so-pruefst-du-ob-du-fair-bezahlt-wirst/</guid>
       <pubDate>Mon, 05 Oct 2026 04:05:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dein No-Drama-Konto: So baust Du Deinen Notgroschen auf</title>
-      <link>https://www.finanztip.de/daily/dein-no-drama-konto-so-baust-du-deinen-notgroschen-auf/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/dein-no-drama-konto-so-baust-du-deinen-notgroschen-auf/</guid>
-      <pubDate>Sun, 04 Oct 2026 04:06:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
