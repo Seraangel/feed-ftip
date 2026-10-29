@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:30:45 GMT</lastBuildDate>
+    <item>
+      <title>Kein Strom mehr von Grüüün &amp; Stromee ab 1.11.? Was Betroffene tun können</title>
+      <link>https://www.finanztip.de/daily/web/kein-strom-mehr-von-grueueuen-und-stromee-ab-1-november-was-betroffene-jetzt-tun-koennen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/kein-strom-mehr-von-grueueuen-und-stromee-ab-1-november-was-betroffene-jetzt-tun-koennen/</guid>
+      <pubDate>Thu, 29 Oct 2026 15:30:45 GMT</pubDate>
+    </item>
     <item>
       <title>ETF-Einstieg: Wann eine Einmalanlage sinnvoller ist als ein Sparplan</title>
       <link>https://www.finanztip.de/daily/web/einmalanlage-oder-sparplan-was-ist-besser/</link>
@@ -599,12 +605,6 @@
       <title>Entlastungsbetrag 2026: Restbudget besser noch nutzen</title>
       <link>https://www.finanztip.de/daily/web/entlastungsbetrag-2026-restbudget-besser-noch-nutzen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/entlastungsbetrag-2026-restbudget-besser-noch-nutzen/</guid>
-      <pubDate>Thu, 08 Oct 2026 06:06:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telekom startet Reise-eSIM: Günstig oder teuer?</title>
-      <link>https://www.finanztip.de/daily/web/telekom-startet-reise-esim-guenstig-oder-teuer/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/telekom-startet-reise-esim-guenstig-oder-teuer/</guid>
       <pubDate>Thu, 08 Oct 2026 06:06:12 GMT</pubDate>
     </item>
   </channel>
