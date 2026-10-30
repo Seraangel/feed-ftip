@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 30 Oct 2026 09:20:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:15:42 GMT</lastBuildDate>
+    <item>
+      <title>Schockwelle bei Immobilienfonds: Trenn Dich davon</title>
+      <link>https://www.finanztip.de/daily/schockwelle-bei-immobilienfonds-trenn-dich-jetzt-davon/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/schockwelle-bei-immobilienfonds-trenn-dich-jetzt-davon/</guid>
+      <pubDate>Fri, 30 Oct 2026 10:15:42 GMT</pubDate>
+    </item>
     <item>
       <title>Advanzia verlängert Tagesgeld-Aktion: 4,18 Prozent noch bis Ende November</title>
       <link>https://www.finanztip.de/daily/web/advanzia-verlaengert-tagesgeld-aktion-418-prozent-noch-bis-ende-november/</link>
@@ -599,12 +605,6 @@
       <title>Diese 5 Karriere-Bremser solltest Du vermeiden</title>
       <link>https://www.finanztip.de/daily/diese-5-karriere-bremser-solltest-du-vermeiden-1/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/diese-5-karriere-bremser-solltest-du-vermeiden-1/</guid>
-      <pubDate>Thu, 08 Oct 2026 15:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krankenkassen: Kommt die Info bei höheren Beiträgen doch zurück?</title>
-      <link>https://www.finanztip.de/daily/krankenkassen-kommt-die-info-bei-hoeheren-beitraegen-doch-zurueck/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/krankenkassen-kommt-die-info-bei-hoeheren-beitraegen-doch-zurueck/</guid>
       <pubDate>Thu, 08 Oct 2026 15:36:23 GMT</pubDate>
     </item>
   </channel>
