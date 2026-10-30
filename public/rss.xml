@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:30:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:05:41 GMT</lastBuildDate>
+    <item>
+      <title>Gleiche Heizölmenge, bis zu 1.151 € Preisunterschied: Vergleiche die Händler</title>
+      <link>https://www.finanztip.de/daily/web/gleiche-heizoelmenge-bis-zu-1151-eur-preisunterschied-vergleiche-die-haendler/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/gleiche-heizoelmenge-bis-zu-1151-eur-preisunterschied-vergleiche-die-haendler/</guid>
+      <pubDate>Fri, 30 Oct 2026 05:05:41 GMT</pubDate>
+    </item>
     <item>
       <title>Kein Strom mehr von Grüüün &amp; Stromee ab 1.11.? Was Betroffene tun können</title>
       <link>https://www.finanztip.de/daily/web/kein-strom-mehr-von-grueueuen-und-stromee-ab-1-november-was-betroffene-jetzt-tun-koennen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/lohnt-sich-gerade-ein-laengerfristiger-gasvertrag/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-gerade-ein-laengerfristiger-gasvertrag/</guid>
       <pubDate>Thu, 08 Oct 2026 10:06:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Entlastungsbetrag 2026: Restbudget besser noch nutzen</title>
-      <link>https://www.finanztip.de/daily/web/entlastungsbetrag-2026-restbudget-besser-noch-nutzen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/entlastungsbetrag-2026-restbudget-besser-noch-nutzen/</guid>
-      <pubDate>Thu, 08 Oct 2026 06:06:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
