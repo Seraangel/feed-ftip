@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 30 Oct 2026 13:05:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 22:00:43 GMT</lastBuildDate>
+    <item>
+      <title>AV-Depot: Ist es wichtig, wann Du einzahlst?</title>
+      <link>https://www.finanztip.de/daily/av-depot-ist-es-wichtig-wann-du-einzahlst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-ist-es-wichtig-wann-du-einzahlst/</guid>
+      <pubDate>Fri, 30 Oct 2026 22:00:43 GMT</pubDate>
+    </item>
     <item>
       <title>Nebenkosten prüfen: Was kann der KI-Check?</title>
       <link>https://www.finanztip.de/daily/web/nebenkosten-pruefen-was-kann-der-ki-check/</link>
@@ -599,12 +605,6 @@
       <title>Bestätigt: Amazon-Preiserhöhung unwirksam</title>
       <link>https://www.finanztip.de/daily/bestaetigt-amazon-preiserhoehung-unwirksam-jetzt-sammelklage-anschliessen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/bestaetigt-amazon-preiserhoehung-unwirksam-jetzt-sammelklage-anschliessen/</guid>
-      <pubDate>Thu, 08 Oct 2026 15:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>DB-Ticket jetzt dauerhaft: Wann sparst Du damit wirklich?</title>
-      <link>https://www.finanztip.de/daily/db-ticket-jetzt-dauerhaft-wann-sparst-du-damit-wirklich/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/db-ticket-jetzt-dauerhaft-wann-sparst-du-damit-wirklich/</guid>
       <pubDate>Thu, 08 Oct 2026 15:36:23 GMT</pubDate>
     </item>
   </channel>
