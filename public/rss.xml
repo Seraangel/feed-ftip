@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 31 Oct 2026 06:05:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 13:05:37 GMT</lastBuildDate>
+    <item>
+      <title>Neue Wärmepumpe? Ab diesem Verbrauch lohnt sich ein zweiter Stromzähler</title>
+      <link>https://www.finanztip.de/daily/web/neue-waermepumpe-ab-diesem-verbrauch-lohnt-sich-ein-zweiter-stromzaehler/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/neue-waermepumpe-ab-diesem-verbrauch-lohnt-sich-ein-zweiter-stromzaehler/</guid>
+      <pubDate>Sat, 31 Oct 2026 13:05:37 GMT</pubDate>
+    </item>
     <item>
       <title>Altersvorsorgedepot für 0 €: Was haben die Anbieter davon?</title>
       <link>https://www.finanztip.de/daily/web/altersvorsorgedepot-fuer-0-euro-was-haben-die-anbieter-davon/</link>
@@ -599,12 +605,6 @@
       <title>4 % Zinsen aufs Tagesgeld: Wer ist eigentlich Openbank?</title>
       <link>https://www.finanztip.de/daily/4-zinsen-aufs-tagesgeld-wer-ist-eigentlich-openbank/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/4-zinsen-aufs-tagesgeld-wer-ist-eigentlich-openbank/</guid>
-      <pubDate>Thu, 08 Oct 2026 15:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>50 Jahre alt: Wie viel Vermögen solltest Du da haben?</title>
-      <link>https://www.finanztip.de/daily/50-jahre-alt-wie-viel-vermoegen-solltest-du-da-haben/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/50-jahre-alt-wie-viel-vermoegen-solltest-du-da-haben/</guid>
       <pubDate>Thu, 08 Oct 2026 15:36:23 GMT</pubDate>
     </item>
   </channel>
