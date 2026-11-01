@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 31 Oct 2026 13:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 06:05:37 GMT</lastBuildDate>
+    <item>
+      <title>Heizöl kaufen: Zeitdruck kann teuer werden</title>
+      <link>https://www.finanztip.de/daily/web/heizoel-kaufen-zeitdruck-kann-teuer-werden/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/heizoel-kaufen-zeitdruck-kann-teuer-werden/</guid>
+      <pubDate>Sun, 01 Nov 2026 06:05:37 GMT</pubDate>
+    </item>
     <item>
       <title>Neue Wärmepumpe? Ab diesem Verbrauch lohnt sich ein zweiter Stromzähler</title>
       <link>https://www.finanztip.de/daily/web/neue-waermepumpe-ab-diesem-verbrauch-lohnt-sich-ein-zweiter-stromzaehler/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/msci-world-verkaufen-so-viel-kostet-dich-dieser-fehler/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/msci-world-verkaufen-so-viel-kostet-dich-dieser-fehler/</guid>
       <pubDate>Thu, 08 Oct 2026 16:06:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>4 % Zinsen aufs Tagesgeld: Wer ist eigentlich Openbank?</title>
-      <link>https://www.finanztip.de/daily/4-zinsen-aufs-tagesgeld-wer-ist-eigentlich-openbank/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/4-zinsen-aufs-tagesgeld-wer-ist-eigentlich-openbank/</guid>
-      <pubDate>Thu, 08 Oct 2026 15:36:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
