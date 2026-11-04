@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 04 Nov 2026 06:05:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:10:41 GMT</lastBuildDate>
+    <item>
+      <title>Grüüün hat Deinen Stromvertrag einfach beendet? Wie Du jetzt richtig reagierst</title>
+      <link>https://www.finanztip.de/daily/web/grueueuen-hat-deinen-stromvertrag-einfach-beendet-wie-du-jetzt-richtig-reagierst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/grueueuen-hat-deinen-stromvertrag-einfach-beendet-wie-du-jetzt-richtig-reagierst/</guid>
+      <pubDate>Wed, 04 Nov 2026 10:10:41 GMT</pubDate>
+    </item>
     <item>
       <title>AV-Depot für Eltern: So hilft die Kinderzulage bei der Altersvorsorge</title>
       <link>https://www.finanztip.de/daily/web/av-depot-fuer-eltern-so-hilft-die-kinderzulage-bei-der-altersvorsorge/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/gaspreise-steigen-dieser-winter-wird-teuer-die-naechsten-winter-wahrscheinlich-auch/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/gaspreise-steigen-dieser-winter-wird-teuer-die-naechsten-winter-wahrscheinlich-auch/</guid>
       <pubDate>Tue, 13 Oct 2026 04:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neu bei Airbnb: Geld zurück bei Regen?</title>
-      <link>https://www.finanztip.de/daily/neu-bei-airbnb-geld-zurueck-bei-regen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/neu-bei-airbnb-geld-zurueck-bei-regen/</guid>
-      <pubDate>Mon, 12 Oct 2026 15:16:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
