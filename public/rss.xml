@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 03 Nov 2026 16:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 05:05:43 GMT</lastBuildDate>
+    <item>
+      <title>Überraschendes Urteil: Wann Du den vollen Flugpreis zurückbekommst</title>
+      <link>https://www.finanztip.de/daily/web/ueberraschendes-urteil-wann-du-den-vollen-flugpreis-zurueckbekommst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ueberraschendes-urteil-wann-du-den-vollen-flugpreis-zurueckbekommst/</guid>
+      <pubDate>Wed, 04 Nov 2026 05:05:43 GMT</pubDate>
+    </item>
     <item>
       <title>Visa oder Mastercard? Warum Deine Kreditkarte im Ausland nicht immer funktioniert</title>
       <link>https://www.finanztip.de/daily/web/visa-oder-mastercard-warum-deine-kreditkarte-im-ausland-nicht-immer-funktioniert/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/beliebte-stromanbieter-wollen-alle-vertraege-kuendigen-was-du-tun-kannst/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/beliebte-stromanbieter-wollen-alle-vertraege-kuendigen-was-du-tun-kannst/</guid>
       <pubDate>Fri, 09 Oct 2026 15:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Unterstützer: Wie Du mit dem PKV-Wechsel Deinen Beitrag senkst</title>
-      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-wie-du-mit-dem-pkv-wechsel-deinen-beitrag-senkst/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-wie-du-mit-dem-pkv-wechsel-deinen-beitrag-senkst/</guid>
-      <pubDate>Fri, 09 Oct 2026 07:51:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
