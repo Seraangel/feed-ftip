@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 05 Nov 2026 13:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:35:45 GMT</lastBuildDate>
+    <item>
+      <title>Ab Januar digital ausweisen: So funktioniert die neue D-You-App</title>
+      <link>https://www.finanztip.de/daily/web/ab-januar-digital-ausweisen-so-funktioniert-die-neue-d-you-app/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ab-januar-digital-ausweisen-so-funktioniert-die-neue-d-you-app/</guid>
+      <pubDate>Thu, 05 Nov 2026 14:35:45 GMT</pubDate>
+    </item>
     <item>
       <title>Falsche Diagnose in der Akte – und plötzlich steht Deine Versicherung auf dem Spiel</title>
       <link>https://www.finanztip.de/daily/web/falsche-diagnose-in-der-akte-und-ploetzlich-steht-deine-versicherung-auf-dem-spiel/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/bargeld-einzahlen-so-vermeidest-du-probleme-1/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/bargeld-einzahlen-so-vermeidest-du-probleme-1/</guid>
       <pubDate>Tue, 13 Oct 2026 09:46:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trade Republic zeigt sein AV-Depot: Das beste Angebot auf dem Markt?</title>
-      <link>https://www.finanztip.de/daily/web/trade-republic-zeigt-sein-av-depot-ist-es-das-beste-angebot-auf-dem-markt/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/trade-republic-zeigt-sein-av-depot-ist-es-das-beste-angebot-auf-dem-markt/</guid>
-      <pubDate>Tue, 13 Oct 2026 07:41:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
