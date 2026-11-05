@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:35:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:05:44 GMT</lastBuildDate>
+    <item>
+      <title>Rente mit 63: Dieser Brief hilft Dir beim Kassensturz</title>
+      <link>https://www.finanztip.de/daily/rente-mit-63-dieser-brief-hilft-dir-beim-kassensturz/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/rente-mit-63-dieser-brief-hilft-dir-beim-kassensturz/</guid>
+      <pubDate>Thu, 05 Nov 2026 17:05:44 GMT</pubDate>
+    </item>
     <item>
       <title>Ab Januar digital ausweisen: So funktioniert die neue D-You-App</title>
       <link>https://www.finanztip.de/daily/web/ab-januar-digital-ausweisen-so-funktioniert-die-neue-d-you-app/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/unwetter-gefaehrden-immer-mehr-haeuser-so-pruefst-du-ob-du-richtig-versichert-bist/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/unwetter-gefaehrden-immer-mehr-haeuser-so-pruefst-du-ob-du-richtig-versichert-bist/</guid>
       <pubDate>Tue, 13 Oct 2026 12:34:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bargeld einzahlen: So vermeidest Du Probleme</title>
-      <link>https://www.finanztip.de/daily/bargeld-einzahlen-so-vermeidest-du-probleme-1/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/bargeld-einzahlen-so-vermeidest-du-probleme-1/</guid>
-      <pubDate>Tue, 13 Oct 2026 09:46:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
