@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 05 Nov 2026 17:05:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 19:35:43 GMT</lastBuildDate>
+    <item>
+      <title>Welt-Indizes im Minus: Rücksetzer für MSCI ACWI, World &amp; Co.</title>
+      <link>https://www.finanztip.de/daily/welt-indizes-im-minus-ruecksetzer-fuer-msci-acwi-world-co/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/welt-indizes-im-minus-ruecksetzer-fuer-msci-acwi-world-co/</guid>
+      <pubDate>Thu, 05 Nov 2026 19:35:43 GMT</pubDate>
+    </item>
     <item>
       <title>Rente mit 63: Dieser Brief hilft Dir beim Kassensturz</title>
       <link>https://www.finanztip.de/daily/rente-mit-63-dieser-brief-hilft-dir-beim-kassensturz/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/worauf-es-bei-der-auswahl-deines-av-depots-ankommt/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/worauf-es-bei-der-auswahl-deines-av-depots-ankommt/</guid>
       <pubDate>Tue, 13 Oct 2026 15:46:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unwetter gefährden immer mehr Häuser: So prüfst Du, ob Du richtig versichert bist</title>
-      <link>https://www.finanztip.de/daily/web/unwetter-gefaehrden-immer-mehr-haeuser-so-pruefst-du-ob-du-richtig-versichert-bist/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/unwetter-gefaehrden-immer-mehr-haeuser-so-pruefst-du-ob-du-richtig-versichert-bist/</guid>
-      <pubDate>Tue, 13 Oct 2026 12:34:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
