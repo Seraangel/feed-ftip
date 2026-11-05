@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 05 Nov 2026 01:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 06:05:40 GMT</lastBuildDate>
+    <item>
+      <title>ETFs, Aktien oder Krypto: Was ist im AV-Depot erlaubt?</title>
+      <link>https://www.finanztip.de/daily/web/etfs-aktien-oder-krypto-was-ist-im-av-depot-erlaubt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/etfs-aktien-oder-krypto-was-ist-im-av-depot-erlaubt/</guid>
+      <pubDate>Thu, 05 Nov 2026 06:05:40 GMT</pubDate>
+    </item>
     <item>
       <title>80% Preiserhöhung trotz Preisgarantie: Was Du gegen den Stromanbieter PLAN-B NET ZERO tun kannst</title>
       <link>https://www.finanztip.de/daily/web/80-preiserhoehung-trotz-preisgarantie-was-du-gegen-den-stromanbieter-plan-b-net-zero-tun-kannst/</link>
@@ -599,12 +605,6 @@
       <title>Endlich anfangen: Vier kostenlose Academy-Kurse für Frauen</title>
       <link>https://www.finanztip.de/daily/web/endlich-anfangen-vier-kostenlose-academy-kurse-fuer-frauen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/endlich-anfangen-vier-kostenlose-academy-kurse-fuer-frauen/</guid>
-      <pubDate>Tue, 13 Oct 2026 07:26:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Finanztip-Studie: Jede vierte Frau hat weniger als 50 € zum Sparen</title>
-      <link>https://www.finanztip.de/daily/web/finanztip-studie-jede-vierte-frau-hat-weniger-als-50-eur-zum-sparen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/finanztip-studie-jede-vierte-frau-hat-weniger-als-50-eur-zum-sparen/</guid>
       <pubDate>Tue, 13 Oct 2026 07:26:02 GMT</pubDate>
     </item>
   </channel>
