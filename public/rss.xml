@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 06 Nov 2026 05:05:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 08:55:41 GMT</lastBuildDate>
+    <item>
+      <title>Girokonto-Vergleich 2027: Neue Finanztip-Empfehlungen</title>
+      <link>https://www.finanztip.de/daily/girokonto-vergleich-2027-neue-finanztip-empfehlungen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/girokonto-vergleich-2027-neue-finanztip-empfehlungen/</guid>
+      <pubDate>Fri, 06 Nov 2026 08:55:41 GMT</pubDate>
+    </item>
     <item>
       <title>Jetzt noch Riester? Für diese Familien kann sich ein Abschluss lohnen</title>
       <link>https://www.finanztip.de/daily/web/jetzt-noch-riester-fuer-diese-familien-kann-sich-ein-abschluss-lohnen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/etf-statt-bu-warum-das-gefaehrlich-sein-kann/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/etf-statt-bu-warum-das-gefaehrlich-sein-kann/</guid>
       <pubDate>Wed, 14 Oct 2026 07:15:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>AV-Depot kostenlos? Warum das allein nicht reicht</title>
-      <link>https://www.finanztip.de/daily/web/av-depot-kostenlos-warum-das-allein-nicht-reicht/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-kostenlos-warum-das-allein-nicht-reicht/</guid>
-      <pubDate>Wed, 14 Oct 2026 04:35:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
