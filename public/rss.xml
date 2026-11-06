@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 05 Nov 2026 19:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:05:49 GMT</lastBuildDate>
+    <item>
+      <title>Jetzt noch Riester? Für diese Familien kann sich ein Abschluss lohnen</title>
+      <link>https://www.finanztip.de/daily/web/jetzt-noch-riester-fuer-diese-familien-kann-sich-ein-abschluss-lohnen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/jetzt-noch-riester-fuer-diese-familien-kann-sich-ein-abschluss-lohnen/</guid>
+      <pubDate>Fri, 06 Nov 2026 05:05:49 GMT</pubDate>
+    </item>
     <item>
       <title>Welt-Indizes im Minus: Rücksetzer für MSCI ACWI, World &amp; Co.</title>
       <link>https://www.finanztip.de/daily/welt-indizes-im-minus-ruecksetzer-fuer-msci-acwi-world-co/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/av-depot-kostenlos-warum-das-allein-nicht-reicht/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-kostenlos-warum-das-allein-nicht-reicht/</guid>
       <pubDate>Wed, 14 Oct 2026 04:35:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Worauf es bei der Auswahl Deines AV-Depots ankommt</title>
-      <link>https://www.finanztip.de/daily/worauf-es-bei-der-auswahl-deines-av-depots-ankommt/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/worauf-es-bei-der-auswahl-deines-av-depots-ankommt/</guid>
-      <pubDate>Tue, 13 Oct 2026 15:46:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
