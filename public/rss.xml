@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 06 Nov 2026 15:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 06:05:46 GMT</lastBuildDate>
+    <item>
+      <title>AV-Depot: Wer zahlt Deinen Sparplan, wenn Du nicht mehr arbeiten kannst?</title>
+      <link>https://www.finanztip.de/daily/web/av-depot-wer-zahlt-deinen-sparplan-wenn-du-nicht-mehr-arbeiten-kannst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-wer-zahlt-deinen-sparplan-wenn-du-nicht-mehr-arbeiten-kannst/</guid>
+      <pubDate>Sat, 07 Nov 2026 06:05:46 GMT</pubDate>
+    </item>
     <item>
       <title>Für Unterstützer: Welche Feinheiten im AV-Depot teuer werden können</title>
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-welche-feinheiten-im-av-depot-teuer-werden-koennen/</link>
@@ -599,12 +605,6 @@
       <title>Neuen Handytarif sichern: Kleine Schraube, große Wirkung</title>
       <link>https://www.finanztip.de/daily/web/neuen-handytarif-sichern-kleine-schraube-grosse-wirkung/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/neuen-handytarif-sichern-kleine-schraube-grosse-wirkung/</guid>
-      <pubDate>Wed, 14 Oct 2026 08:05:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Später zahlen, später bereuen? Wenn Rechnungen Deinen Spielraum verkleinern</title>
-      <link>https://www.finanztip.de/daily/web/spaeter-zahlen-spaeter-bereuen-wenn-rechnungen-deinen-spielraum-verkleinern/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/spaeter-zahlen-spaeter-bereuen-wenn-rechnungen-deinen-spielraum-verkleinern/</guid>
       <pubDate>Wed, 14 Oct 2026 08:05:51 GMT</pubDate>
     </item>
   </channel>
