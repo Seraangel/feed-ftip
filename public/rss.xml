@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 08 Nov 2026 06:05:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:05:12 GMT</lastBuildDate>
+    <item>
+      <title>Wohngebäudeversicherung wird teurer: So sparst Du trotzdem</title>
+      <link>https://www.finanztip.de/daily/web/wohngebaeudeversicherung-wird-teurer/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/wohngebaeudeversicherung-wird-teurer/</guid>
+      <pubDate>Sun, 08 Nov 2026 13:05:12 GMT</pubDate>
+    </item>
     <item>
       <title>AV-Depot: Wie kommst Du später an Dein Geld?</title>
       <link>https://www.finanztip.de/daily/web/av-depot-wie-kommst-du-spaeter-an-dein-geld/</link>
@@ -599,12 +605,6 @@
       <title>Finanztip Woman Community-Frage: “Wird mein Riester-Vertrag jetzt abgeschafft?”</title>
       <link>https://www.finanztip.de/daily/web/finanztip-woman-community-frage-wird-mein-riester-vertrag-jetzt-abgeschafft/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/finanztip-woman-community-frage-wird-mein-riester-vertrag-jetzt-abgeschafft/</guid>
-      <pubDate>Wed, 14 Oct 2026 08:05:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kostenlose Academy-Kurse: Dein Start in Deine Finanzen</title>
-      <link>https://www.finanztip.de/daily/web/kostenlose-academy-kurse-dein-start-in-deine-finanzen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/kostenlose-academy-kurse-dein-start-in-deine-finanzen/</guid>
       <pubDate>Wed, 14 Oct 2026 08:05:51 GMT</pubDate>
     </item>
   </channel>
