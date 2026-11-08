@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 07 Nov 2026 06:05:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:05:14 GMT</lastBuildDate>
+    <item>
+      <title>AV-Depot: Wie kommst Du später an Dein Geld?</title>
+      <link>https://www.finanztip.de/daily/web/av-depot-wie-kommst-du-spaeter-an-dein-geld/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-wie-kommst-du-spaeter-an-dein-geld/</guid>
+      <pubDate>Sun, 08 Nov 2026 06:05:14 GMT</pubDate>
+    </item>
     <item>
       <title>AV-Depot: Wer zahlt Deinen Sparplan, wenn Du nicht mehr arbeiten kannst?</title>
       <link>https://www.finanztip.de/daily/web/av-depot-wer-zahlt-deinen-sparplan-wenn-du-nicht-mehr-arbeiten-kannst/</link>
@@ -599,12 +605,6 @@
       <title>Kostenlose Academy-Kurse: Dein Start in Deine Finanzen</title>
       <link>https://www.finanztip.de/daily/web/kostenlose-academy-kurse-dein-start-in-deine-finanzen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/kostenlose-academy-kurse-dein-start-in-deine-finanzen/</guid>
-      <pubDate>Wed, 14 Oct 2026 08:05:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neuen Handytarif sichern: Kleine Schraube, große Wirkung</title>
-      <link>https://www.finanztip.de/daily/web/neuen-handytarif-sichern-kleine-schraube-grosse-wirkung/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/neuen-handytarif-sichern-kleine-schraube-grosse-wirkung/</guid>
       <pubDate>Wed, 14 Oct 2026 08:05:51 GMT</pubDate>
     </item>
   </channel>
