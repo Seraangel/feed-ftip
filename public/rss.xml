@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 09 Nov 2026 05:05:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 16:40:17 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia-Aktie im Tiefflug: Was bedeutet das für Deinen Welt-ETF?</title>
+      <link>https://www.finanztip.de/daily/web/nvidia-aktie-faellt-was-bedeutet-das-fuer-deinen-welt-etf/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/nvidia-aktie-faellt-was-bedeutet-das-fuer-deinen-welt-etf/</guid>
+      <pubDate>Mon, 09 Nov 2026 16:40:17 GMT</pubDate>
+    </item>
     <item>
       <title>Neuer Sanierungsbonus ab 2027: Bis zu 3.000 Euro mehr Förderung</title>
       <link>https://www.finanztip.de/daily/web/neuer-sanierungsbonus-die-voraussetzungen-fuer-3000-euro-mehr-foerderung/</link>
@@ -599,12 +605,6 @@
       <title>Was Du schon heute vorbereiten kannst</title>
       <link>https://www.finanztip.de/daily/web/was-du-schon-heute-vorbereiten-kannst/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/was-du-schon-heute-vorbereiten-kannst/</guid>
-      <pubDate>Wed, 14 Oct 2026 08:35:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Willkommen zum ersten Teil der Mail-Serie</title>
-      <link>https://www.finanztip.de/daily/web/willkommen-zum-ersten-teil-der-mail-serie-jobverlust/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/willkommen-zum-ersten-teil-der-mail-serie-jobverlust/</guid>
       <pubDate>Wed, 14 Oct 2026 08:35:53 GMT</pubDate>
     </item>
   </channel>
