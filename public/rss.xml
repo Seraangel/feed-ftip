@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 11 Nov 2026 14:46:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:35:59 GMT</lastBuildDate>
+    <item>
+      <title>Simsalasim nennt Details zum 10-Euro-Tarif – Starttermin noch immer offen</title>
+      <link>https://www.finanztip.de/daily/web/simsalasim-was-der-10-euro-tarif-wirklich-bietet/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/simsalasim-was-der-10-euro-tarif-wirklich-bietet/</guid>
+      <pubDate>Wed, 11 Nov 2026 15:35:59 GMT</pubDate>
+    </item>
     <item>
       <title>WG-Mietvertrag: So bleibt Ihr beim Auszug flexibel</title>
       <link>https://www.finanztip.de/daily/web/wg-mietvertrag-so-bleibt-ihr-beim-auszug-flexibel/</link>
@@ -599,12 +605,6 @@
       <title>Resturlaub, Überstunden, Bonus: Das steht Dir noch zu</title>
       <link>https://www.finanztip.de/daily/web/resturlaub-ueberstunden-bonus-das-steht-dir-noch-zu/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/resturlaub-ueberstunden-bonus-das-steht-dir-noch-zu/</guid>
-      <pubDate>Wed, 14 Oct 2026 09:05:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Willkommen zum dritten Teil der Mail-Serie</title>
-      <link>https://www.finanztip.de/daily/web/willkommen-zum-dritten-teil-der-mail-serie-jobverlust/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/willkommen-zum-dritten-teil-der-mail-serie-jobverlust/</guid>
       <pubDate>Wed, 14 Oct 2026 09:05:50 GMT</pubDate>
     </item>
   </channel>
