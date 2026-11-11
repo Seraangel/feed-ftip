@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 11 Nov 2026 14:35:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:46:03 GMT</lastBuildDate>
+    <item>
+      <title>WG-Mietvertrag: So bleibt Ihr beim Auszug flexibel</title>
+      <link>https://www.finanztip.de/daily/web/wg-mietvertrag-so-bleibt-ihr-beim-auszug-flexibel/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/wg-mietvertrag-so-bleibt-ihr-beim-auszug-flexibel/</guid>
+      <pubDate>Wed, 11 Nov 2026 14:46:03 GMT</pubDate>
+    </item>
     <item>
       <title>Kostenlos investieren: Was für Trading 212 spricht &amp; welche Haken es gibt</title>
       <link>https://www.finanztip.de/daily/web/kostenlos-investieren-was-fuer-trading-212-spricht-was-dagegen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/willkommen-zum-dritten-teil-der-mail-serie-jobverlust/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/willkommen-zum-dritten-teil-der-mail-serie-jobverlust/</guid>
       <pubDate>Wed, 14 Oct 2026 09:05:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aufhebungsvertrag und Abfindung: Wie Du richtig reagierst</title>
-      <link>https://www.finanztip.de/daily/web/aufhebungsvertrag-und-abfindung-wie-du-richtig-reagierst/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/aufhebungsvertrag-und-abfindung-wie-du-richtig-reagierst/</guid>
-      <pubDate>Wed, 14 Oct 2026 08:55:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
