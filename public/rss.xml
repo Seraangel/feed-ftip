@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 10 Nov 2026 15:05:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:10:58 GMT</lastBuildDate>
+    <item>
+      <title>ING-Black-Deal: So viel bringen 3,75 Prozent aufs Tagesgeld</title>
+      <link>https://www.finanztip.de/daily/web/ing-black-deal-so-viel-bringen-375-prozent-aufs-tagesgeld/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ing-black-deal-so-viel-bringen-375-prozent-aufs-tagesgeld/</guid>
+      <pubDate>Wed, 11 Nov 2026 05:10:58 GMT</pubDate>
+    </item>
     <item>
       <title>Weniger Auto gefahren? Prüf die Kilometer in Deinem Kfz-Versicherungsvertrag</title>
       <link>https://www.finanztip.de/daily/web/weniger-auto-gefahren-pruef-die-kilometer-in-deinem-kfz-versicherungsvertrag/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/willkommen-zum-zweiten-teil-der-mail-serie-jobverlust/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/willkommen-zum-zweiten-teil-der-mail-serie-jobverlust/</guid>
       <pubDate>Wed, 14 Oct 2026 08:45:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Damit Deine Rücklagen möglichst lange reichen</title>
-      <link>https://www.finanztip.de/daily/web/damit-deine-ruecklagen-moeglichst-lange-reichen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/damit-deine-ruecklagen-moeglichst-lange-reichen/</guid>
-      <pubDate>Wed, 14 Oct 2026 08:35:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
