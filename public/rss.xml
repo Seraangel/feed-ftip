@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 11 Nov 2026 05:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:05:59 GMT</lastBuildDate>
+    <item>
+      <title>Kostenlos investieren: Was für Trading 212 spricht – und was dagegen</title>
+      <link>https://www.finanztip.de/daily/web/kostenlos-investieren-was-fuer-trading-212-spricht-was-dagegen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/kostenlos-investieren-was-fuer-trading-212-spricht-was-dagegen/</guid>
+      <pubDate>Wed, 11 Nov 2026 06:05:59 GMT</pubDate>
+    </item>
     <item>
       <title>ING-Black-Deal: So viel bringen 3,75 Prozent aufs Tagesgeld</title>
       <link>https://www.finanztip.de/daily/web/ing-black-deal-so-viel-bringen-375-prozent-aufs-tagesgeld/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/aufhebungsvertrag-und-abfindung-wie-du-richtig-reagierst/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/aufhebungsvertrag-und-abfindung-wie-du-richtig-reagierst/</guid>
       <pubDate>Wed, 14 Oct 2026 08:55:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Willkommen zum zweiten Teil der Mail-Serie</title>
-      <link>https://www.finanztip.de/daily/web/willkommen-zum-zweiten-teil-der-mail-serie-jobverlust/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/willkommen-zum-zweiten-teil-der-mail-serie-jobverlust/</guid>
-      <pubDate>Wed, 14 Oct 2026 08:45:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
