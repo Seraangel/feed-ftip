@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 11 Nov 2026 17:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:05:28 GMT</lastBuildDate>
+    <item>
+      <title>Riester: Ab 2027 sind höhere Monatszahlungen möglich – mit einem Haken</title>
+      <link>https://www.finanztip.de/daily/web/riester-rentenphase-startet-bald-warum-sich-warten-jetzt-lohnen-kann/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/riester-rentenphase-startet-bald-warum-sich-warten-jetzt-lohnen-kann/</guid>
+      <pubDate>Thu, 12 Nov 2026 06:05:28 GMT</pubDate>
+    </item>
     <item>
       <title>Crash zum Start? Was das für Dein Altersvorsorgedepot bedeutet</title>
       <link>https://www.finanztip.de/daily/crash-zum-start-was-das-fuer-dein-altersvorsorgedepot-bedeutet/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/sparplan-bav-depot-darauf-kommt-es-jetzt-an/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/sparplan-bav-depot-darauf-kommt-es-jetzt-an/</guid>
       <pubDate>Wed, 14 Oct 2026 09:15:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fazit und Deine To-Dos aus der zweiten Mail</title>
-      <link>https://www.finanztip.de/daily/web/fazit-und-deine-to-dos-aus-der-zweiten-mail-jobverlust/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/fazit-und-deine-to-dos-aus-der-zweiten-mail-jobverlust/</guid>
-      <pubDate>Wed, 14 Oct 2026 09:05:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
