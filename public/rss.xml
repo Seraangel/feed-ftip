@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 12 Nov 2026 06:05:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:35:26 GMT</lastBuildDate>
+    <item>
+      <title>Bundesregierung will Befristungen erleichtern: Beschäftigten droht längere Unsicherheit</title>
+      <link>https://www.finanztip.de/daily/web/sachgrundlose-befristung-soll-ausgeweitet-werden-das-sind-die-nachteile/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/sachgrundlose-befristung-soll-ausgeweitet-werden-das-sind-die-nachteile/</guid>
+      <pubDate>Thu, 12 Nov 2026 10:35:26 GMT</pubDate>
+    </item>
     <item>
       <title>Riester: Ab 2027 sind höhere Monatszahlungen möglich – mit einem Haken</title>
       <link>https://www.finanztip.de/daily/web/riester-rentenphase-startet-bald-warum-sich-warten-jetzt-lohnen-kann/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/kostenlose-academy-kurse-dein-start-in-deine-finanzen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/kostenlose-academy-kurse-dein-start-in-deine-finanzen/</guid>
       <pubDate>Wed, 14 Oct 2026 10:05:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sparplan, bAV, Depot: Darauf kommt es jetzt an</title>
-      <link>https://www.finanztip.de/daily/web/sparplan-bav-depot-darauf-kommt-es-jetzt-an/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/sparplan-bav-depot-darauf-kommt-es-jetzt-an/</guid>
-      <pubDate>Wed, 14 Oct 2026 09:15:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
