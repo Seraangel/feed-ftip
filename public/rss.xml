@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 13 Nov 2026 05:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:05:29 GMT</lastBuildDate>
+    <item>
+      <title>Riester im Minus: Solltest Du trotzdem ins Altersvorsorgedepot wechseln?</title>
+      <link>https://www.finanztip.de/daily/web/riester-im-minus-solltest-du-trotzdem-ins-altersvorsorgedepot-wechseln/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/riester-im-minus-solltest-du-trotzdem-ins-altersvorsorgedepot-wechseln/</guid>
+      <pubDate>Fri, 13 Nov 2026 06:05:29 GMT</pubDate>
+    </item>
     <item>
       <title>Tagesgeld-Zinsen im aktuellen Check: Advanzia weiter an der Spitze</title>
       <link>https://www.finanztip.de/daily/web/tagesgeld-zinsen-bis-zu-41-mit-aktionszins-sichern/</link>
@@ -599,12 +605,6 @@
       <title>Altersvorsorge-Depot ab 2027: Warum Du die Kosten genau vergleichen solltest</title>
       <link>https://www.finanztip.de/daily/web/altersvorsorge-depot-ab-2027-warum-du-die-kosten-genau-vergleichen-solltest/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/altersvorsorge-depot-ab-2027-warum-du-die-kosten-genau-vergleichen-solltest/</guid>
-      <pubDate>Wed, 14 Oct 2026 14:05:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amazon Visa erhöht den Zins: So vermeidest Du die teure Teilzahlung</title>
-      <link>https://www.finanztip.de/daily/web/amazon-visa-erhoeht-den-zins-so-vermeidest-du-die-teure-teilzahlung/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/amazon-visa-erhoeht-den-zins-so-vermeidest-du-die-teure-teilzahlung/</guid>
       <pubDate>Wed, 14 Oct 2026 14:05:52 GMT</pubDate>
     </item>
   </channel>
