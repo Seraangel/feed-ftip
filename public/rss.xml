@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:05:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:05:26 GMT</lastBuildDate>
+    <item>
+      <title>Neuer Depot-Test von Finanztip: Die 5 wichtigsten Fakten</title>
+      <link>https://www.finanztip.de/daily/neuer-depot-test-von-finanztip-die-5-wichtigsten-fakten/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/neuer-depot-test-von-finanztip-die-5-wichtigsten-fakten/</guid>
+      <pubDate>Fri, 13 Nov 2026 08:05:26 GMT</pubDate>
+    </item>
     <item>
       <title>Riester im Minus: Solltest Du trotzdem ins Altersvorsorgedepot wechseln?</title>
       <link>https://www.finanztip.de/daily/web/riester-im-minus-solltest-du-trotzdem-ins-altersvorsorgedepot-wechseln/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/etf-statt-bu-warum-das-gefaehrlich-ist/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/etf-statt-bu-warum-das-gefaehrlich-ist/</guid>
       <pubDate>Thu, 15 Oct 2026 04:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Altersvorsorge-Depot ab 2027: Warum Du die Kosten genau vergleichen solltest</title>
-      <link>https://www.finanztip.de/daily/web/altersvorsorge-depot-ab-2027-warum-du-die-kosten-genau-vergleichen-solltest/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/altersvorsorge-depot-ab-2027-warum-du-die-kosten-genau-vergleichen-solltest/</guid>
-      <pubDate>Wed, 14 Oct 2026 14:05:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
