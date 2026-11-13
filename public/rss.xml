@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 13 Nov 2026 15:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:05:30 GMT</lastBuildDate>
+    <item>
+      <title>Für Unterstützer: Wenn Pflege Thema wird – Orga, Antrag, bezahlen</title>
+      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-wenn-pflege-thema-wird-orga-antrag-bezahlen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-wenn-pflege-thema-wird-orga-antrag-bezahlen/</guid>
+      <pubDate>Fri, 13 Nov 2026 17:05:30 GMT</pubDate>
+    </item>
     <item>
       <title>Lohnt sich gerade ... ein neuer Stromvertrag?</title>
       <link>https://www.finanztip.de/daily/lohnt-sich-gerade-ein-neuer-stromvertrag/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-av-depot-wie-funktionierts-und-was-bringts/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-av-depot-wie-funktionierts-und-was-bringts/</guid>
       <pubDate>Thu, 15 Oct 2026 15:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lohnt sich gerade … noch ein Automobilclub?</title>
-      <link>https://www.finanztip.de/daily/lohnt-sich-gerade-noch-ein-automobilclub/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-gerade-noch-ein-automobilclub/</guid>
-      <pubDate>Thu, 15 Oct 2026 10:05:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
