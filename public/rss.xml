@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 13 Nov 2026 08:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 15:35:30 GMT</lastBuildDate>
+    <item>
+      <title>Lohnt sich gerade ... ein neuer Stromvertrag?</title>
+      <link>https://www.finanztip.de/daily/lohnt-sich-gerade-ein-neuer-stromvertrag/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-gerade-ein-neuer-stromvertrag/</guid>
+      <pubDate>Fri, 13 Nov 2026 15:35:30 GMT</pubDate>
+    </item>
     <item>
       <title>Neuer Depot-Test von Finanztip: Die 5 wichtigsten Fakten</title>
       <link>https://www.finanztip.de/daily/neuer-depot-test-von-finanztip-die-5-wichtigsten-fakten/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/lohnt-sich-gerade-noch-ein-automobilclub/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-gerade-noch-ein-automobilclub/</guid>
       <pubDate>Thu, 15 Oct 2026 10:05:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>ETF statt BU? Warum das gefährlich sein kann</title>
-      <link>https://www.finanztip.de/daily/web/etf-statt-bu-warum-das-gefaehrlich-ist/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/etf-statt-bu-warum-das-gefaehrlich-ist/</guid>
-      <pubDate>Thu, 15 Oct 2026 04:00:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
