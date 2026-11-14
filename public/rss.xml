@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 14 Nov 2026 05:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 11:05:25 GMT</lastBuildDate>
+    <item>
+      <title>BU für Beamte: Ohne passende DU-Klausel kann die Zahlung ausbleiben</title>
+      <link>https://www.finanztip.de/daily/web/dienstunfaehig-und-die-bu-zahlt-trotzdem-nicht/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/dienstunfaehig-und-die-bu-zahlt-trotzdem-nicht/</guid>
+      <pubDate>Sat, 14 Nov 2026 11:05:25 GMT</pubDate>
+    </item>
     <item>
       <title>Lichtblick: Warum Finanztip einen Top-Tarif nicht mehr empfiehlt</title>
       <link>https://www.finanztip.de/daily/web/lichtblick-warum-finanztip-einen-top-tarif-nicht-mehr-empfiehlt/</link>
@@ -599,12 +605,6 @@
       <title>Firmenerben und Freibeträge im Fokus: Karlsruhe prüft Erbschaftssteuer</title>
       <link>https://www.finanztip.de/daily/karlsruhe-urteilt-ueber-erben/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/karlsruhe-urteilt-ueber-erben/</guid>
-      <pubDate>Thu, 15 Oct 2026 15:35:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stromsteuer soll sinken: Wie viel kommt bei Dir an?</title>
-      <link>https://www.finanztip.de/daily/stromsteuer-soll-sinken-wie-viel-kommt-bei-dir-an/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/stromsteuer-soll-sinken-wie-viel-kommt-bei-dir-an/</guid>
       <pubDate>Thu, 15 Oct 2026 15:35:51 GMT</pubDate>
     </item>
   </channel>
