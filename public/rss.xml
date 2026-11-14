@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 05:05:25 GMT</lastBuildDate>
+    <item>
+      <title>Lichtblick: Warum Finanztip einen Top-Tarif nicht mehr empfiehlt</title>
+      <link>https://www.finanztip.de/daily/web/lichtblick-warum-finanztip-einen-top-tarif-nicht-mehr-empfiehlt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/lichtblick-warum-finanztip-einen-top-tarif-nicht-mehr-empfiehlt/</guid>
+      <pubDate>Sat, 14 Nov 2026 05:05:25 GMT</pubDate>
+    </item>
     <item>
       <title>Für Unterstützer: Wenn Pflege Thema wird – Orga, Antrag, bezahlen</title>
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-wenn-pflege-thema-wird-orga-antrag-bezahlen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/stromsteuer-soll-sinken-wie-viel-kommt-bei-dir-an/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/stromsteuer-soll-sinken-wie-viel-kommt-bei-dir-an/</guid>
       <pubDate>Thu, 15 Oct 2026 15:35:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Unterstützer: AV-Depot – Wie funktioniert's und was bringt's?</title>
-      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-av-depot-wie-funktionierts-und-was-bringts/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-av-depot-wie-funktionierts-und-was-bringts/</guid>
-      <pubDate>Thu, 15 Oct 2026 15:10:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
