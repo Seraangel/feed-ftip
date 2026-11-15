@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 14 Nov 2026 11:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:06:08 GMT</lastBuildDate>
+    <item>
+      <title>Dividenden aus dem AV-Depot abzuheben kann Dich die Förderung kosten</title>
+      <link>https://www.finanztip.de/daily/web/dividenden-ausgeben-was-gilt-im-av-depot/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/dividenden-ausgeben-was-gilt-im-av-depot/</guid>
+      <pubDate>Sun, 15 Nov 2026 05:06:08 GMT</pubDate>
+    </item>
     <item>
       <title>BU für Beamte: Ohne passende DU-Klausel kann die Zahlung ausbleiben</title>
       <link>https://www.finanztip.de/daily/web/dienstunfaehig-und-die-bu-zahlt-trotzdem-nicht/</link>
@@ -599,12 +605,6 @@
       <title>Bis zu 32 ct mehr für Deine Limo? Was die Zuckersteuer bedeutet</title>
       <link>https://www.finanztip.de/daily/bis-zu-32-cent-mehr-fuer-deine-limo-was-die-zuckersteuer-bedeutet/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/bis-zu-32-cent-mehr-fuer-deine-limo-was-die-zuckersteuer-bedeutet/</guid>
-      <pubDate>Thu, 15 Oct 2026 15:35:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firmenerben und Freibeträge im Fokus: Karlsruhe prüft Erbschaftssteuer</title>
-      <link>https://www.finanztip.de/daily/karlsruhe-urteilt-ueber-erben/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/karlsruhe-urteilt-ueber-erben/</guid>
       <pubDate>Thu, 15 Oct 2026 15:35:51 GMT</pubDate>
     </item>
   </channel>
