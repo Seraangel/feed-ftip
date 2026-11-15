@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 17:06:06 GMT</lastBuildDate>
+    <item>
+      <title>Wero oder PayPal: Was beim Geldsenden &amp; Onlinekauf für Dich besser passt</title>
+      <link>https://www.finanztip.de/daily/web/wero-vs-paypal-was-ist-fuer-dich-besser/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/wero-vs-paypal-was-ist-fuer-dich-besser/</guid>
+      <pubDate>Sun, 15 Nov 2026 17:06:06 GMT</pubDate>
+    </item>
     <item>
       <title>Dividenden aus dem AV-Depot abzuheben kann Dich die Förderung kosten</title>
       <link>https://www.finanztip.de/daily/web/dividenden-ausgeben-was-gilt-im-av-depot/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/inflationsrate-steigt-weiter-so-viel-teurer-wurde-es-im-september/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/inflationsrate-steigt-weiter-so-viel-teurer-wurde-es-im-september/</guid>
       <pubDate>Thu, 15 Oct 2026 15:45:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bis zu 32 ct mehr für Deine Limo? Was die Zuckersteuer bedeutet</title>
-      <link>https://www.finanztip.de/daily/bis-zu-32-cent-mehr-fuer-deine-limo-was-die-zuckersteuer-bedeutet/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/bis-zu-32-cent-mehr-fuer-deine-limo-was-die-zuckersteuer-bedeutet/</guid>
-      <pubDate>Thu, 15 Oct 2026 15:35:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
