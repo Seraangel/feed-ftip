@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 16 Nov 2026 08:25:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:45:52 GMT</lastBuildDate>
+    <item>
+      <title>AV-Depot: So viel bringt Dir der Riester-Übertrag</title>
+      <link>https://www.finanztip.de/daily/av-depot-so-viel-bringt-dir-der-riester-uebertrag/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-so-viel-bringt-dir-der-riester-uebertrag/</guid>
+      <pubDate>Mon, 16 Nov 2026 15:45:52 GMT</pubDate>
+    </item>
     <item>
       <title>Krebs überlebt, aber weiter diskriminiert?</title>
       <link>https://www.finanztip.de/daily/krebs-ueberlebt-aber-weiter-diskriminiert/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/kuendigung-erhalten-darum-kann-sich-eine-klage-lohnen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/kuendigung-erhalten-darum-kann-sich-eine-klage-lohnen/</guid>
       <pubDate>Fri, 16 Oct 2026 05:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rauchen? Das geht bald richtig ins Geld</title>
-      <link>https://www.finanztip.de/daily/rauchen-das-geht-bald-richtig-ins-geld/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/rauchen-das-geht-bald-richtig-ins-geld/</guid>
-      <pubDate>Thu, 15 Oct 2026 15:55:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
