@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:25:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:01:10 GMT</lastBuildDate>
+    <item>
+      <title>Bis Ende November – ING-Black-Deal mit 3,75 % aufs Tagesgeld</title>
+      <link>https://www.finanztip.de/daily/web/bis-ende-november-ing-black-deal-mit-375-aufs-tagesgeld/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/bis-ende-november-ing-black-deal-mit-375-aufs-tagesgeld/</guid>
+      <pubDate>Tue, 17 Nov 2026 05:01:10 GMT</pubDate>
+    </item>
     <item>
       <title>Wärmepumpen-Förderung 2027 durch neue Vorgaben gefährdet</title>
       <link>https://www.finanztip.de/daily/web/waermepumpen-foerderung-zuschuesse-sind-2027-in-gefahr/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/eon-fernwaerme-gericht-kippt-preisformeln/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/eon-fernwaerme-gericht-kippt-preisformeln/</guid>
       <pubDate>Fri, 16 Oct 2026 07:30:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Strom- und Gaspreise 2027: Wer jetzt schnell sein sollte</title>
-      <link>https://www.finanztip.de/daily/strom-und-gaspreise-2027-wer-jetzt-schnell-sein-sollte/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/strom-und-gaspreise-2027-wer-jetzt-schnell-sein-sollte/</guid>
-      <pubDate>Fri, 16 Oct 2026 07:25:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
