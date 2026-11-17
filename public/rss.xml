@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:51:27 GMT</lastBuildDate>
+    <item>
+      <title>Vereinfachte BU-Angebote für junge Leute haben einen wichtigen Haken</title>
+      <link>https://www.finanztip.de/daily/web/bu-angebote-fuer-junge-leute-was-du-vor-dem-abschluss-wissen-solltest/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/bu-angebote-fuer-junge-leute-was-du-vor-dem-abschluss-wissen-solltest/</guid>
+      <pubDate>Tue, 17 Nov 2026 14:51:27 GMT</pubDate>
+    </item>
     <item>
       <title>Wie schnell Du 250.000 € ansparst hängt von Deiner Geldanlage ab</title>
       <link>https://www.finanztip.de/daily/web/so-lange-brauchst-du-bis-du-250000-eur-hast/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/ueber-300-euro-neukundenbonus-die-wahrheit-ueber-stromtarife-mit-lock-praemien/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/ueber-300-euro-neukundenbonus-die-wahrheit-ueber-stromtarife-mit-lock-praemien/</guid>
       <pubDate>Sat, 17 Oct 2026 04:05:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frühstartrente kommt: Was Eltern jetzt wissen müssen</title>
-      <link>https://www.finanztip.de/daily/web/fruehstartrente-beschlossen-was-eltern-jetzt-wissen-muessen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/fruehstartrente-beschlossen-was-eltern-jetzt-wissen-muessen/</guid>
-      <pubDate>Fri, 16 Oct 2026 14:35:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
