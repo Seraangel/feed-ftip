@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:06:24 GMT</lastBuildDate>
+    <item>
+      <title>Wie schnell Du 250.000 € ansparst hängt von Deiner Geldanlage ab</title>
+      <link>https://www.finanztip.de/daily/web/so-lange-brauchst-du-bis-du-250000-eur-hast/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/so-lange-brauchst-du-bis-du-250000-eur-hast/</guid>
+      <pubDate>Tue, 17 Nov 2026 06:06:24 GMT</pubDate>
+    </item>
     <item>
       <title>Bis Ende November – ING-Black-Deal mit 3,75 % aufs Tagesgeld</title>
       <link>https://www.finanztip.de/daily/web/bis-ende-november-ing-black-deal-mit-375-aufs-tagesgeld/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/fruehstartrente-beschlossen-was-eltern-jetzt-wissen-muessen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/fruehstartrente-beschlossen-was-eltern-jetzt-wissen-muessen/</guid>
       <pubDate>Fri, 16 Oct 2026 14:35:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>E.ON-Fernwärme: Gericht kippt Preisformeln</title>
-      <link>https://www.finanztip.de/daily/eon-fernwaerme-gericht-kippt-preisformeln/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/eon-fernwaerme-gericht-kippt-preisformeln/</guid>
-      <pubDate>Fri, 16 Oct 2026 07:30:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
