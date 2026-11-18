@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:45:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:05:41 GMT</lastBuildDate>
+    <item>
+      <title>Comdirect drei Jahre kostenlos: Welche Kosten danach drohen</title>
+      <link>https://www.finanztip.de/daily/web/comdirect-drei-jahre-kostenlos-welche-kosten-danach-drohen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/comdirect-drei-jahre-kostenlos-welche-kosten-danach-drohen/</guid>
+      <pubDate>Wed, 18 Nov 2026 15:05:41 GMT</pubDate>
+    </item>
     <item>
       <title>DAZN kassierte zu viel: Was jetzt für Dich drin ist</title>
       <link>https://www.finanztip.de/daily/web/dazn-kassierte-zu-viel-was-jetzt-fuer-dich-drin-ist/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/neuer-spitzenzins-beim-tagesgeld-4-1-prozent/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/neuer-spitzenzins-beim-tagesgeld-4-1-prozent/</guid>
       <pubDate>Wed, 21 Oct 2026 05:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solltest Du als Gutverdiener jetzt in die PKV wechseln?</title>
-      <link>https://www.finanztip.de/daily/web/solltest-du-als-gutverdiener-jetzt-in-die-pkv-wechseln/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/solltest-du-als-gutverdiener-jetzt-in-die-pkv-wechseln/</guid>
-      <pubDate>Wed, 21 Oct 2026 04:36:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
