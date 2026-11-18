@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 18 Nov 2026 13:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:05:36 GMT</lastBuildDate>
+    <item>
+      <title>Was die Bundesregierung beschlossen hat: Kinderzuschlag wird nicht gekürzt</title>
+      <link>https://www.finanztip.de/daily/web/was-die-bundesregierung-beschlossen-hat-kinderzuschlag-wird-nicht-gekuerzt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/was-die-bundesregierung-beschlossen-hat-kinderzuschlag-wird-nicht-gekuerzt/</guid>
+      <pubDate>Wed, 18 Nov 2026 14:05:36 GMT</pubDate>
+    </item>
     <item>
       <title>Kfz-Versicherung: Im Schnitt 120 Prozent teurer durch junge Fahrer</title>
       <link>https://www.finanztip.de/daily/web/im-schnitt-120-prozent-aufschlag-wer-ans-steuer-darf-macht-den-unterschied/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/lohnt-sich-der-aufwand-so-viel-bringt-tagesgeld-hopping-wirklich/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-der-aufwand-so-viel-bringt-tagesgeld-hopping-wirklich/</guid>
       <pubDate>Tue, 20 Oct 2026 10:41:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jetzt selbst durchspielen: Was Dir das Altersvorsorgedepot bringt</title>
-      <link>https://www.finanztip.de/daily/jetzt-selbst-durchspielen-was-dir-das-altersvorsorgedepot-bringt/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/jetzt-selbst-durchspielen-was-dir-das-altersvorsorgedepot-bringt/</guid>
-      <pubDate>Tue, 20 Oct 2026 08:06:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
