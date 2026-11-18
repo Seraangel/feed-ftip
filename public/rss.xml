@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:20:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:45:28 GMT</lastBuildDate>
+    <item>
+      <title>DAZN kassierte zu viel: Was jetzt für Dich drin ist</title>
+      <link>https://www.finanztip.de/daily/web/dazn-kassierte-zu-viel-was-jetzt-fuer-dich-drin-ist/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/dazn-kassierte-zu-viel-was-jetzt-fuer-dich-drin-ist/</guid>
+      <pubDate>Wed, 18 Nov 2026 14:45:28 GMT</pubDate>
+    </item>
     <item>
       <title>Dazn-Urteil: So forderst Du zu viel gezahltes Geld zurück</title>
       <link>https://www.finanztip.de/daily/web/dazn-urteil-so-forderst-du-zu-viel-gezahltes-geld-zurueck/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/solltest-du-als-gutverdiener-jetzt-in-die-pkv-wechseln/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/solltest-du-als-gutverdiener-jetzt-in-die-pkv-wechseln/</guid>
       <pubDate>Wed, 21 Oct 2026 04:36:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>10 Euro für Unlimited: Was hinter Simsalasim steckt</title>
-      <link>https://www.finanztip.de/daily/web/10-euro-fuer-unlimited-was-hinter-simsalasim-steckt/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/10-euro-fuer-unlimited-was-hinter-simsalasim-steckt/</guid>
-      <pubDate>Tue, 20 Oct 2026 12:06:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
