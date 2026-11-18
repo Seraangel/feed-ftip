@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 18 Nov 2026 08:06:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:31:17 GMT</lastBuildDate>
+    <item>
+      <title>Stromsteuer sinkt: Was heißt das für Deinen Stromvertrag?</title>
+      <link>https://www.finanztip.de/daily/stromsteuer-sinkt-was-heisst-das-fuer-deinen-stromvertrag/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/stromsteuer-sinkt-was-heisst-das-fuer-deinen-stromvertrag/</guid>
+      <pubDate>Wed, 18 Nov 2026 10:31:17 GMT</pubDate>
+    </item>
     <item>
       <title>Deine Rente: So findest Du heraus, was Dir später fehlt</title>
       <link>https://www.finanztip.de/daily/web/deine-rente-so-findest-du-heraus-was-dir-spaeter-fehlt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/26-p-a-aufs-tagesgeld-so-waehlen-wir-unsere-empfehlungen-aus/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/26-p-a-aufs-tagesgeld-so-waehlen-wir-unsere-empfehlungen-aus/</guid>
       <pubDate>Tue, 20 Oct 2026 08:06:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Quirion legt nach: Das günstigste AV-Depot bisher</title>
-      <link>https://www.finanztip.de/daily/web/quirion-legt-nach-das-guenstigste-av-depot-aktuell/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/quirion-legt-nach-das-guenstigste-av-depot-aktuell/</guid>
-      <pubDate>Tue, 20 Oct 2026 04:11:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
