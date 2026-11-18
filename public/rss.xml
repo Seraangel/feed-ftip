@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:20:27 GMT</lastBuildDate>
+    <item>
+      <title>Dazn-Urteil: So forderst Du zu viel gezahltes Geld zurück</title>
+      <link>https://www.finanztip.de/daily/web/dazn-urteil-so-forderst-du-zu-viel-gezahltes-geld-zurueck/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/dazn-urteil-so-forderst-du-zu-viel-gezahltes-geld-zurueck/</guid>
+      <pubDate>Wed, 18 Nov 2026 14:20:27 GMT</pubDate>
+    </item>
     <item>
       <title>Was die Bundesregierung beschlossen hat: Kinderzuschlag wird nicht gekürzt</title>
       <link>https://www.finanztip.de/daily/web/was-die-bundesregierung-beschlossen-hat-kinderzuschlag-wird-nicht-gekuerzt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/10-euro-fuer-unlimited-was-hinter-simsalasim-steckt/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/10-euro-fuer-unlimited-was-hinter-simsalasim-steckt/</guid>
       <pubDate>Tue, 20 Oct 2026 12:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lohnt es sich? So viel bringt Tagesgeld-Hopping wirklich</title>
-      <link>https://www.finanztip.de/daily/lohnt-sich-der-aufwand-so-viel-bringt-tagesgeld-hopping-wirklich/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/lohnt-sich-der-aufwand-so-viel-bringt-tagesgeld-hopping-wirklich/</guid>
-      <pubDate>Tue, 20 Oct 2026 10:41:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
