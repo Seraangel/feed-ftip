@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 18 Nov 2026 10:31:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:05:25 GMT</lastBuildDate>
+    <item>
+      <title>Kfz-Versicherung: Im Schnitt 120 Prozent teurer durch junge Fahrer</title>
+      <link>https://www.finanztip.de/daily/web/im-schnitt-120-prozent-aufschlag-wer-ans-steuer-darf-macht-den-unterschied/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/im-schnitt-120-prozent-aufschlag-wer-ans-steuer-darf-macht-den-unterschied/</guid>
+      <pubDate>Wed, 18 Nov 2026 13:05:25 GMT</pubDate>
+    </item>
     <item>
       <title>Stromsteuer sinkt: Was heißt das für Deinen Stromvertrag?</title>
       <link>https://www.finanztip.de/daily/stromsteuer-sinkt-was-heisst-das-fuer-deinen-stromvertrag/</link>
@@ -599,12 +605,6 @@
       <title>Jetzt selbst durchspielen: Was Dir das Altersvorsorgedepot bringt</title>
       <link>https://www.finanztip.de/daily/jetzt-selbst-durchspielen-was-dir-das-altersvorsorgedepot-bringt/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/jetzt-selbst-durchspielen-was-dir-das-altersvorsorgedepot-bringt/</guid>
-      <pubDate>Tue, 20 Oct 2026 08:06:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>2,6 % p. a. aufs Tagesgeld? So wählen wir unsere Empfehlungen aus</title>
-      <link>https://www.finanztip.de/daily/web/26-p-a-aufs-tagesgeld-so-waehlen-wir-unsere-empfehlungen-aus/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/26-p-a-aufs-tagesgeld-so-waehlen-wir-unsere-empfehlungen-aus/</guid>
       <pubDate>Tue, 20 Oct 2026 08:06:04 GMT</pubDate>
     </item>
   </channel>
