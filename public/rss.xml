@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 18 Nov 2026 05:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 05:36:09 GMT</lastBuildDate>
+    <item>
+      <title>Gratis-Orders und mehr Zinsen: Nordnet lockt zum Deutschlandstart</title>
+      <link>https://www.finanztip.de/daily/web/gratis-orders-und-mehr-zinsen-nordnet-lockt-zum-deutschlandstart/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/gratis-orders-und-mehr-zinsen-nordnet-lockt-zum-deutschlandstart/</guid>
+      <pubDate>Wed, 18 Nov 2026 05:36:09 GMT</pubDate>
+    </item>
     <item>
       <title>84,5 % teurer: Hier schlägt die Inflation besonders zu</title>
       <link>https://www.finanztip.de/daily/web/845-teurer-hier-schlaegt-die-inflation-besonders-stark-zu/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/pflegebeitrag-2027-weniger-spielraum-auch-fuer-dich/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/pflegebeitrag-2027-weniger-spielraum-auch-fuer-dich/</guid>
       <pubDate>Mon, 19 Oct 2026 12:11:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hausratvertrag prüfen: Passt der Versicherungsschutz bei Extremwetter</title>
-      <link>https://www.finanztip.de/daily/web/hausratvertrag-pruefen-passt-der-versicherungsschutz-bei-extremwetter/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/hausratvertrag-pruefen-passt-der-versicherungsschutz-bei-extremwetter/</guid>
-      <pubDate>Sun, 18 Oct 2026 04:06:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
