@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 18 Nov 2026 05:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:06:10 GMT</lastBuildDate>
+    <item>
+      <title>Deine Rente: So findest Du heraus, was Dir später fehlt</title>
+      <link>https://www.finanztip.de/daily/web/deine-rente-so-findest-du-heraus-was-dir-spaeter-fehlt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/deine-rente-so-findest-du-heraus-was-dir-spaeter-fehlt/</guid>
+      <pubDate>Wed, 18 Nov 2026 08:06:10 GMT</pubDate>
+    </item>
     <item>
       <title>Gratis-Orders und mehr Zinsen: Nordnet lockt zum Deutschlandstart</title>
       <link>https://www.finanztip.de/daily/web/gratis-orders-und-mehr-zinsen-nordnet-lockt-zum-deutschlandstart/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/quirion-legt-nach-das-guenstigste-av-depot-aktuell/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/quirion-legt-nach-das-guenstigste-av-depot-aktuell/</guid>
       <pubDate>Tue, 20 Oct 2026 04:11:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pflegebeitrag 2027: Weniger Spielraum auch für Dich?</title>
-      <link>https://www.finanztip.de/daily/pflegebeitrag-2027-weniger-spielraum-auch-fuer-dich/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/pflegebeitrag-2027-weniger-spielraum-auch-fuer-dich/</guid>
-      <pubDate>Mon, 19 Oct 2026 12:11:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
