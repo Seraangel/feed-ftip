@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:51:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 05:11:09 GMT</lastBuildDate>
+    <item>
+      <title>84,5 % teurer: Hier schlägt die Inflation besonders zu</title>
+      <link>https://www.finanztip.de/daily/web/845-teurer-hier-schlaegt-die-inflation-besonders-stark-zu/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/845-teurer-hier-schlaegt-die-inflation-besonders-stark-zu/</guid>
+      <pubDate>Wed, 18 Nov 2026 05:11:09 GMT</pubDate>
+    </item>
     <item>
       <title>Vereinfachte BU-Angebote für junge Leute haben einen wichtigen Haken</title>
       <link>https://www.finanztip.de/daily/web/bu-angebote-fuer-junge-leute-was-du-vor-dem-abschluss-wissen-solltest/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/hausratvertrag-pruefen-passt-der-versicherungsschutz-bei-extremwetter/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/hausratvertrag-pruefen-passt-der-versicherungsschutz-bei-extremwetter/</guid>
       <pubDate>Sun, 18 Oct 2026 04:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Über 300 Euro Neukundenbonus: Die Wahrheit über Stromtarife mit Lock-Prämien</title>
-      <link>https://www.finanztip.de/daily/web/ueber-300-euro-neukundenbonus-die-wahrheit-ueber-stromtarife-mit-lock-praemien/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ueber-300-euro-neukundenbonus-die-wahrheit-ueber-stromtarife-mit-lock-praemien/</guid>
-      <pubDate>Sat, 17 Oct 2026 04:05:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
