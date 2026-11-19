@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 19 Nov 2026 06:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:05:30 GMT</lastBuildDate>
+    <item>
+      <title>Bank verweigert Geld nach Phishing? Dieses EuGH-Urteil stärkt Deine Rechte</title>
+      <link>https://www.finanztip.de/daily/web/bank-verweigert-geld-nach-phishing-dieses-eugh-urteil-staerkt-deine-rechte/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/bank-verweigert-geld-nach-phishing-dieses-eugh-urteil-staerkt-deine-rechte/</guid>
+      <pubDate>Thu, 19 Nov 2026 11:05:30 GMT</pubDate>
+    </item>
     <item>
       <title>8.000 Aktien, aber trotzdem 60 Prozent USA – ist der ACWI IMI wirklich breit gestreut?</title>
       <link>https://www.finanztip.de/daily/web/8000-aktien-aber-trotzdem-60-prozent-usa-ist-der-acwi-imi-wirklich-breit-gestreut/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/finanzen-ab-50-warum-du-gerade-jetzt-anfangen-solltest/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/finanzen-ab-50-warum-du-gerade-jetzt-anfangen-solltest/</guid>
       <pubDate>Thu, 22 Oct 2026 08:35:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>AV-Depot startet 2027: Neue Chance für Selbstständige</title>
-      <link>https://www.finanztip.de/daily/web/av-depot-startet-2027-neue-chance-fuer-selbststaendige/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-startet-2027-neue-chance-fuer-selbststaendige/</guid>
-      <pubDate>Thu, 22 Oct 2026 04:05:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
