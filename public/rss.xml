@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:30:26 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic feiert Milliarden-Börsengang: Was Du als Anleger beachten solltest</title>
+      <link>https://www.finanztip.de/daily/web/anthropic-feiert-milliarden-boersengang-was-du-als-anleger-beachten-solltest/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/anthropic-feiert-milliarden-boersengang-was-du-als-anleger-beachten-solltest/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:30:26 GMT</pubDate>
+    </item>
     <item>
       <title>Pelletheizung tauschen: Bald könnte viel Förderung wegfallen</title>
       <link>https://www.finanztip.de/daily/web/pelletheizung-tauschen-bald-koennte-viel-foerderung-wegfallen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/dachsanierung-warum-die-richtige-reihenfolge-tausende-euro-ausmachen-kann/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/dachsanierung-warum-die-richtige-reihenfolge-tausende-euro-ausmachen-kann/</guid>
       <pubDate>Fri, 23 Oct 2026 12:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Unterstützer: Wie Du beim AV-Depot später an Dein Geld kommst</title>
-      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-av-depot-wie-du-spaeter-an-dein-geld-kommst/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-av-depot-wie-du-spaeter-an-dein-geld-kommst/</guid>
-      <pubDate>Fri, 23 Oct 2026 07:05:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
