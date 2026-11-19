@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:05:26 GMT</lastBuildDate>
+    <item>
+      <title>Adventskranz brennt: Nur so zahlt Deine Versicherung</title>
+      <link>https://www.finanztip.de/daily/web/adventskranz-brennt-nur-so-zahlt-deine-versicherung/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/adventskranz-brennt-nur-so-zahlt-deine-versicherung/</guid>
+      <pubDate>Thu, 19 Nov 2026 13:05:26 GMT</pubDate>
+    </item>
     <item>
       <title>Bank verweigert Geld nach Phishing? Dieses EuGH-Urteil stärkt Deine Rechte</title>
       <link>https://www.finanztip.de/daily/web/bank-verweigert-geld-nach-phishing-dieses-eugh-urteil-staerkt-deine-rechte/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/card-control-bestimme-selbst-was-deine-karte-darf/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/card-control-bestimme-selbst-was-deine-karte-darf/</guid>
       <pubDate>Thu, 22 Oct 2026 12:05:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Finanzen ab 50: Warum Du gerade jetzt anfangen solltest</title>
-      <link>https://www.finanztip.de/daily/finanzen-ab-50-warum-du-gerade-jetzt-anfangen-solltest/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/finanzen-ab-50-warum-du-gerade-jetzt-anfangen-solltest/</guid>
-      <pubDate>Thu, 22 Oct 2026 08:35:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
