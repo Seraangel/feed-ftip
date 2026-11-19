@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:05:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:05:25 GMT</lastBuildDate>
+    <item>
+      <title>Pelletheizung tauschen: Bald könnte viel Förderung wegfallen</title>
+      <link>https://www.finanztip.de/daily/web/pelletheizung-tauschen-bald-koennte-viel-foerderung-wegfallen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/pelletheizung-tauschen-bald-koennte-viel-foerderung-wegfallen/</guid>
+      <pubDate>Thu, 19 Nov 2026 15:05:25 GMT</pubDate>
+    </item>
     <item>
       <title>Dein Kind fährt Dein Auto nur noch selten? So kannst Du Versicherungskosten senken</title>
       <link>https://www.finanztip.de/daily/web/dein-kind-faehrt-dein-auto-nur-noch-selten-so-kannst-du-versicherungskosten-senken/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-av-depot-wie-du-spaeter-an-dein-geld-kommst/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-av-depot-wie-du-spaeter-an-dein-geld-kommst/</guid>
       <pubDate>Fri, 23 Oct 2026 07:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Advanzia mit über 4 % beim Tagesgeld: Lohnt sich aktuell ein Wechsel?</title>
-      <link>https://www.finanztip.de/daily/web/tagesgeld-mit-418-zinsen-lohnt-sich-das-angebot-der-advanzia/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/tagesgeld-mit-418-zinsen-lohnt-sich-das-angebot-der-advanzia/</guid>
-      <pubDate>Fri, 23 Oct 2026 04:05:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
