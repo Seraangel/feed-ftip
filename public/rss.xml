@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 20 Nov 2026 08:25:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:40:38 GMT</lastBuildDate>
+    <item>
+      <title>Dispo ausgeschöpft: Wird Deine Miete noch abgebucht?</title>
+      <link>https://www.finanztip.de/daily/web/dispo-ausgeschoepft-wird-deine-miete-noch-abgebucht/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/dispo-ausgeschoepft-wird-deine-miete-noch-abgebucht/</guid>
+      <pubDate>Fri, 20 Nov 2026 08:40:38 GMT</pubDate>
+    </item>
     <item>
       <title>Für Unterstützer: So handelst Du sicher bei Trennung und Scheidung</title>
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-so-handelst-du-sicher-bei-trennung-und-scheidung/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/av-depot-rechne-in-wenigen-minuten-aus-was-es-dir-bringt/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-rechne-in-wenigen-minuten-aus-was-es-dir-bringt/</guid>
       <pubDate>Sat, 24 Oct 2026 09:05:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>AV-Depot: So viel Förderung bekommst Du</title>
-      <link>https://www.finanztip.de/daily/web/av-depot-so-viel-foerderung-bekommst-du/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-so-viel-foerderung-bekommst-du/</guid>
-      <pubDate>Sat, 24 Oct 2026 04:00:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
