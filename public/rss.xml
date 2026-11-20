@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 20 Nov 2026 08:05:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:25:33 GMT</lastBuildDate>
+    <item>
+      <title>Für Unterstützer: So handelst Du sicher bei Trennung und Scheidung</title>
+      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-so-handelst-du-sicher-bei-trennung-und-scheidung/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-so-handelst-du-sicher-bei-trennung-und-scheidung/</guid>
+      <pubDate>Fri, 20 Nov 2026 08:25:33 GMT</pubDate>
+    </item>
     <item>
       <title>Kfz-Versicherung: Für 2027 solltest Du jetzt anders vergleichen</title>
       <link>https://www.finanztip.de/daily/kfz-versicherung-fuer-2027-solltest-du-jetzt-anders-vergleichen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/av-depot-so-viel-foerderung-bekommst-du/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-so-viel-foerderung-bekommst-du/</guid>
       <pubDate>Sat, 24 Oct 2026 04:00:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Unterstützer: Kapital für die Immobilie – So sparst Du richtig</title>
-      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-kapital-fuer-die-immobilie-so-sparst-du-richtig/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-kapital-fuer-die-immobilie-so-sparst-du-richtig/</guid>
-      <pubDate>Fri, 23 Oct 2026 17:30:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
