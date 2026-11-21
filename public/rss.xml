@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:10:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 17:05:23 GMT</lastBuildDate>
+    <item>
+      <title>Deine Rente: So findest Du heraus, was Dir später fehlt</title>
+      <link>https://www.finanztip.de/daily/deine-rente-so-findest-du-heraus-was-dir-spaeter-fehlt/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/deine-rente-so-findest-du-heraus-was-dir-spaeter-fehlt/</guid>
+      <pubDate>Sat, 21 Nov 2026 17:05:23 GMT</pubDate>
+    </item>
     <item>
       <title>Heizkosten senken ohne große Sanierung: Prüfe die Rohre in Deinem Keller</title>
       <link>https://www.finanztip.de/daily/web/heizkosten-senken-ohne-grosse-sanierung-pruefe-die-rohre-in-deinem-keller/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/einmalanlage-sparplan-was-ist-besser/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/einmalanlage-sparplan-was-ist-besser/</guid>
       <pubDate>Sun, 25 Oct 2026 10:05:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>AV-Depot: Was passiert, wenn Du die Sparrate nicht mehr zahlen kannst?</title>
-      <link>https://www.finanztip.de/daily/web/av-depot-was-passiert-wenn-du-die-sparrate-nicht-mehr-zahlen-kannst/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-was-passiert-wenn-du-die-sparrate-nicht-mehr-zahlen-kannst/</guid>
-      <pubDate>Sun, 25 Oct 2026 05:05:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
