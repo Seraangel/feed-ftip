@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:10:22 GMT</lastBuildDate>
+    <item>
+      <title>Elementarschäden: Versicherungspflicht für Wohngebäude soll kommen</title>
+      <link>https://www.finanztip.de/daily/web/elementarschaeden-versicherungspflicht-fuer-wohngebaeude-soll-kommen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/elementarschaeden-versicherungspflicht-fuer-wohngebaeude-soll-kommen/</guid>
+      <pubDate>Sun, 22 Nov 2026 12:10:22 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic-Aktie: Wie viel Anthropic steckt in Deinem ETF?</title>
       <link>https://www.finanztip.de/daily/web/anthropic-aktie-ist-sie-bald-auch-in-deinem-etf/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/vorsicht-vor-brueckenprodukten-nicht-ueberall-wo-av-depot-draufsteht-ist-auch-ein-av-depot-drin/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/vorsicht-vor-brueckenprodukten-nicht-ueberall-wo-av-depot-draufsteht-ist-auch-ein-av-depot-drin/</guid>
       <pubDate>Mon, 26 Oct 2026 10:05:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wenn kostenlos nicht kostenlos ist: Welche Grenzen gibt es beim Bargeld abheben?</title>
-      <link>https://www.finanztip.de/daily/web/wenn-kostenlos-nicht-kostenlos-ist-welche-grenzen-gibt-es-beim-bargeld-abheben/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/wenn-kostenlos-nicht-kostenlos-ist-welche-grenzen-gibt-es-beim-bargeld-abheben/</guid>
-      <pubDate>Sun, 25 Oct 2026 13:05:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
