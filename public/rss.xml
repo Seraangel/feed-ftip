@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 21 Nov 2026 17:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:05:23 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic-Aktie: Wie viel Anthropic steckt in Deinem ETF?</title>
+      <link>https://www.finanztip.de/daily/web/anthropic-aktie-ist-sie-bald-auch-in-deinem-etf/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/anthropic-aktie-ist-sie-bald-auch-in-deinem-etf/</guid>
+      <pubDate>Sun, 22 Nov 2026 06:05:23 GMT</pubDate>
+    </item>
     <item>
       <title>Deine Rente: So findest Du heraus, was Dir später fehlt</title>
       <link>https://www.finanztip.de/daily/deine-rente-so-findest-du-heraus-was-dir-spaeter-fehlt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/wenn-kostenlos-nicht-kostenlos-ist-welche-grenzen-gibt-es-beim-bargeld-abheben/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/wenn-kostenlos-nicht-kostenlos-ist-welche-grenzen-gibt-es-beim-bargeld-abheben/</guid>
       <pubDate>Sun, 25 Oct 2026 13:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Einmalanlage oder Sparplan: Was ist besser?</title>
-      <link>https://www.finanztip.de/daily/web/einmalanlage-sparplan-was-ist-besser/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/einmalanlage-sparplan-was-ist-besser/</guid>
-      <pubDate>Sun, 25 Oct 2026 10:05:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
