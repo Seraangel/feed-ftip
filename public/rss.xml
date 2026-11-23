@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:01:03 GMT</lastBuildDate>
+    <item>
+      <title>Ist der FTSE Global All Cap der bessere Weltindex?</title>
+      <link>https://www.finanztip.de/daily/web/ist-der-ftse-global-all-cap-der-bessere-weltindex/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ist-der-ftse-global-all-cap-der-bessere-weltindex/</guid>
+      <pubDate>Mon, 23 Nov 2026 15:01:03 GMT</pubDate>
+    </item>
     <item>
       <title>Elementarschäden: Versicherungspflicht für Wohngebäude soll kommen</title>
       <link>https://www.finanztip.de/daily/web/elementarschaeden-versicherungspflicht-fuer-wohngebaeude-soll-kommen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/ing-geht-mit-zwei-av-depots-an-den-start-wo-es-punktet-und-wo-eher-nicht/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/ing-geht-mit-zwei-av-depots-an-den-start-wo-es-punktet-und-wo-eher-nicht/</guid>
       <pubDate>Mon, 26 Oct 2026 13:05:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Helvetia zieht AV-Depot-Brücke zurück: Warum Du kein Übergangsprodukt brauchst</title>
-      <link>https://www.finanztip.de/daily/web/vorsicht-vor-brueckenprodukten-nicht-ueberall-wo-av-depot-draufsteht-ist-auch-ein-av-depot-drin/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/vorsicht-vor-brueckenprodukten-nicht-ueberall-wo-av-depot-draufsteht-ist-auch-ein-av-depot-drin/</guid>
-      <pubDate>Mon, 26 Oct 2026 10:05:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
