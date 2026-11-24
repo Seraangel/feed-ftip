@@ -6,7 +6,19 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 24 Nov 2026 08:20:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 17:55:36 GMT</lastBuildDate>
+    <item>
+      <title>1.000 Euro BU-Rente über den Arbeitgeber – reicht das?</title>
+      <link>https://www.finanztip.de/daily/web/1000-euro-bu-rente-ueber-den-arbeitgeber-reicht-das/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/1000-euro-bu-rente-ueber-den-arbeitgeber-reicht-das/</guid>
+      <pubDate>Tue, 24 Nov 2026 17:55:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deine Karte ist kostenlos – der Geldautomat vielleicht nicht</title>
+      <link>https://www.finanztip.de/daily/web/deine-karte-ist-kostenlos-der-geldautomat-vielleicht-nicht/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/deine-karte-ist-kostenlos-der-geldautomat-vielleicht-nicht/</guid>
+      <pubDate>Tue, 24 Nov 2026 17:55:36 GMT</pubDate>
+    </item>
     <item>
       <title>Neue ING-Kreditkarte: Bequem abrechnen – aber zu welchem Preis?</title>
       <link>https://www.finanztip.de/daily/web/neue-ing-kreditkarte-bequem-abrechnen-aber-zu-welchem-preis/</link>
@@ -594,18 +606,6 @@
       <link>https://www.finanztip.de/daily/web/advanzia-tagesgeld-aktion-mit-ueber-vier-prozent-zinsen-endet-am-31-oktober/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/advanzia-tagesgeld-aktion-mit-ueber-vier-prozent-zinsen-endet-am-31-oktober/</guid>
       <pubDate>Wed, 28 Oct 2026 06:35:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Altersvorsorge ab 50: Mit „Finanzen ab 50“ den Ruhestand planen</title>
-      <link>https://www.finanztip.de/daily/web/altersvorsorge-ab-50-mit-finanzen-ab-50-den-ruhestand-planen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/altersvorsorge-ab-50-mit-finanzen-ab-50-den-ruhestand-planen/</guid>
-      <pubDate>Wed, 28 Oct 2026 05:05:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>AV-Depot oder normales ETF-Depot: Was passt zu Dir?</title>
-      <link>https://www.finanztip.de/daily/av-depot-oder-normales-etf-depot-was-passt-zu-dir/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-oder-normales-etf-depot-was-passt-zu-dir/</guid>
-      <pubDate>Tue, 27 Oct 2026 15:35:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
