@@ -6,7 +6,19 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 23 Nov 2026 15:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:05:28 GMT</lastBuildDate>
+    <item>
+      <title>Digitaler Ausweis auf dem Handy: Was Du ab Januar 2027 damit machen kannst</title>
+      <link>https://www.finanztip.de/daily/digitaler-ausweis-auf-dem-handy-was-du-ab-januar-2027-damit-machen-kannst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/digitaler-ausweis-auf-dem-handy-was-du-ab-januar-2027-damit-machen-kannst/</guid>
+      <pubDate>Tue, 24 Nov 2026 05:05:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Weniger Heizkosten: In 5 Schritten erkennst Du, ob Du zu viel zahlst</title>
+      <link>https://www.finanztip.de/daily/web/weniger-heizkosten-in-5-schritten-erkennst-du-ob-du-zu-viel-zahlst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/weniger-heizkosten-in-5-schritten-erkennst-du-ob-du-zu-viel-zahlst/</guid>
+      <pubDate>Tue, 24 Nov 2026 05:05:28 GMT</pubDate>
+    </item>
     <item>
       <title>Ist der FTSE Global All Cap der bessere Weltindex?</title>
       <link>https://www.finanztip.de/daily/web/ist-der-ftse-global-all-cap-der-bessere-weltindex/</link>
@@ -594,18 +606,6 @@
       <link>https://www.finanztip.de/daily/web/av-depot-ist-es-wichtig-wann-genau-du-einzahlst/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-ist-es-wichtig-wann-genau-du-einzahlst/</guid>
       <pubDate>Tue, 27 Oct 2026 05:05:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gaspreise: Grundversorgung plötzlich 400 Euro günstiger – lohnt sich der Wechsel?</title>
-      <link>https://www.finanztip.de/daily/web/gaspreise-grundversorgung-ploetzlich-400-euro-guenstiger-lohnt-sich-der-wechsel/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/gaspreise-grundversorgung-ploetzlich-400-euro-guenstiger-lohnt-sich-der-wechsel/</guid>
-      <pubDate>Mon, 26 Oct 2026 15:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Details zum ING-AV-Depot: Freies Depot punktet, Standarddepot geht günstiger</title>
-      <link>https://www.finanztip.de/daily/web/ing-geht-mit-zwei-av-depots-an-den-start-wo-es-punktet-und-wo-eher-nicht/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ing-geht-mit-zwei-av-depots-an-den-start-wo-es-punktet-und-wo-eher-nicht/</guid>
-      <pubDate>Mon, 26 Oct 2026 13:05:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
