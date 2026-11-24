@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:20:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:20:33 GMT</lastBuildDate>
+    <item>
+      <title>Neue ING-Kreditkarte: Bequem abrechnen – aber zu welchem Preis?</title>
+      <link>https://www.finanztip.de/daily/web/neue-ing-kreditkarte-bequem-abrechnen-aber-zu-welchem-preis/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/neue-ing-kreditkarte-bequem-abrechnen-aber-zu-welchem-preis/</guid>
+      <pubDate>Tue, 24 Nov 2026 08:20:33 GMT</pubDate>
+    </item>
     <item>
       <title>MSCI World: Das Risiko, das Dein ETF nicht abdeckt</title>
       <link>https://www.finanztip.de/daily/web/msci-world-das-risiko-das-dein-etf-nicht-abdeckt/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/av-depot-oder-normales-etf-depot-was-passt-zu-dir/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-oder-normales-etf-depot-was-passt-zu-dir/</guid>
       <pubDate>Tue, 27 Oct 2026 15:35:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heizöl kaufen: Warum sich ein Händlervergleich auch bei Zeitdruck lohnt</title>
-      <link>https://www.finanztip.de/daily/web/heizoel-warum-sich-der-haendlervergleich-selbst-bei-zeitdruck-lohnt/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/heizoel-warum-sich-der-haendlervergleich-selbst-bei-zeitdruck-lohnt/</guid>
-      <pubDate>Tue, 27 Oct 2026 13:05:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
