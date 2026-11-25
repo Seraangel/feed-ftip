@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 25 Nov 2026 06:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:35:43 GMT</lastBuildDate>
+    <item>
+      <title>Black Friday: Neue Kreditregeln fürs spätere Bezahlen</title>
+      <link>https://www.finanztip.de/daily/web/black-friday-neue-kreditregeln-fuers-spaetere-bezahlen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/black-friday-neue-kreditregeln-fuers-spaetere-bezahlen/</guid>
+      <pubDate>Wed, 25 Nov 2026 06:35:43 GMT</pubDate>
+    </item>
     <item>
       <title>Doppelt gegen Pannen abgesichert? So kannst Du Kosten senken</title>
       <link>https://www.finanztip.de/daily/web/doppelt-gegen-pannen-abgesichert-so-kannst-du-kosten-senken/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/warm-durch-den-winter-7-tipps-wie-du-deine-heizkosten-senkst/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/warm-durch-den-winter-7-tipps-wie-du-deine-heizkosten-senkst/</guid>
       <pubDate>Wed, 28 Oct 2026 08:35:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sanierungsfahrplan: Warum er sich trotz weniger Bonus lohnen kann</title>
-      <link>https://www.finanztip.de/daily/web/sanierungsfahrplan-warum-er-sich-trotz-weniger-bonus-lohnen-kann/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/sanierungsfahrplan-warum-er-sich-trotz-weniger-bonus-lohnen-kann/</guid>
-      <pubDate>Wed, 28 Oct 2026 07:05:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
