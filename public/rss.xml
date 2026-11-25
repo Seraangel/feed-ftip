@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 25 Nov 2026 06:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:21:13 GMT</lastBuildDate>
+    <item>
+      <title>Mehrere Depots bei Scalable: Was Du damit machen kannst</title>
+      <link>https://www.finanztip.de/daily/web/mehrere-depots-bei-scalable-was-du-damit-machen-kannst/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/mehrere-depots-bei-scalable-was-du-damit-machen-kannst/</guid>
+      <pubDate>Wed, 25 Nov 2026 14:21:13 GMT</pubDate>
+    </item>
     <item>
       <title>Black Friday: Neue Kreditregeln fürs spätere Bezahlen</title>
       <link>https://www.finanztip.de/daily/web/black-friday-neue-kreditregeln-fuers-spaetere-bezahlen/</link>
@@ -599,12 +605,6 @@
       <title>Kfz-Versicherung checken: Sind für Dich fast 1.500 € mehr drin?</title>
       <link>https://www.finanztip.de/daily/web/kfz-versicherung-checken-sind-fuer-dich-fast-1500-eur-mehr-drin/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/kfz-versicherung-checken-sind-fuer-dich-fast-1500-eur-mehr-drin/</guid>
-      <pubDate>Wed, 28 Oct 2026 08:35:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Warm durch den Winter: 7 Tipps, wie Du Deine Heizkosten senkst</title>
-      <link>https://www.finanztip.de/daily/web/warm-durch-den-winter-7-tipps-wie-du-deine-heizkosten-senkst/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/warm-durch-den-winter-7-tipps-wie-du-deine-heizkosten-senkst/</guid>
       <pubDate>Wed, 28 Oct 2026 08:35:38 GMT</pubDate>
     </item>
   </channel>
