@@ -6,7 +6,19 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 25 Nov 2026 14:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:26:10 GMT</lastBuildDate>
+    <item>
+      <title>AV-Depot: Für wen jetzt mehr drin ist</title>
+      <link>https://www.finanztip.de/daily/av-depot-fuer-wen-jetzt-mehr-drin-ist/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-fuer-wen-jetzt-mehr-drin-ist/</guid>
+      <pubDate>Wed, 25 Nov 2026 16:26:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Black Friday: Achtung vor versehentlich abgeschlossenen Versicherungen</title>
+      <link>https://www.finanztip.de/daily/web/black-friday-achtung-vor-versehentlich-abgeschlossenen-versicherungen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/black-friday-achtung-vor-versehentlich-abgeschlossenen-versicherungen/</guid>
+      <pubDate>Wed, 25 Nov 2026 16:26:10 GMT</pubDate>
+    </item>
     <item>
       <title>Mehrere Depots bei Scalable: Was Du damit machen kannst</title>
       <link>https://www.finanztip.de/daily/web/mehrere-depots-bei-scalable-was-du-damit-machen-kannst/</link>
@@ -594,18 +606,6 @@
       <link>https://www.finanztip.de/daily/web/warum-die-erwerbsminderungsrente-oft-nicht-reicht/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/warum-die-erwerbsminderungsrente-oft-nicht-reicht/</guid>
       <pubDate>Wed, 28 Oct 2026 10:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>“Ich bin 62 Jahre alt: Lohnt sich noch das Altersvorsorgedepot?”</title>
-      <link>https://www.finanztip.de/daily/web/ich-bin-62-jahre-lohnt-sich-noch-das-altersvorsorgedepot/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ich-bin-62-jahre-lohnt-sich-noch-das-altersvorsorgedepot/</guid>
-      <pubDate>Wed, 28 Oct 2026 08:35:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kfz-Versicherung checken: Sind für Dich fast 1.500 € mehr drin?</title>
-      <link>https://www.finanztip.de/daily/web/kfz-versicherung-checken-sind-fuer-dich-fast-1500-eur-mehr-drin/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/kfz-versicherung-checken-sind-fuer-dich-fast-1500-eur-mehr-drin/</guid>
-      <pubDate>Wed, 28 Oct 2026 08:35:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
