@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 24 Nov 2026 17:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:20:47 GMT</lastBuildDate>
+    <item>
+      <title>Doppelt gegen Pannen abgesichert? So kannst Du Kosten senken</title>
+      <link>https://www.finanztip.de/daily/web/doppelt-gegen-pannen-abgesichert-so-kannst-du-kosten-senken/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/doppelt-gegen-pannen-abgesichert-so-kannst-du-kosten-senken/</guid>
+      <pubDate>Wed, 25 Nov 2026 06:20:47 GMT</pubDate>
+    </item>
     <item>
       <title>1.000 Euro BU-Rente über den Arbeitgeber – reicht das?</title>
       <link>https://www.finanztip.de/daily/web/1000-euro-bu-rente-ueber-den-arbeitgeber-reicht-das/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/sanierungsfahrplan-warum-er-sich-trotz-weniger-bonus-lohnen-kann/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/sanierungsfahrplan-warum-er-sich-trotz-weniger-bonus-lohnen-kann/</guid>
       <pubDate>Wed, 28 Oct 2026 07:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Advanzia Tagesgeld: 4,18 % noch bis 31.10. – lohnt sich der Abschluss?</title>
-      <link>https://www.finanztip.de/daily/web/advanzia-tagesgeld-aktion-mit-ueber-vier-prozent-zinsen-endet-am-31-oktober/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/advanzia-tagesgeld-aktion-mit-ueber-vier-prozent-zinsen-endet-am-31-oktober/</guid>
-      <pubDate>Wed, 28 Oct 2026 06:35:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
