@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 26 Nov 2026 09:36:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 11:06:18 GMT</lastBuildDate>
+    <item>
+      <title>Netflix: Werbung akzeptieren, 108 Euro im Jahr sparen</title>
+      <link>https://www.finanztip.de/daily/web/netflix-werbung-akzeptieren-108-euro-im-jahr-sparen/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/netflix-werbung-akzeptieren-108-euro-im-jahr-sparen/</guid>
+      <pubDate>Thu, 26 Nov 2026 11:06:18 GMT</pubDate>
+    </item>
     <item>
       <title>500.000 € im Depot: Wie lange brauchst Du dafür?</title>
       <link>https://www.finanztip.de/daily/500000-eur-im-depot-wie-lange-brauchst-du-dafuer/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/einmalanlage-oder-sparplan-was-ist-besser/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/einmalanlage-oder-sparplan-was-ist-besser/</guid>
       <pubDate>Thu, 29 Oct 2026 14:05:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Unterstützer: Kosten und Features – Was kann ein gutes AV-Depot?</title>
-      <link>https://www.finanztip.de/daily/fuer-unterstuetzer-kosten-und-features-was-kann-ein-gutes-av-depot/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-kosten-und-features-was-kann-ein-gutes-av-depot/</guid>
-      <pubDate>Thu, 29 Oct 2026 11:05:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
