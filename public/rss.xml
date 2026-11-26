@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:36:10 GMT</lastBuildDate>
+    <item>
+      <title>500.000 € im Depot: Wie lange brauchst Du dafür?</title>
+      <link>https://www.finanztip.de/daily/500000-eur-im-depot-wie-lange-brauchst-du-dafuer/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/500000-eur-im-depot-wie-lange-brauchst-du-dafuer/</guid>
+      <pubDate>Thu, 26 Nov 2026 09:36:10 GMT</pubDate>
+    </item>
     <item>
       <title>Freiwillig versichert? AV-Depot kann Beiträge erhöhen</title>
       <link>https://www.finanztip.de/daily/web/freiwillig-versichert-av-depot-kann-beitraege-erhoehen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/fuer-unterstuetzer-kosten-und-features-was-kann-ein-gutes-av-depot/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/fuer-unterstuetzer-kosten-und-features-was-kann-ein-gutes-av-depot/</guid>
       <pubDate>Thu, 29 Oct 2026 11:05:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dein Gehalt steigt. Und Deine BU-Rente?</title>
-      <link>https://www.finanztip.de/daily/web/dein-gehalt-steigt-und-deine-bu-rente/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/dein-gehalt-steigt-und-deine-bu-rente/</guid>
-      <pubDate>Thu, 29 Oct 2026 05:05:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
