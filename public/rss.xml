@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 26 Nov 2026 11:06:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:36:11 GMT</lastBuildDate>
+    <item>
+      <title>Preiserhöhungs-Trick bei Strom und Gas: Wir warnen vor dieser E-Mail</title>
+      <link>https://www.finanztip.de/daily/web/preiserhoehungs-trick-bei-strom-und-gas-wir-warnen-vor-dieser-e-mail/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/preiserhoehungs-trick-bei-strom-und-gas-wir-warnen-vor-dieser-e-mail/</guid>
+      <pubDate>Thu, 26 Nov 2026 15:36:11 GMT</pubDate>
+    </item>
     <item>
       <title>Netflix: Werbung akzeptieren, 108 Euro im Jahr sparen</title>
       <link>https://www.finanztip.de/daily/web/netflix-werbung-akzeptieren-108-euro-im-jahr-sparen/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/kein-strom-mehr-von-grueueuen-und-stromee-ab-1-november-was-betroffene-jetzt-tun-koennen/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/kein-strom-mehr-von-grueueuen-und-stromee-ab-1-november-was-betroffene-jetzt-tun-koennen/</guid>
       <pubDate>Thu, 29 Oct 2026 15:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>ETF-Einstieg: Wann eine Einmalanlage sinnvoller ist als ein Sparplan</title>
-      <link>https://www.finanztip.de/daily/web/einmalanlage-oder-sparplan-was-ist-besser/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/einmalanlage-oder-sparplan-was-ist-besser/</guid>
-      <pubDate>Thu, 29 Oct 2026 14:05:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
