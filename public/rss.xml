@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:36:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:06:04 GMT</lastBuildDate>
+    <item>
+      <title>Scalable Capital: Jetzt bis zu drei Depots unter einem einzigen Login</title>
+      <link>https://www.finanztip.de/daily/web/scalable-capital-jetzt-bis-zu-drei-depots-unter-einem-einzigen-login/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/scalable-capital-jetzt-bis-zu-drei-depots-unter-einem-einzigen-login/</guid>
+      <pubDate>Fri, 27 Nov 2026 07:06:04 GMT</pubDate>
+    </item>
     <item>
       <title>So lange brauchst Du für eine halbe Million im Depot</title>
       <link>https://www.finanztip.de/daily/web/so-lange-brauchst-du-fuer-eine-halbe-million-im-depot/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/schockwelle-bei-immobilienfonds-trenn-dich-jetzt-davon/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/schockwelle-bei-immobilienfonds-trenn-dich-jetzt-davon/</guid>
       <pubDate>Fri, 30 Oct 2026 10:15:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Advanzia verlängert Tagesgeld-Aktion: 4,18 Prozent noch bis Ende November</title>
-      <link>https://www.finanztip.de/daily/web/advanzia-verlaengert-tagesgeld-aktion-418-prozent-noch-bis-ende-november/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/advanzia-verlaengert-tagesgeld-aktion-418-prozent-noch-bis-ende-november/</guid>
-      <pubDate>Fri, 30 Oct 2026 09:05:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
