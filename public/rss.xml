@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:21:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:36:11 GMT</lastBuildDate>
+    <item>
+      <title>So lange brauchst Du für eine halbe Million im Depot</title>
+      <link>https://www.finanztip.de/daily/web/so-lange-brauchst-du-fuer-eine-halbe-million-im-depot/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/so-lange-brauchst-du-fuer-eine-halbe-million-im-depot/</guid>
+      <pubDate>Fri, 27 Nov 2026 06:36:11 GMT</pubDate>
+    </item>
     <item>
       <title>AV-Depot: Der Preiskampf geht in die zweite Runde</title>
       <link>https://www.finanztip.de/daily/web/av-depot-der-preiskampf-geht-in-die-zweite-runde/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/advanzia-verlaengert-tagesgeld-aktion-418-prozent-noch-bis-ende-november/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/advanzia-verlaengert-tagesgeld-aktion-418-prozent-noch-bis-ende-november/</guid>
       <pubDate>Fri, 30 Oct 2026 09:05:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gleiche Heizölmenge, bis zu 1.151 € Preisunterschied: Vergleiche die Händler</title>
-      <link>https://www.finanztip.de/daily/web/gleiche-heizoelmenge-bis-zu-1151-eur-preisunterschied-vergleiche-die-haendler/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/gleiche-heizoelmenge-bis-zu-1151-eur-preisunterschied-vergleiche-die-haendler/</guid>
-      <pubDate>Fri, 30 Oct 2026 05:05:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
