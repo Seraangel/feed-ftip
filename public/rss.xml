@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 27 Nov 2026 08:06:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:16:09 GMT</lastBuildDate>
+    <item>
+      <title>Update zum Finanztip-Depotvergleich: Smartbroker+ zieht (fast) gleich</title>
+      <link>https://www.finanztip.de/daily/das-passiert-bei-finanztip-nachtrag-zum-depot-test/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/das-passiert-bei-finanztip-nachtrag-zum-depot-test/</guid>
+      <pubDate>Fri, 27 Nov 2026 08:16:09 GMT</pubDate>
+    </item>
     <item>
       <title>ING führt neue "echte" Kreditkarte ein – kostenlos ist sie nicht</title>
       <link>https://www.finanztip.de/daily/web/ing-fuehrt-neue-echte-kreditkarte-ein-kostenlos-ist-sie-nicht/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/av-depot-ist-es-wichtig-wann-du-einzahlst/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-ist-es-wichtig-wann-du-einzahlst/</guid>
       <pubDate>Fri, 30 Oct 2026 22:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nebenkosten prüfen: Was kann der KI-Check?</title>
-      <link>https://www.finanztip.de/daily/web/nebenkosten-pruefen-was-kann-der-ki-check/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/nebenkosten-pruefen-was-kann-der-ki-check/</guid>
-      <pubDate>Fri, 30 Oct 2026 13:05:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
