@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:36:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:21:08 GMT</lastBuildDate>
+    <item>
+      <title>AV-Depot: Der Preiskampf geht in die zweite Runde</title>
+      <link>https://www.finanztip.de/daily/web/av-depot-der-preiskampf-geht-in-die-zweite-runde/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/av-depot-der-preiskampf-geht-in-die-zweite-runde/</guid>
+      <pubDate>Fri, 27 Nov 2026 06:21:08 GMT</pubDate>
+    </item>
     <item>
       <title>Preiserhöhungs-Trick bei Strom und Gas: Wir warnen vor dieser E-Mail</title>
       <link>https://www.finanztip.de/daily/web/preiserhoehungs-trick-bei-strom-und-gas-wir-warnen-vor-dieser-e-mail/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/gleiche-heizoelmenge-bis-zu-1151-eur-preisunterschied-vergleiche-die-haendler/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/gleiche-heizoelmenge-bis-zu-1151-eur-preisunterschied-vergleiche-die-haendler/</guid>
       <pubDate>Fri, 30 Oct 2026 05:05:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kein Strom mehr von Grüüün und Stromee ab 1. November? Was Betroffene tun können</title>
-      <link>https://www.finanztip.de/daily/web/kein-strom-mehr-von-grueueuen-und-stromee-ab-1-november-was-betroffene-jetzt-tun-koennen/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/kein-strom-mehr-von-grueueuen-und-stromee-ab-1-november-was-betroffene-jetzt-tun-koennen/</guid>
-      <pubDate>Thu, 29 Oct 2026 15:30:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
