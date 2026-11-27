@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 27 Nov 2026 07:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:06:06 GMT</lastBuildDate>
+    <item>
+      <title>ING führt neue "echte" Kreditkarte ein – kostenlos ist sie nicht</title>
+      <link>https://www.finanztip.de/daily/web/ing-fuehrt-neue-echte-kreditkarte-ein-kostenlos-ist-sie-nicht/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/ing-fuehrt-neue-echte-kreditkarte-ein-kostenlos-ist-sie-nicht/</guid>
+      <pubDate>Fri, 27 Nov 2026 08:06:06 GMT</pubDate>
+    </item>
     <item>
       <title>Scalable Capital: Jetzt bis zu drei Depots unter einem einzigen Login</title>
       <link>https://www.finanztip.de/daily/web/scalable-capital-jetzt-bis-zu-drei-depots-unter-einem-einzigen-login/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/nebenkosten-pruefen-was-kann-der-ki-check/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/nebenkosten-pruefen-was-kann-der-ki-check/</guid>
       <pubDate>Fri, 30 Oct 2026 13:05:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schockwelle bei Immobilienfonds: Trenn Dich davon</title>
-      <link>https://www.finanztip.de/daily/schockwelle-bei-immobilienfonds-trenn-dich-jetzt-davon/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/schockwelle-bei-immobilienfonds-trenn-dich-jetzt-davon/</guid>
-      <pubDate>Fri, 30 Oct 2026 10:15:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
