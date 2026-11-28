@@ -6,7 +6,19 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 28 Nov 2026 07:06:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:01:21 GMT</lastBuildDate>
+    <item>
+      <title>Mit diesen Leistungen schützt die Wohngebäudeversicherung Dein Haus wirklich</title>
+      <link>https://www.finanztip.de/daily/web/mit-diesen-leistungen-schuetzt-die-wohngebaeudeversicherung-dein-haus-wirklich/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/mit-diesen-leistungen-schuetzt-die-wohngebaeudeversicherung-dein-haus-wirklich/</guid>
+      <pubDate>Sat, 28 Nov 2026 12:01:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zahnersatz wird 2027 teurer: Mit diesen neun Tipps sparst Du</title>
+      <link>https://www.finanztip.de/daily/web/zahnersatz-wird-2027-teurer-mit-diesen-neun-tipps-sparst-du/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/zahnersatz-wird-2027-teurer-mit-diesen-neun-tipps-sparst-du/</guid>
+      <pubDate>Sat, 28 Nov 2026 12:01:21 GMT</pubDate>
+    </item>
     <item>
       <title>TK, DAK, firmus: Diese Krankenkassen wollen 2027 nicht teurer werden</title>
       <link>https://www.finanztip.de/daily/web/tk-dak-firmus-diese-krankenkassen-wollen-2027-nicht-teurer-werden/</link>
@@ -594,18 +606,6 @@
       <link>https://www.finanztip.de/daily/web/heizoel-kaufen-zeitdruck-kann-teuer-werden/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/heizoel-kaufen-zeitdruck-kann-teuer-werden/</guid>
       <pubDate>Sun, 01 Nov 2026 06:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neue Wärmepumpe? Ab diesem Verbrauch lohnt sich ein zweiter Stromzähler</title>
-      <link>https://www.finanztip.de/daily/web/neue-waermepumpe-ab-diesem-verbrauch-lohnt-sich-ein-zweiter-stromzaehler/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/neue-waermepumpe-ab-diesem-verbrauch-lohnt-sich-ein-zweiter-stromzaehler/</guid>
-      <pubDate>Sat, 31 Oct 2026 13:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Altersvorsorgedepot für 0 €: Was haben die Anbieter davon?</title>
-      <link>https://www.finanztip.de/daily/web/altersvorsorgedepot-fuer-0-euro-was-haben-die-anbieter-davon/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/web/altersvorsorgedepot-fuer-0-euro-was-haben-die-anbieter-davon/</guid>
-      <pubDate>Sat, 31 Oct 2026 06:05:40 GMT</pubDate>
     </item>
   </channel>
 </rss>
