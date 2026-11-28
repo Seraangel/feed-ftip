@@ -6,7 +6,13 @@
     <atom:link href="https://seraangel.github.io/feed-ftip/rss.xml" rel="self" type="application/rss+xml" />
     <description>Aktuelle Daily-Artikel von Finanztip.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 27 Nov 2026 08:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:06:08 GMT</lastBuildDate>
+    <item>
+      <title>ING: 200 Euro fürs neue Konto – lohnt sich der Wechsel?</title>
+      <link>https://www.finanztip.de/daily/web/200-euro-fuers-neue-konto-lohnt-sich-der-wechsel/</link>
+      <guid isPermaLink="true">https://www.finanztip.de/daily/web/200-euro-fuers-neue-konto-lohnt-sich-der-wechsel/</guid>
+      <pubDate>Sat, 28 Nov 2026 06:06:08 GMT</pubDate>
+    </item>
     <item>
       <title>Update zum Finanztip-Depotvergleich: Smartbroker+ zieht (fast) gleich</title>
       <link>https://www.finanztip.de/daily/das-passiert-bei-finanztip-nachtrag-zum-depot-test/</link>
@@ -600,12 +606,6 @@
       <link>https://www.finanztip.de/daily/web/altersvorsorgedepot-diese-arten-von-depots-gibt-es-ab-2027/</link>
       <guid isPermaLink="true">https://www.finanztip.de/daily/web/altersvorsorgedepot-diese-arten-von-depots-gibt-es-ab-2027/</guid>
       <pubDate>Sat, 31 Oct 2026 05:05:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>AV-Depot: Ist es wichtig, wann Du einzahlst?</title>
-      <link>https://www.finanztip.de/daily/av-depot-ist-es-wichtig-wann-du-einzahlst/</link>
-      <guid isPermaLink="true">https://www.finanztip.de/daily/av-depot-ist-es-wichtig-wann-du-einzahlst/</guid>
-      <pubDate>Fri, 30 Oct 2026 22:00:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
